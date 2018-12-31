@@ -12,6 +12,8 @@
 * 1/2 tablespoon plain flour
 * 2 large tomatoes
 * 1/2 teaspoon black pepper
+* 1 teaspoon salt
+* Chilli (seeds or fresh) to your liking
 * 1.0 fuck-tons of paprika
 * More water than you might think
 
