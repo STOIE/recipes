@@ -15,6 +15,9 @@
 * 1.0 fuck-tons of paprika
 * More water than you might think
 
+
+#### Method
+
 1. Cook onion with olive oil, then add meat and tomato, chilli, pepper, salt.
 1. In another pan cook garlic with butter, then add spetz, cook on low heat with water until spetz is soft but dont burn the butter.
 1. In the end of cooking the meat, put in the flours mixed with water.
