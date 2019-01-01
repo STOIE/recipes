@@ -8,6 +8,11 @@
 * 1/4 teaspoon of salt
 
 
+#### Notes on Yoghurt
+
+When selecting yoghurt, you can select a thicker yoghurt than the cosistency desired provided the yoghurt is not sweet, this is fine. You can then add water (and/or milk) to the yoghurt mixing through to achieve the desired consistency.
+
+
 #### Method
 
 1. Wash the cucumber and grate finely with a grater.
