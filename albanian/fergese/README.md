@@ -1,7 +1,7 @@
 #### Ingredients
 
-* 500 grams cheese curd
-* 300 grams beef meat (or without as you please)
+* 500 grams of cheese curd
+* 300 grams of diced beef meat (or without as you please)
 * 1 large onion diced fine
 * 1-1.5 whole garlics (full size) diced fine
 * 6 red banana chillies cut into small-medium sized chunks
