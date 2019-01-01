@@ -37,4 +37,3 @@
 1. Once mixed, place the mixture into small ceramic pots about 2/3 full and add a light drizzle of olive oil to the top of each pot.
 1. Place into a cold oven, turned onto 180 deg C and cook until bubbling and starting to brown ontop.
 1. Remove from the oven and serve immediately (it will be very hot, but enjoyed best when hot).
-1. Cook without burning the top and not drying out, but browned slightly on top and boiling.
