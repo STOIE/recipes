@@ -8,7 +8,7 @@
 * 2 green banana chillies cut into small-medium sized chunks
 * 4 tablespoons butter
 * 8 tablespoons of olive oil
-* 1 tablespoons corn flour
+* 1 tablespoon corn flour
 * 1/2 tablespoon plain flour
 * 2 large tomatoes
 * 1/2 teaspoon black pepper
@@ -32,7 +32,7 @@
 1. While the banana chillies are cooking, mix the corn and plain flour mix into a 1/3 of a cup of water until no lumps remain.
 1. Add the flour mix into the bowl we cooked earlier (with the tomatoes +meat) and mix through.
 1. Once the banana chillies are softened (not mush) turn the heat down to very low.
-1. Then combine the tomato +meat mix cooked earlier into the panand mix it through.
+1. Then combine the tomato +meat mix cooked earlier into the pan and mix it through.
 1. Now add the curd and mix throughly.
 1. Once mixed, place the mixture into small ceramic pots about 2/3 full and add a light drizzle of olive oil to the top of each pot.
 1. Place into a cold oven, turned onto 180 deg C and cook until bubbling and starting to brown ontop.
