@@ -13,5 +13,6 @@ This is a simple repository of recipes I enjoy.
 ### Rando
 * [Rando](rando/).
   * [Tandoori Chicken](rando/tandoori_chicken/).
+  * [Tzatziki](rando/tzatziki/).
 
 * Other Links [here](./links.md)
