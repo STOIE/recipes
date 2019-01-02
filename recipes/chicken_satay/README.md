@@ -55,3 +55,5 @@
 1. Remove the chicken from the pan into the other sauce.
 1. Place the dirty pan back on the high-heat and add the remaining 2 tablespoons of oil and onion cooking the onion lightly.
 1. Then, combine the onion into the sauce, remove everything from heat and lightly stir the onion through.
+
+Note: for a less creamy and sharper sauce, add only a 1/3 cup of coconut milk, more chilli, double the initial oil and another 2/3 cup of water
