@@ -47,10 +47,11 @@
 #### Method
 
 1. Lightly blend the peanuts to break them up.
-1. In a hot pan add 4 tablespoons of oil with the garlic, chilli seeds and lightly fry without over-cooking.
+1. In a hot large-deep-pan add 4 tablespoons of oil with the garlic, chilli seeds and lightly fry without over-cooking.
 1. Then add the peanuts and brown sugar - heating quickly before adding the fish sauce, soy sauce and tamarid paste and then immediately after the coconut milk and water.
 1. Turn to low heat and keep cooking slowly.
-1. In another pan from cold add the remaining 4 tablespoons of oil and the curry powder disolving the curry powder into the oil.
+1. In another shallow-pan from cold add the remaining 4 tablespoons of oil and the curry powder disolving the curry powder into the oil.
 1. Then add the chicken mixing well coating it in the curry powder paste and cook until cooked through.
-1. Add in the onion (while on high heat) and cook lightly.
-1. Once cooked, combine the chicken and onion into the previous sauce and continue to simmer for a few minutes.
+1. Remove the chicken from the pan into the other sauce.
+1. Place the dirty pan back on the high-heat and add the onion  and cook lightly.
+1. The, combine the onion into the sauce, remove from heat and lightly stir the onion through.
