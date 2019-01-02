@@ -17,7 +17,7 @@
 * 1 teaspoon pesto
 * salt to taste
 
-###### Optional:
+##### Optional:
 * 2 carrots cut into 5 mm cubes
 * 1 cup mushrooms cut into slices
 
