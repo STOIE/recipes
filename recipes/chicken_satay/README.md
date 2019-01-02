@@ -32,7 +32,8 @@
 #### Ingredients
 
 * 1 cup fresh-tasting dry roasted peanuts (if unsalted add 1 teaspoon of salt to the recipe else skip it)
-* 2/3 cup water
+* 1 cup water
+* 1-1/3 cup coconut milk
 * 4 cloves garlic (minced)
 * 1 large onion sliced into big wedges
 * 1 tablespoon soy sauce
@@ -42,7 +43,6 @@
 * 1/2 teaspoon tamarind paste (or 2 tablespoons lime juice)
 * 1 teaspoon of dry chilli seeds
 * 1 teaspoon of curry powder
-* 1 cup coconut milk
 
 #### Method
 
@@ -52,10 +52,10 @@
 1. Turn to low-heat and let simmer slowly with the lid off reducing.
 1. In another (from cold) shallow-pan add another 4 tablespoons of oil and the curry powder disolving the curry powder into the oil.
 1. Then add the chicken mixing well coating it in the curry powder paste and cook until cooked through.
-1. Remove the chicken from the pan into the other sauce and let it continue to simmer for 10 minutes, turn off the now empty pan, but don't clean it.
-1. If it ever becomes too reduced and thick for your liking, add back more water.
-1. After 10 minutes wait, place the dirty pan back onto high-heat and add the remaining 2 tablespoons of oil and onion cooking the onion lightly.
+1. Remove the chicken from the pan into the other sauce and let it continue to simmer for 10 minutesand quickly clean the empty pan.
+1. If the sauce ever becomes too reduced and thick for your liking, add back more water.
+1. After 10 minutes wait, place the clean pan back onto high-heat and add the remaining 2 tablespoons of oil and onion, cooking the onion lightly.
 1. Then, combine the onion into the sauce, remove everything from heat and lightly stir the onion through.
 1. Serve immediately with rice.
 
-Note: for a less creamy and sharper sauce, add only a 1/3 cup of coconut milk, more chilli, double the initial oil and another 2/3 cup of water
+Note: if you would like a more soup like curry, use total 2 cups of coconut milk, a total 2 cups of water and double the garlic and soy sauce.
