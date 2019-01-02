@@ -2,6 +2,7 @@
 This is a simple repository of recipes I enjoy:
 
 - [Butter Chicken (Murgh Makhani)](recipes/murgh_makhani/).
+- [Sea, Bird and Veg - Chilli Pot](recipes/sea_bird_veg_chilli_pot/).
 - [Chicken Satay](recipes/chicken_satay/).
 - [Fergese](recipes/fergese/).
 - [Tandoori Chicken](recipes/tandoori_chicken/).
