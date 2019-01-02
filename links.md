@@ -3,3 +3,4 @@
 1. [Miso Soup](https://www.thespruceeats.com/vegetable-miso-soup-recipe-3378025)
 1. [Kenchinjiru Soup](https://www.yummly.com/recipe/Japanese-Vegetable-Soup-_Kenchinjiru_-2583525)
 1. [Mac and Cheese](https://www.gimmesomeoven.com/best-stovetop-mac-cheese/)
+1. [Chicken and Cashew Nuts](http://adamliaw.com/recipe/chicken-with-cashew-nuts/)
