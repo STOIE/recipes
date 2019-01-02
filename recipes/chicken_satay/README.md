@@ -27,7 +27,7 @@
 1. Present hot on the lettuce leaves.
 
 
-# take 2
+# Curry
 
 #### Ingredients
 
