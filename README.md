@@ -1,6 +1,8 @@
 # Recipes
 This is a simple repository of recipes I enjoy.
 
+* [Chicken Satay](recipes/chicken_satay/).
+
 ### Albanian
 * [Albanian](albanian/).
   * [Fergese](albanian/fergese/).
