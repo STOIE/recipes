@@ -1,12 +1,13 @@
 # Recipes
 This is a simple repository of recipes I enjoy:
 
-- [Butter Chicken (Murgh Makhani)](curry/murgh_makhani/).
+- [Butter Chicken (Murgh Makhani)](recipes/murgh_makhani/).
 - [Chicken Satay](recipes/chicken_satay/).
-- [Fergese](albanian/fergese/).
-- [Tandoori Chicken](rando/tandoori_chicken/).
-- [Tzatziki](rando/tzatziki/).
-- [Vindaloo](curry/vindaloo/).
+- [Fergese](recipes/fergese/).
+- [Tandoori Chicken](recipes/tandoori_chicken/).
+- [Thai Red Curry](recipes/thai_red_curry/).
+- [Tzatziki](recipes/tzatziki/).
+- [Vindaloo](recipes/vindaloo/).
 
 
 - Other Links [here](./links.md)
