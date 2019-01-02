@@ -20,6 +20,8 @@
 ##### Optional:
 * 2 carrots cut into 5 mm cubes
 * 1 cup mushrooms cut into slices
+* 5-10 sun-dried tomatoes
+* 5-10 artichoke pieces
 
 
 #### Method
