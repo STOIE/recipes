@@ -42,7 +42,7 @@
 * 1/2 teaspoon tamarind paste (or 2 tablespoons lime juice)
 * 1 teaspoon of dry chilli seeds
 * 1 teaspoon of curry powder
-* 2/3 cup coconut milk
+* 1 cup coconut milk
 
 #### Method
 
