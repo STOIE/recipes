@@ -31,7 +31,7 @@
 
 #### Ingredients
 
-* 1 cup fresh-tasting dry roasted peanuts (unsalted)
+* 1 cup fresh-tasting dry roasted peanuts (if unsalted add 1 teaspoon of salt to the recipe else skip it)
 * 2/3 cup water
 * 4 cloves garlic (minced)
 * 1 large onion sliced into big wedges
@@ -53,6 +53,7 @@
 1. In another (from cold) shallow-pan add another 4 tablespoons of oil and the curry powder disolving the curry powder into the oil.
 1. Then add the chicken mixing well coating it in the curry powder paste and cook until cooked through.
 1. Remove the chicken from the pan into the other sauce and let it continue to simmer for 10 minutes, turn off the now empty pan, but don't clean it.
+1. If it ever becomes too reduced and thick for your liking, add back more water.
 1. After 10 minutes wait, place the dirty pan back onto high-heat and add the remaining 2 tablespoons of oil and onion cooking the onion lightly.
 1. Then, combine the onion into the sauce, remove everything from heat and lightly stir the onion through.
 1. Serve immediately with rice.
