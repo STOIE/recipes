@@ -21,3 +21,8 @@ This is a simple repository of recipes I enjoy:
 ### Bread
 
 - [Banh Mi Rolls](bread/banh_mi_rolls/).
+
+
+# Cooking Related
+
+- [Japanese Knives](https://www.mtckitchen.com/knife-styles/)
