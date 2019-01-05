@@ -14,7 +14,6 @@ This is a simple repository of recipes I enjoy:
 - [Tandoori Chicken](recipes/tandoori_chicken/).
 - [Thai Red Curry](recipes/thai_red_curry/).
 - [Tzatziki](recipes/tzatziki/).
-- [Vindaloo](recipes/vindaloo/).
 
 
 - Other Links [here](./links.md)
