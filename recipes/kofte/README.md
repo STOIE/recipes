@@ -5,7 +5,7 @@
 #### Ingredients
 
 * 1 kilogram ground beef
-* 1 small onion diced very fine
+* 1 large onion diced very fine
 * 8 cloves garlic
 * 2 teaspoon salt
 * 1/2 teaspoon mustard powder
