@@ -6,15 +6,18 @@
 
 * 1 kilogram ground beef
 * 1 large onion diced very fine
-* 8 cloves garlic very fine
+* 4 cloves garlic very fine
 * 2 teaspoons salt
 * 1/2 teaspoon mustard powder
 * 1 teaspoon white pepper
-* 2 teaspoons oregano
+* 1 teaspoons oregano
 * 4 tablespoons ketchup
 * 2 tablespoons olive oil
-* 2 egg
+* 2 eggs
 * 2-1/2 cups bread crumbs
+* 2 tablespoons mayonnaise
+* 1 tablespoon oyster sauce
+* 1/2 teaspoon baking soda
 
 
 #### Method
