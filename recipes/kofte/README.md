@@ -7,7 +7,7 @@
 * 1 kilogram ground beef
 * 1 large onion diced very fine
 * 8 cloves garlic very fine
-* 2 teaspoon salt
+* 2 teaspoons salt
 * 1/2 teaspoon mustard powder
 * 1 teaspoon white pepper
 * 2 teaspoons oregano
