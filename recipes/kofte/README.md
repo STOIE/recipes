@@ -6,14 +6,12 @@
 
 * 1 kilogram ground beef
 * 1 small onion diced very fine
-
-Double
-* 4 cloves garlic
-* 1 teaspoon salt
-* 1/4 teaspoon mustard powder
-* 1/2 teaspoon white pepper
-* 1 teaspoon oregano
-* 2 tablespoons ketchup
-* 1 tablespoon olive oil
-* 1 egg
-* 1-1/4 cups bread crumbs
+* 8 cloves garlic
+* 2 teaspoon salt
+* 1/2 teaspoon mustard powder
+* 1 teaspoon white pepper
+* 2 teaspoons oregano
+* 4 tablespoons ketchup
+* 2 tablespoons olive oil
+* 2 egg
+* 2-1/2 cups bread crumbs
