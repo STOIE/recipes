@@ -19,10 +19,10 @@
 
 #### Method
 
-Mix all the ingredients thoroughly together in a large mixing bowl.
-Make the kofte rolled into a sausage shape as desired.
-Then, heat a large shallow pan filled 6-8mm deep with sunflower oil.
-Try a small test ball to get the temperate of the oil correct, it should be a slow simmering/boil around the beef.
-Add the kofte to the pan and adjust the heat as necessary to keep the same cooking temperature (not spattering everywhere, nor doing nothing).
-Keep turning as needed and remove when cooked to a plate with paper towel to soak up excess oil.
-Serve hot with something like [Tzatziki](../tzatziki/).
+* Mix all the ingredients thoroughly together in a large mixing bowl.
+* Make the kofte rolled into a sausage shape as desired.
+* Then, heat a large shallow pan filled 6-8mm deep with sunflower oil.
+* Try a small test ball to get the temperate of the oil correct, it should be a slow simmering/boil around the beef.
+* Add the kofte to the pan and adjust the heat as necessary to keep the same cooking temperature (not spattering everywhere, nor doing nothing).
+* Keep turning as needed and remove when cooked to a plate with paper towel to soak up excess oil.
+* Serve hot with something like [Tzatziki](../tzatziki/).
