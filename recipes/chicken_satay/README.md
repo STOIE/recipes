@@ -31,6 +31,7 @@
 
 #### Ingredients
 
+* 2 chicken breasts (1-double), cut into 1/2 thick squares approx 1 inches long x wide
 * 1 cup fresh-tasting dry roasted peanuts (if unsalted add 1 teaspoon of salt to the recipe else skip it)
 * 1 cup water
 * 1-1/3 cup coconut milk
