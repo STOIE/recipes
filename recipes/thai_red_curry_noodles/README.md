@@ -7,7 +7,7 @@
 * 2-6 teaspoons thai red curry paste (depending on richness of the paste, generally 4)
 * 400ml of coconut milk
 * 2 chicken breasts cut into small coin shaped/4x4cm pieces (1 double)
-* 1/3 cup water
+* 1-1/2 cups water
 * 200 grams egg noodles
 * 1 teaspoon salt
 * 1/2 teaspoon chilli flakes
@@ -18,6 +18,6 @@
 1. Them add the chilli, then soon after the garlic and ginger, cooking quickly to not burn.
 1. Add the curry paste and water, mixing it through evenly.
 1. Then add the chicken and cook until half-cooked through.
-1. Once at this point, add the coconut milk and let simmer on low-medium heat for 5 minutes with the lid on the pan.
+1. Once at this point, add the coconut milk, water and let simmer on low-medium heat for 5 minutes with the lid on the pan.
 1. Next add the noodles, salt to taste and let simmer for a further 5 minutes, still with the lid on.
 1. Serve hot with rice.
