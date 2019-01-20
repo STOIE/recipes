@@ -4,7 +4,7 @@
 * 1 large brown onion diced fine
 * 3 large garlic cloves diced fine
 * 2 tablespoons (equiv.) sharded fresh ginger
-* 2-6 tablespoons thai red curry paste (depending on richness of the paste, generally 4)
+* 2-6 teaspoons thai red curry paste (depending on richness of the paste, generally 4)
 * 400ml of coconut milk
 * 2 chicken breasts cut into small coin shaped/4x4cm pieces (1 double)
 * 1/3 cup water
