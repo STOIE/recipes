@@ -1,7 +1,7 @@
 #### Ingredients
 
 * 3 tablespoons vegtable oil
-* 1 large brown onion
+* 1 large brown onion diced fine
 * 3 large garlic cloves diced fine
 * 2 tablespoons (equiv.) sharded fresh ginger
 * 2-6 tablespoons thai red curry paste (depending on richness of the paste, generally 4)
