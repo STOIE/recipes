@@ -1,23 +1,23 @@
-#### Utensils
+### Utensils
 
 * 4 large mixing bowls
 * Deep fryer (or deep pot)
 
 
-#### Ingredients
+### Ingredients
 
-##### Initial rub
+#### Initial rub
 
 * 8 pieces of chicken (generally 4 drumsticks and 4 full-thighs)
 * 1/2 tablespoon fine table salt
 
 
-##### First coating: Dry
+#### First coating: Dry
 
 * 1 cup plain flour
 
 
-##### Second coating: Batter
+#### Second coating: Batter
 
 * 3 eggs
 * 350ml soda water
@@ -25,7 +25,7 @@
 * 1 cup plain flour
 
 
-##### Third coating: Seasoning
+#### Third coating: Seasoning
 
 * 3 cups plain flour
 * 1/2 tablespoon ground thyme
@@ -41,9 +41,9 @@
 * 1 tablespoon black pepper
 
 
-#### Method
+### Method
 
-##### Preparation
+#### Preparation
 
 1. In one large bowl, add all the ingredients listed in "initial rub" (8 pieces of chicken and 1/2 tablespoon of fine table salt).
 1. Mix thoroughly to coat all surfaces of the chicken evenly with the salt and then place the bowl to the side.
@@ -52,7 +52,7 @@
 1. Beat together the ingredients of the batter thoroughly and then place it to the side.
 1. In the fourth large bowl, add all the ingredients listed for the "third coating" and then mix together thoroughly, then place to the side.
 
-##### Cooking
+#### Cooking
 
 1. Begin heating the fryer with vegetable oil (to confirm that the oil is hot enough, insert a wooden skewer or wooden shopstick into the oil, it should bubble up and sizzle around the wood, if it doesn't then the oil is not yet hot enough yet).
 1. While the oil is heating, prepare the chicken pieces, one at a time.
