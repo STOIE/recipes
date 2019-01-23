@@ -30,7 +30,7 @@
 * 3 cups plain flour
 * 1/2 tablespoon ground thyme
 * 1/2 tablespoon dry mustard
-* 1/4 teaspoon dry basil
+* 1/4 teaspoon powdered basil
 * 2 tablespoons sweet paprika
 * 2 tablespoons white pepper
 * 1/2 tablespoon ground ginger
