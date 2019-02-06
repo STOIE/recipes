@@ -15,6 +15,7 @@ This is a simple repository of recipes I enjoy:
 - [McDonalds - Big Mac](recipes/mcdonalds_big_mac/).
 - [Pizza Dough](recipes/pizza_dough/).
 - [Sea, Bird and Veg - Chilli Pot](recipes/sea_bird_veg_chilli_pot/).
+- [Sweet Pickle Relish](recipes/sweet_pickle_relish/).
 - [Tandoori Chicken](recipes/tandoori_chicken/).
 - [Thai Red Curry](recipes/thai_red_curry/).
 - [Tzatziki](recipes/tzatziki/).
