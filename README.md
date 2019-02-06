@@ -1,8 +1,8 @@
 # Recipes
 This is a simple repository of recipes I enjoy:
 
-- [BBQ Pork Buns](recipes/bbq_pork_buns/).
 - [Banh Mi Rolls](bread/banh_mi_rolls/).
+- [BBQ Pork Buns](recipes/bbq_pork_buns/).
 - [Butter Chicken (Murgh Makhani)](recipes/butter_chicken/).
 - [Chicken Satay](recipes/chicken_satay/).
 - [Chicken with Cashew Nuts](recipes/chicken_with_cashew_nuts/).
