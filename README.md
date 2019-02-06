@@ -1,8 +1,6 @@
 # Recipes
 This is a simple repository of recipes I enjoy:
 
-### Meals
-
 - [BBQ Pork Buns](recipes/bbq_pork_buns/).
 - [Banh Mi Rolls](bread/banh_mi_rolls/).
 - [Butter Chicken (Murgh Makhani)](recipes/butter_chicken/).
