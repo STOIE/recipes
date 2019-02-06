@@ -15,7 +15,7 @@
 ### Instructions
 
 1. Slice the cucumber lengthwise and remove the seeds with a spoon. Discard the seeds.
-1. Finely dice the cucumber and onion. **I use my food processor, being careful not to process too long.
+1. Finely dice the cucumber and onion.
 1. Place diced cucumbers and onions in a non-reactive pot and add the salt. Stir and let sit for 2 hours.
 1. Drain cucumber and onion mixture in a strainer until all the liquid is removed. You may have to press the mixture against the strainer to remove hidden moisture.
 1. In a medium pot add vinegar, sugar, garlic, dill, celery, and mustard seed, and tumeric. Bring to a boil.
