@@ -1,10 +1,10 @@
 ### Ingredients
 
-200ml water
-2-1/2 cups plain flour
-1 tablespoon olive oil
-1 teaspoon salt
-1-3/4 teaspoons dry yeast
+* 200ml water
+* 2-1/2 cups plain flour
+* 1 tablespoon olive oil
+* 1 teaspoon salt
+* 1-3/4 teaspoons dry yeast
 
 
 ### Method
