@@ -8,6 +8,7 @@ This is a simple repository of recipes I enjoy:
 - [Chicken with Cashew Nuts](recipes/chicken_with_cashew_nuts/).
 - [Chinese BBQ Pork](recipes/chinese_bbq_pork/).
 - [Fergese](recipes/fergese/).
+- [Honey Glazed Ham](recipes/honey_glazed_ham/).
 - [KFC Chicken](recipes/kfc_chicken/).
 - [Kofte](recipes/kofte/).
 - [Mac and Cheese](recipes/mac_and_cheese/).
