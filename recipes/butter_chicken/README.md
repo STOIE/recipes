@@ -4,7 +4,7 @@ This is the recipe to the simple classic butter chicken we all know and love.
 ---
 ### Requirements
 * **Tandoori Chicken** (Whole, pre-cooked - then boned)
-* **Ripe Dark Red Tomatoes** (Four huge, diced)
+* **Ripe Dark Red Tomatoes** (Four HUGE, diced)
 * **Butter** (Seven BIG Tablespoons)
 * **Fresh Cream** (One Cup)
 * **Honey** (One Tablespoon)
