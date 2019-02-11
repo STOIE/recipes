@@ -35,7 +35,7 @@
 * 1 tablespoon smokey bbq sauce
 
 
-# Method
+### Method
 
 1. Add all ingredients to a small mixing bowl and combine thoroughly together.
 
