@@ -14,4 +14,4 @@ Note. if the cast iron is sticky and not like the texture of glass when removed 
 Cleaning:
 
 1. Add cheap salt to the pan, scrub with a wooden spoon and/or firm brush and then wash in warm (not hot) water, NO SOAP and wipe down with clean paper towel.
-1. Place back onto the stove and heat until all moisture is gone, then adding a tablespoon of flax-seed oil rubbed in quickly with paper towel, brought to smoke point and then removed from heat to cool before putting away.
+1. Place back onto the stove and heat until all moisture is gone, then adding a light coating of flax-seed oil rubbed into the inside of the pan quickly with paper towel, brought to smoke point and then removed from heat and let cool before putting away.
