@@ -32,6 +32,6 @@
 1. Add approx. one cup of water to the empty frypan, soaking up any juices and then add it to the tray of chillies.
 1. Continue adding more water to the tray of chillies, until the level of water is approx 1.5cm deep.
 1. Drizzle the top of everything in the tray with the remaining 4 tablespoons of vegtable oil and 1/2 teaspoon of salt.
-1. Now place the tray into a cold oven set to 220 deg C and cook until the top of the chillies are browned.
+1. Now place the tray into a cold oven set to 180 deg C and cook until the top of the chillies are well-browned and just-starting-to-blacken.
 1. At which point, turn all the chillies and place back into the oven to cook on the oppisite side.
 1. Once the second side is browned, remove from the oven and plate to serve, hot with fresh bread.
