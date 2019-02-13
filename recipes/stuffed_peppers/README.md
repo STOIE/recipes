@@ -1,4 +1,4 @@
-### Ingredients
+### Ingredients (serves 4+)
 
 * 300 grams ground beef
 * 1.5kg red and green banana chillies
