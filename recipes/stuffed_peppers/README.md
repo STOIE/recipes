@@ -29,7 +29,8 @@
 1. Finally, add the pepper, 2 teaspoons of salt, peppermint, parsley and chilli flakes - mixing thoroughly until combined well.
 1. Now remove from the hot cooktop and allow the mixture to cool briefly until able to be handled.
 1. By hand, fill all the banana chillies in the tray we prepared earlier and any left over mixture, place in the tray filling gaps between any chillies.
-1. Add a cup of water to the empty frypan, soaking up any juices and then drizzle it over all the chillies and mixture in the tray (the level of water in the tray should be around 1/2 of the way up the chillies [approx 2.5cm deep], if it's lower add more water, but do not overfill).
+1. Add a cup of water to the empty frypan, soaking up any juices and then drizzle it over all the chillies in the tray.
+1. Continue adding more water to the tray, until the level of water is approx 1.5cm deep.
 1. Drizzle the top of everything in the tray with the remaining 4 tablespoons of vegtable oil and 1/2 teaspoon of salt.
 1. Now place the tray into a cold oven set to 220 deg C and cook until the top of the chillies are browned.
 1. At which point, turn all the chillies and place back into the oven to cook on the oppisite side.
