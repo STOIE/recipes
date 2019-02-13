@@ -12,7 +12,7 @@
 * 2-1/2 teaspoons table salt
 * 2/3 teaspoon of chilli flakes
 * 1-1/4 cups vegtable oil
-* up to 1 litre of water
+* less than 1 litre of water
 
 
 ### Method
