@@ -1,6 +1,6 @@
 ### Ingredients
 
-* 250 grams ground beef
+* 300 grams ground beef
 * 1.5kg red and green banana chillies
 * 3-4 normal sized white onions diced into 6mm squares
 * 1 whole medium-large garlic diced fine
