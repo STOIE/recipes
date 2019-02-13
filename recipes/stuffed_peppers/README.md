@@ -2,7 +2,7 @@
 
 * 400 grams ground beef
 * 1.5kg red and green banana chillies
-* 4 normal sized white onions diced into 6mm squares
+* 3-4 normal sized white onions diced into 6mm squares
 * 1 whole medium-large garlic diced fine
 * 4 medium tomates diced into 10mm cubes
 * 2 cups of long grain white rice
