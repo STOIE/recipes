@@ -5,7 +5,7 @@
 * 4 normal sized white onions diced into 6mm squares
 * 1 whole medium-large garlic diced fine
 * 4 medium tomates diced into 10mm cubes
-* 1-1/4 cups of long grain white rice
+* 1-3/4 cups of long grain white rice
 * 2 heaped tablespoons finely diced fresh parsley
 * 1 tablespoon peppermint
 * 1 teaspoon fine white pepper
@@ -35,4 +35,3 @@
 1. Now place the tray into a cold oven at 220 deg C and cook until the top of the chillies are browned.
 1. At which point, turn all the chillies and place back into the oven to cook on the oppisite side.
 1. Once the second side is browned, remove from the oven and plate to serve, hot with fresh bread.
-
