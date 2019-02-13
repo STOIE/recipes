@@ -24,9 +24,8 @@
 1. After this preparation, in a large-and-deep saucepan, add 6 tablespoons of the oil and onion.
 1. Fry on high heat until the onion softens but is not browned or caramelised.
 1. Next, add the inners of the banana chillies that were diced earlier into the frypan with onion and also the garlic, then continue cooking lightly for another 5 minutes.
-1. At this point, add the ground beef, pepper, salt, peppermint, parsley and chilli flakes.
-1. Cook for around two minutes while combining the ingredients until mixed together thoroughly.
-1. Now add the tomatoes to the pan and let simmer until the tomatoes begin to soften and are falling apart.
+1. Now add the ground beef and then tomatoes to the pan, lower the heat to medium and let simmer until the tomatoes begin to soften and are falling apart.
+1. Add the pepper, salt, peppermint, parsley and chilli flakes - mixing thoroughly until combined well.
 1. Finally, add the rice and combine mixing everything together thoroughly at which point remove from the heat (the rice does not need to be cooked at all).
 1. Allow the mixture to cool until able to be handled.
 1. By hand, fill all the banana chillies in the tray we prepared earlier and any left over mixture, place in the tray filling gaps between any chillies.
