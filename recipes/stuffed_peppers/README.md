@@ -20,7 +20,7 @@
 1. Wash and remove the stalks from the banana chillies and throw away.
 1. Then cut the tops off and pull out the insides, placing throwing away the seeds but placing everything else to the side in a seperate bowl.
 1. The internals and tops of the chillies should then be diced fine before returning them to the bowl.
-1. Now place the cleaned banana chillies into a large baking tray (40-50cm round).
+1. Now place the cleaned banana chillies into a large baking tray (40+cm round).
 1. After this preparation, in a large-and-deep frypan, add 6 tablespoons of the oil and onion.
 1. Fry on medium-high heat until the onion softens but is not caramelised (if you get any sticking, add 2 tablespoons of water).
 1. Next, add the inners of the banana chillies that were diced earlier into the frypan with onion and also the garlic, then continue cooking lightly for another 2 minutes.
