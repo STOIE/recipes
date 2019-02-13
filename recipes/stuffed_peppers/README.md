@@ -5,8 +5,8 @@
 * 3 normal sized white onions diced into 6mm squares
 * 1 whole medium-large garlic diced fine
 * 4 medium tomates diced into 10mm cubes
-* 2 cups of long grain white rice
-* 1/2 cup finely diced fresh parsley
+* 2 cups long grain white rice
+* 2/3 cup finely diced fresh parsley (measured after being finely diced)
 * 2 teaspoons peppermint
 * 1/2 teaspoon fine white pepper
 * 2-1/2 teaspoons table salt
