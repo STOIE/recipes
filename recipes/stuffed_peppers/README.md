@@ -6,7 +6,7 @@
 * 1 whole medium-large garlic diced fine
 * 4 medium tomates diced into 10mm cubes
 * 2 cups of long grain white rice
-* 2 heaped tablespoons finely diced fresh parsley
+* 1/2 cup finely diced fresh parsley
 * 1 tablespoon peppermint
 * 1 teaspoon fine white pepper
 * 1 teaspoon table salt
@@ -22,7 +22,7 @@
 1. The internals and tops of the chillies should then be diced fine before returning them to the bowl.
 1. Now place the cleaned banana chillies into a large baking tray (40+cm round).
 1. After this preparation, in a large-and-deep frypan, add 6 tablespoons of the oil and onion.
-1. Fry on medium-high heat until the onion softens but is not caramelised (if you get any sticking, add 2 tablespoons of water).
+1. Fry on medium-high heat until the onion softens but is not browned or caramelised (if you get any sticking, add 2 tablespoons of water).
 1. Next, add the inners of the banana chillies that were diced earlier into the frypan with onion and also the garlic, then continue cooking lightly for another 2 minutes.
 1. At this point, add the ground beef, pepper, salt, peppermint, parsley and chilli flakes.
 1. Cook for around two minutes while combining the ingredients until mixed together thoroughly.
