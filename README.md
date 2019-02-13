@@ -17,6 +17,7 @@ This is a simple repository of recipes I enjoy:
 - [Peanut Butter Cheesecake](recipes/peanut_butter_cheesecake/).
 - [Pizza Dough](recipes/pizza_dough/).
 - [Sea, Bird and Veg - Chilli Pot](recipes/sea_bird_veg_chilli_pot/).
+- [Stuff Peppers](recipes/stuffed_peppers/).
 - [Sweet Pickle Relish](recipes/sweet_pickle_relish/).
 - [Tandoori Chicken](recipes/tandoori_chicken/).
 - [Thai Red Curry](recipes/thai_red_curry/).
