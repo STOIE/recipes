@@ -7,11 +7,11 @@
 * 4 medium tomates diced into 10mm cubes
 * 2 cups of long grain white rice
 * 1/2 cup finely diced fresh parsley
-* 1 tablespoon peppermint
-* 1 teaspoon fine white pepper
-* 1 teaspoon table salt
-* 1/2 teaspoon of chilli flakes
-* 9 tablespoons vegtable oil
+* 2 teaspoons peppermint
+* 1/2 teaspoon fine white pepper
+* 1-1/2 teaspoons table salt
+* 2/3 teaspoon of chilli flakes
+* 13 tablespoons vegtable oil
 * up to 1 litre of water
 
 
@@ -21,12 +21,12 @@
 1. Then cut the tops off and pull out the insides, placing throwing away the seeds but placing everything else to the side in a seperate bowl.
 1. The internals and tops of the chillies should then be diced fine before returning them to the bowl.
 1. Now place the cleaned banana chillies into a large baking tray (40+cm round).
-1. After this preparation, in a large-and-deep saucepan, add 6 tablespoons of the oil and onion.
+1. After this preparation, in a large-and-deep saucepan, add 4 tablespoons of the oil and onion.
 1. Fry on high heat until the onion softens but is not browned or caramelised.
 1. Next, add the inners of the banana chillies that were diced earlier into the frypan with onion and also the garlic, then continue cooking lightly for another 5 minutes.
-1. Now add the ground beef and then tomatoes to the pan, lower the heat to medium and let simmer until the tomatoes begin to soften and are falling apart.
-1. Add the pepper, salt, peppermint, parsley and chilli flakes - mixing thoroughly until combined well.
-1. Finally, add the rice and combine mixing everything together thoroughly at which point remove from the heat (the rice does not need to be cooked at all).
+1. Now add the ground beef and then tomatoes to the pan, lower the heat to medium and let simmer until the tomatoes begin to soften (around 5 minutes).
+1. Add another 8 tablespoons of oil, then the rice and combine mixing everything together thoroughly at which point turn off the heat (the rice does not need to be cooked at all).
+1. Finally, add the pepper, salt, peppermint, parsley and chilli flakes - mixing thoroughly until combined well.
 1. Allow the mixture to cool until able to be handled.
 1. By hand, fill all the banana chillies in the tray we prepared earlier and any left over mixture, place in the tray filling gaps between any chillies.
 1. Add a cup of water to the empty frypan, soaking up any juices and then drizzle it over all the chillies and mixture in the tray (the level of water in the tray should be around 2/3 of the way up the chillies [approx 2cm], if it's lower add more water, but do not overfill).
