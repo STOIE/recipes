@@ -11,7 +11,7 @@ Note. if the cast iron is sticky and not like the texture of glass when removed 
 
 OR
 
-1. Cook the skins of two large potatoes in a cup of salt and a cup of flax-seed oil on high heat until the skins are crisp beyond eating. Do this twice for a good solid season.
+1. Cook the skins of two large potatoes in 1/2 a cup of salt and 1/2 a cup of flax-seed oil (or veg) on high heat until the skins are crisp beyond eating. Do this twice for a good solid season.
 
 Note. to do the outside of the pan use the oven method once or twice to the outside of the pan (the salt method results in a harder wearing seasoning for the inside of the pan to resist scratching from steel utensils).
 
