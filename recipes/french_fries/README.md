@@ -12,7 +12,7 @@
 
 1. Wash the potatoes, skin them and then lightly square the long edges to make a rectangular block with just curved ends (avoid creating too much wastage, some curvature is fine).
 1. Cut the potatoes into 5mm x 5mm fries, keep them thin or they will not cook properly!
-1. wash the cut fries in a bowl of cold water to remove excess starch, leave to soak for 5 minutes.
+1. Wash the cut fries in a bowl of cold water to remove excess starch, leave to soak for 5 minutes.
 1. Remove from the water and dry out on paper towel (or a rack).
 1. Place a large pot on the stove and add 12 cups of water, 1/2 cup of corn syrup and 1/2 a cup of fine white sugar.
 1. While bringing the water to a boil, stir in and disolve all the sugars.
