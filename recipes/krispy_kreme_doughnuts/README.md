@@ -13,6 +13,7 @@
 * 1/2 cup shortening
 
 
+
 ### Method: Forming the dough
 
 1. Combine the lukewarm water and yeast in a large bowl, mixing well.
@@ -25,22 +26,26 @@
 1. Then, place the dough back into the bowl (wash the bowl before doing so) and keep UNCOVERED for 2-3 hours at room temperature.
 
 
+
 ### Method: Shaping the doughnuts
 
 
-1. Choose a round, medium-sized cookie cutter and a small, round cookie cutter (I ordered Mrs. Anderson's Cookie Cutters from Amazon [you can also use the wide rim of a wine glass, as I've seen on Tasty). You can create any form, shape, or size that you desire.
-1. Spread a two large handfuls of all purpose flour upon your cutting board or kitchen counter. Flatten the dough with a rolling pin and use your cookie cutters or wine glass to cut out the shape of the doughnuts. If it is too flat, don't worry; it will rise once more after letting it rest for ten minutes on each side. Use the smaller cookie cutter to make a hole inside of the doughnut (don't throw the balls away! Doughnut balls are absolutely fantastic with a cinnamon sugar coating!).
-1. Carefully pick up each doughnut with both hands and place it on a sheet of parchment paper. Let it rest for ten minutes on each side.
+1. Choose a round, medium-sized cookie cutter and a small, round cookie cutter (or say the wide rim of a large drinking glass).
+1. Heavily flour your workspace counter and then flatten the dough with a rolling pin to 10mm thick.
+1. Using your cookie cutters, cut out the shape of the doughnuts.
+1. Carefully pick up each doughnut and place it on a sheet of baking paper.
+1. Then, let the doughnuts rest for ten minutes on each side.
+
 
 
 ### Method: Cooking
 
 
-1. Pour in five to six cups of corn oil (or any type of oil) into a large pot or pan. Use medium-high heat for this.
-1. Prepare all utensils for frying. Place your strainer of any kind on a cooling rack, paper plate, or paper towel near your pan.
-1. Carefully pick up a doughnut and gingerly place into the frying oil (don't just drop it in there, for it'll splash!). Add as many as your pot or pan will allow, but just enough so that they won't bump and stick to each other.
-1. Fry for about five minutes on each side, flipping them over with stainless steel tongs or a chopstick (whichever works best for you).
-1. Pick up each of the doughnuts and place them in the strainer. Continue to do this for each of the doughnuts.
+1. Prepare a deep fryer with oil (heat until bubbles appear around the side of an inserted wooden skewer).
+1. Pick up a doughnut and gently place into the fryer (adding as many as your fryer will allow, but just enough so that they won't bump and stick to each other).
+1. Fry for about 5 minutes on each side, flipping them over with either purpose made tongs or a chopstick.
+1. Once cooked, remove each doughnut and place them onto a rack to remove excess oil.
+
 
 
 
@@ -54,8 +59,10 @@
 * 2 teaspoons vanilla extract
 
 
+
 ### Method
 
 
-1. Combine 2 to 3 cups of powdered sugar, 1/4 cup of milk, 1/4 cup of corn syrup, and 2 teaspoons of vanilla extract in a bowl. Mix well, and coat each doughnut with the glaze (it's best to coat them right after being fried).
-1. Set them on a cooling rack to dry for two to three minutes.
+1. Combine all the ingredients in a medium sized bowl, mixing well.
+1. Coat each doughnut with the glaze (immediately after frying).
+1. Return each doughnut to a rack to dry for 2-3 minutes.
