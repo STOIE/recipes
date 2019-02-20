@@ -33,9 +33,9 @@
 
 # Thickest, fluffiest pancakes
 
-### Ingredients
+### Ingredients (makes 4)
 
-* 2-12 cups all-purpose flour
+* 2-1/2 cups all-purpose flour
 * 3 tablespoons white sugar
 * 2 teaspoons kosher salt
 * 1 teaspoon baking powder
