@@ -1,4 +1,4 @@
-# Crispy Beer Batter
+# Crispy Beer Battered
 
 ### Ingredients
 
