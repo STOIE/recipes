@@ -21,6 +21,7 @@
 * 1/8 teaspoon fine white pepper
 * 1/2 teaspoon cornflour
 * 1/2 teaspoon table salt
+* 2 teaspoons sesame seeds
 
 
 ### Method
@@ -44,4 +45,4 @@
 1. Let the eggs cook while lightly moving the mix around, until mostly-lightly cooked.
 1. Add in the noodles and 2/3 of the bean sprouts and mix thoroughly, allowing for everything to cook together until aromatic.
 1. At this point, turn off the heat, add in the final bean sprouts and then lightly toss them through.
-1. Serve hot with the chopped spring onion.
+1. Serve hot with the chopped spring onion and sesame seeds.
