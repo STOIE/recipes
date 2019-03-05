@@ -36,6 +36,7 @@
 1. Lastly while waiting, add the 2 eggs to a mixing bowl and beat them, placing them to the side when done.
 1. Once the pot is boiling, add the noodles and allow to blanch for 1-to-2 minutes, before removing and adding to the bowl of cold water.
 1. Now take the salted shrimp and wash them in clean cold water to remove the excess salt from their surfaces, then placing them to the side again ready for use.
+1. Then drain the noodles as well as you can, so they have little water.
 1. Now prepare a wok with 2 tablespoons of vegetable oil at heat.
 1. Fry the onions briefly and then add the garlic and fry briefly together.
 1. Now add the chicken, lightly cook (not through).
@@ -43,6 +44,7 @@
 1. Then the shrimp, carrot and cabbage, cooking until they are cooked through.
 1. Now, move the ingredients to the side of the wok, add another tablespoon of vegetable oil and then add the beaten eggs.
 1. Let the eggs cook while lightly moving the mix around, until mostly-lightly cooked.
-1. Add in the noodles and 2/3 of the bean sprouts and mix thoroughly, allowing for everything to cook together until aromatic.
+1. Add in the noodles and 2/3 of the bean sprouts.
+1. Then add the sauce and mix thoroughly, allowing for everything to cook together until aromatic.
 1. At this point, turn off the heat, add in the final bean sprouts and then lightly toss them through.
 1. Serve hot with the chopped spring onion and sesame seeds.
