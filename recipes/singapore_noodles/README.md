@@ -12,10 +12,10 @@
 * 50 grams bean sprouts
 * 10 grams spring onion, cut into 1mm thick rounds
 * 3-1/2 tablespoons vegetable oil
-* 3 tablespoons tomato ketchup
-* 1 tablespoon sriracha chili sauce
-* 2 tablespoons oyster sauce
-* 1-1/3 tablespoons light soy sauce
+* 1-1/2 tablespoons tomato ketchup
+* 1/2 tablespoon sriracha chili sauce
+* 1 tablespoons oyster sauce
+* 5/6 tablespoon3 light soy sauce
 * 1 tablespoon dark soy sauce
 * 1/4 teaspoon sesame oil
 * 1/8 teaspoon fine white pepper
@@ -31,7 +31,7 @@
 1. With the prawns also in another mixing bowl, add 1/2 a teaspoon of table salt, mix it through and cover the shrimp evenly, then allow to sit.
 1. Bring a half-full, medium-large pot of water to a boil.
 1. While waiting, prepare a large bowl full with cold water.
-1. Also while waiting, prepare a small mixing bowl with the following ingredients: 3 tablespoons ketchup, 1 tablespoon of chilli sauce, 2 tablespoons of oyster sauce, 1 tablespoon of light soy sauce, 1 tablespoon of dark soy sauce (or another 1-1/2 tablespoons of light soy sauce), 1/4 of a teaspoon sesame oil and 1/8 of a teaspoon of fine white pepper.
+1. Also while waiting, prepare a small mixing bowl with the following ingredients: 1-1/2 tablespoons ketchup, 1/2 tablespoon of chilli sauce, 1 tablespoon of oyster sauce, 1/2 tablespoon of light soy sauce, 1/2 tablespoon of dark soy sauce (or another 3/4 tablespoon of light soy sauce), 1/4 of a teaspoon sesame oil and 1/8 of a teaspoon of fine white pepper.
 1. Mix all these ingredients together thoroughly and then place to the side.
 1. Lastly while waiting, add the 2 eggs to a mixing bowl and beat them, placing them to the side when done.
 1. Once the pot is boiling, add the noodles and allow to blanch for 1-to-2 minutes, before removing and adding to the bowl of cold water.
