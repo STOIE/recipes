@@ -33,7 +33,10 @@
 #### Phase 3 - Forming
 
 1. Pre-heat the oven to the maximum temp (250 deg C+), with a flat tile inside the top half of the oven.
-1. 
+1. On a floured table top, take a ball at a time.
+1. Try to avoid working the dough, work it as little as possible.
+1. Use finger tips of both hands together like a beak, three pushes from the centre out and then flip, making a round.
+
 
 
 
