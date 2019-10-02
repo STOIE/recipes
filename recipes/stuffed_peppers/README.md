@@ -17,8 +17,8 @@
 
 ### Method
 
-1. Wash and remove the stalks from the banana chillies and throw away.
-1. Then cut the tops off and pull out the insides, placing throwing away the seeds but placing everything else to the side in a seperate bowl.
+1. Wash and remove just the stalks from the banana chillies and throw away.
+1. Then cut the tops off and pull out the insides, throwing away the seeds but placing everything else to the side in a seperate bowl.
 1. The internals and tops of the chillies should then be diced fine before returning them to the bowl.
 1. Now place the cleaned banana chillies into a large baking tray (40+cm round).
 1. After this preparation, in a large-and-deep saucepan, add 1/4 cup of the oil and onion.
