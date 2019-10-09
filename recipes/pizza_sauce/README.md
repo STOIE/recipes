@@ -10,8 +10,9 @@
 
 ### Method
 
-1. Break up the tomatoes shredding them as best and you can in a mixing bowl by hand (do not blend).
-1. Mix the salt into the tomatoes.
-1. Tear apart basil leaves, add them to the sauce and mix together.
-1. Add a drizzle of olive oil to the sauce and mix it in.
+1. Break up the tomatoes shredding them as best you can in a mixing bowl by hand (do not blend).
+1. Sieve the shredded tomatoes lightly (not forcing them into the screen), to remove excess water/juice (which can be added to a pasta sauce or similar later).
+1. Add back to the mixing bowl and mix in the salt.
+1. Tear apart basil leaves, adding them to the sauce.
+1. Then add a drizzle of olive oil to the sauce and mix it all together.
 1. Let the sauce sit for preferably an hour.
