@@ -1,4 +1,4 @@
-# Tomato Sauce
+# Neapolitan Tomato Sauce
 
 ### Ingredients
 
