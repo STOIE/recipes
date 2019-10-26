@@ -21,5 +21,6 @@
 1. Add the garlic and cook for a very brief moment (20 seconds).
 1. Add 2 tablespoons of the soy sauce to the oil and quickly stir in, then right away...
 1. Add the Kangkong and instantly start stiring in, folding the garlic from the bottom over to the top.
-1. Cook for 2 minutes maximum, then turn off the heat.
+1. Cook for 1 minute max and then add the remaining soy sauce.
+1. Cook for 1 more minute max, then turn off the heat.
 1. Serve with white rice.
