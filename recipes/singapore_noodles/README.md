@@ -15,7 +15,7 @@
 * 1-1/2 tablespoons tomato ketchup
 * 1/2 tablespoon sriracha chili sauce
 * 1 tablespoons oyster sauce
-* 5/6 tablespoon3 light soy sauce
+* 5/6 tablespoons light soy sauce
 * 1 tablespoon dark soy sauce
 * 1/4 teaspoon sesame oil
 * 1/8 teaspoon fine white pepper
