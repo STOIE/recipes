@@ -6,15 +6,15 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 
 #### Ingredients
 
-* 140 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
+* 350 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
 * 1/4 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
-* 2 tablespoons water
+* 3 tablespoons water
 * 1/2 teaspoon salt
-* 1 teaspoon sugar
-* 1 teaspoon cornstarch
-* 1 teaspoon shaoxing wine
-* 1/2 teaspoon dark soy sauce
-* 1 teaspoon vegetable oil
+* 1-1/2 teaspoon sugar
+* 1-1/2 teaspoon cornstarch
+* 2 teaspoon shaoxing wine
+* 1 teaspoon dark soy sauce
+* 2 teaspoon vegetable oil
 * Another volume of vegetable oil to pass thru
 
 #### Method
@@ -32,26 +32,28 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 #### Ingredients
 
 * Beef prepared earlier
-* 1/4 onion big chunked
-* 4 cloves garlic smashed
+* 1/2 big white onion quarted/chunked
+* 5 cloves garlic smashed
 * 1 inch ginger sliced
-* 4 scallion whites cut into 2 inch sections
-* 1 red banana chili cut into diamonds
-* 3 tablespoons of homemade black pepper sauce mixed with 3 tablespoons water
-* 2 tablespoons of Cantonese Mijiu Rice Wine (or Japanese sake)
+* 8 scallion whites cut into 2 inch sections
+* 1 red banana chili cut into diamonds (or capcicum)
+* 100 grams snow peas
+* 1 large heaped tablespoon of homemade black pepper sauce mixed with 3 tablespoons water
+* 4 tablespoons of Cantonese Mijiu Rice Wine (or Japanese sake)
 * 1 teaspoon dark soy sauce
 * 1/2 tablespoon cornstarch & 1/2 tablespoon water as slurry
-* 3 tablespoons peanut oil
+* 4 tablespoons peanut oil
 
 
 #### Method
 
 1. Heat a cast iron skillet (table skillet) on high heat in the background.
 1. Meanwhile, heat a wok to very high heat.
-1. Turn off the heat from the wok and add 1-1/2 tablespoons of peanut oil, moving it around the wok.
-1. Place the beef, onion, garlic, ginger, scallions and chillies into the wok.
+1. Turn off the heat from the wok and add 2-1/2 tablespoons of peanut oil, moving it around the wok.
 1. Return the wok to high heat.
-1. Give very brief mix and then add the rice wine (or sake), very lightly mixing.
+1. Place snowpeas and chillies into the work and fry for 1 minute.
+1. Place the beef, onion, garlic, ginger, scallions and chillies into the wok, frying for an additional minute.
+1. Then add the rice wine (or sake), very lightly mixing.
 1. Immediately add the peppercorn sauce and water mix.
 1. Stir and give a quick fry for around 15-30 seconds.
 1. Add the dark soy sauce and the cornstarch slurry.
