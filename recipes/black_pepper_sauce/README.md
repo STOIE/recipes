@@ -3,11 +3,11 @@
 #### Ingredients
 
 * 50 grams of whole black peppercorns
-* 15 grams of Douchi (aka: Chinese Fermented Black Soybeans; aka: Chinese black beans)
-* 1/8 of a white onion
-* 1/2 of a shallot
-* 4 cloves garlic
-* 1/2 of a fresh mild chili (something like an anaheim or a poblano)
+* 15 grams of douchi (aka: Chinese Fermented Black Soybeans; aka: Chinese black beans)
+* 1/8 of a white onion finely minced
+* 1/2 of a shallot finely minced
+* 4 cloves garlic finely minced
+* 1/2 of a fresh mild chili finely minced (something like an anaheim or a poblano)
 * 1 tablespoon light soy sauce
 * 1 tablespoon oyster sauce
 * 150 ml of water
@@ -18,7 +18,14 @@
 
 #### Method
 
-1. Pound the black peppercorns in a mortar. Ditto with the fermented black soybeans. Finely mince the aromatics.
-1. Medium flame, fry the onion til transluscent; then the shallot and garlic, and finally the pounded douchi and the chili. Add the sauces and the pounded black peppercorn, swap the flame to low.
-1.  Fry for a minute or two until it's starting to clump together, then add the water. Cook until reduced down to a pasty consistency, ~5 minutes.
-1.  Season, mix well, heat off, jar up.
+1. Pound the black peppercorns in a mortar and set aside.
+1. Pound the douchi also and set aside.
+1. On medium heat, fry the onion til transluscent.
+1. Then, add and fry the shallot and garlic.
+1. Finally adding and frying the douchi and the chili.
+1. Add the sauces and the pounded black peppercorn, and set to low heat.
+1. Fry for a further minute or two until it's starting to clump together, then add the water.
+1. Continue to cook until reduced down to a pasty consistency, ~5 minutes.
+1. Season with sugar, salt and MSG.
+1. Mix everything together well and then remove from heat.
+1. Jar up for storage.
