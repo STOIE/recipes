@@ -37,25 +37,24 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 * 1 inch ginger sliced
 * 4 scallion whites cut into 2 inch sections
 * 1 red banana chili cut into diamonds
-* 3 tablespoons of homemade black pepper sauce
-* 3 tablespoons water
+* 3 tablespoons of homemade black pepper sauce mixed with 3 tablespoons water
 * 2 tablespoons of Cantonese Mijiu Rice Wine (or Japanese sake)
 * 1 teaspoon dark soy sauce
 * 1/2 tablespoon cornstarch & 1/2 tablespoon water as slurry
 * 3 tablespoons peanut oil
-* 1-1/2 tablespoons added in the beginning, 1.5 tbsp at the end.
 
 
 #### Method
 
-1. Pound the black peppercorns in a mortar and set aside.
-1. Pound the douchi also and set aside.
-1. On medium heat, add vegetable oil and fry the onion til transluscent.
-1. Then, add and fry the shallot and garlic.
-1. Finally adding and frying the douchi and the chili.
-1. Add the sauces and the pounded black peppercorn, and set to low heat.
-1. Fry for a further minute or two until it's starting to clump together, then add the water.
-1. Continue to cook until reduced down to a pasty consistency, ~5 minutes.
-1. Season with sugar, salt and MSG.
-1. Mix everything together well and then remove from heat.
-1. Jar up for storage.
+1. Heat a cast iron skillet (table skillet) on high heat in the background.
+1. Meanwhile, heat a wok to very high heat.
+1. Turn off the heat from the wok and add 1-1/2 tablespoons of peanut oil, moving it around the wok.
+1. Place the beef, onion, garlic, ginger, scallions and chillies into the wok.
+1. Return the wok to high heat.
+1. Give very brief mix and then add the rice wine (or sake), very lightly mixing.
+1. Immediately add the peppercorn sauce and water mix.
+1. Stir and give a quick fry for around 15-30 seconds.
+1. Add the dark soy sauce and the cornstarch slurry.
+1. Mix quickly again and then add the other 1-1/2 tablespoons of peanut oil.
+1. Remove from the heat, give a final brief mix and then place the mixture into aluminium foil.
+1. You can then place the dish with foil onto the cast iron skillet to present for serving.
