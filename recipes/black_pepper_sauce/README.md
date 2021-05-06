@@ -14,13 +14,14 @@
 * 1/2 tablespoon sugar
 * 1/2 teaspoon salt
 * 1 teaspoon MSG
+* 3 tablespoons vegetable oil
 
 
 #### Method
 
 1. Pound the black peppercorns in a mortar and set aside.
 1. Pound the douchi also and set aside.
-1. On medium heat, fry the onion til transluscent.
+1. On medium heat, add vegetable oil and fry the onion til transluscent.
 1. Then, add and fry the shallot and garlic.
 1. Finally adding and frying the douchi and the chili.
 1. Add the sauces and the pounded black peppercorn, and set to low heat.
