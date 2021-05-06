@@ -7,7 +7,7 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 #### Ingredients
 
 * 140 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
-* 1/4 teaspoon papain meat tenderiser (or sodium carbonate, not bi-carbonate)
+* 1/4 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
 * 2 tablespoons water
 * 1/2 teaspoon salt
 * 1 teaspoon sugar
@@ -15,12 +15,16 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 * 1 teaspoon shaoxing wine
 * 1/2 teaspoon dark soy sauce
 * 1 teaspoon vegetable oil
+* Another volume of vegetable oil to pass thru
 
 #### Method
 
-1. Mix all the ingredients together.
-2. Apply paste to the beef and mix through well.
-3. Set aside for hours.
+1. Mix the papain into the meet.
+1. Mix cornstarch into shaoxing wine to make a slurry.
+1. Then mix all the ingredients together with the beef, mixing well.
+1. Then heat a wok to high heat with a reasonable volume of oil.
+1. Once very hot, pass the meat through the oil for a very brief fry (<30 seconds).
+1. It should change colour, then remove and drain, setting the beef aside.
 
 
 ### The Dish Itself
