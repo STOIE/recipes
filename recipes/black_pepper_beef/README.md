@@ -32,7 +32,7 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 #### Ingredients
 
 * Beef prepared earlier
-* 1/4 onion chunked
+* 1/4 onion big chunked
 * 4 cloves garlic smashed
 * 1 inch ginger sliced
 * 4 scallion whites cut into 2 inch sections
