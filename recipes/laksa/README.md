@@ -4,7 +4,7 @@
 
 * 1000 grams raw, unpeeled large prawns
 * 4 tablespoons + 1/2 cup vegetable oil
-* 1/2 cup dried shrimp, soaked in hot water
+* 1/2 cup dried shrimp
 * 2 teaspoons salt
 * 2 teaspoons sugar
 * 1 teaspoon fish sauce
@@ -39,7 +39,7 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Ingredients
 
-* 3 dried hot chinese chillies, seeded and soaked in hot water for around 20 minutes
+* 3 dried hot chinese chillies, soaked in hot water for around 20 minutes
 * 4 large red chillies, seeded
 * 1 tablespoon belacan (shrimp paste)
 * 6 shallots, or 1 large brown onion, peeled and roughly chopped
