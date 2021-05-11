@@ -39,7 +39,7 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Ingredients
 
-* 3 dried hot chinese chillies, soaked in hot water for around 20 minutes
+* 3 dried hot chinese chillies
 * 4 large red chillies, seeded
 * 1 tablespoon belacan (shrimp paste)
 * 6 shallots, or 1 large brown onion, peeled and roughly chopped
@@ -62,7 +62,7 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Ingredients
 
-* 2 dried hot chinese chillies, soaked
+* 2 dried hot chinese chillies
 * 3 large red chillies
 * 2 eschallots, or 1/2 small onion, roughly chopped
 * 1 teaspoon belacan (shrimp paste)
@@ -71,8 +71,9 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Method
 
-1. Mix the papain into the meet.
-1. Mix cornstarch into shaoxing wine to make a slurry.
+1. Blend all the chillies together with the shallot and belacan.
+1. Heat a small saucepan over medium heat and fry the paste in the peanut oil for about 10 minutes, or until very fragrant, stirring frequently.
+1. Stir in the sugar and set aside for serving.
 
 
 ### Prawn Oil
