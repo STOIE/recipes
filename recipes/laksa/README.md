@@ -113,9 +113,11 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 #### Ingredients
 
 * 1000 grams of the prawns, now peeled
+* 300 grams of chicken breast, sliced in medalions
+* 250 grams of frozen squid, thawed (cut however you feel)
 * 1/2 of the laksa paste
 * 4 tablespoons vegetable oil
-* 2 teaspoons salt
+* 3 teaspoons salt
 * 2 teaspoons sugar
 * 1 teaspoon fish sauce
 * 2 x 425 ml tins coconut cream
@@ -134,8 +136,9 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 1. Heat 4 tablespoons of vegetable oil in the very large pot.
 1. Add half the laksa paste and fry for about 10-20 minutes, stirring frequently, until the oil separates from the paste. - consider starting the "meanwhile section below"
 1. Add the prawn stock and bring to a simmer.
-1. Stir in the salt, sugar, fish sauce and coconut milk and simmer for about 20 minutes.
-1. Add the tofu puffs and simmer for a further 10 minutes.
+1. Stir in the salt, sugar, fish sauce and coconut milk.
+1. Add the chicken breast and simmer for about 20 minutes.
+1. Add the tofu puffs and squid, then simmer for a further 10 minutes.
 1. Simmer the prawns in the soup for 3 minutes, or until just cooked, then remove from heat and set aside.
 1. Taste the soup and adjust the seasoning as required.
 
