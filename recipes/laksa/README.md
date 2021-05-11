@@ -35,6 +35,18 @@
 
 Note. this takes a long time to prepare, we recommend making the Laksa paste, Sambal, Prawn oil and Laksa itself in components.
 
+### FIRST STEP - Prawns and Stock
+
+1. Take all the prawns and remove their heads ands shells, separating the heads/shells and bodies into two seperate bowls.
+1. Then de-vein the prawns.
+1. Take a very large pot and add 2500 ml of water and place on high heat.
+1. Add 2/3 of the heads/shells to the pot and bring to boil/simmer.
+1. Simmer for 20 minutes with a lid on, avoid reducing the water too much.
+1. Remove from heat and let steep for an additional 10 minutes.
+1. Strain the stock and set aside in a large bowl/pot.
+
+Now, you can move onto the next steps.
+
 ### Laksa Paste
 
 #### Ingredients
@@ -100,7 +112,6 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 #### Ingredients
 
 * 1000 grams of the prawns, now peeled
-* 2/3 of the prawn heads and all the shells
 * 1/2 of the laksa paste
 * 4 tablespoons vegetable oil
 * 1/2 cup dried shrimp, soaked in hot water
@@ -113,12 +124,31 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 * 200 grams dried rice vermicelli noodles
 * 200 grams fried fish cakes, sliced
 * 300 grams bean sprouts
-* 8 eggs
+* 8 eggs (optional)
 * 1 cup loosely packed Vietnamese mint leaves, finely shredded to serve
-* 1 Lebanese cucumber, shredded, to serve
+* 1 Lebanese cucumber, shredded, to serve (optional)
 
 
 #### Method
 
-1. Heat a cast iron skillet (table skillet) on high heat in the background.
-1. Meanwhile, heat a wok to very high heat.
+1. Heat 4 tablespoons of vegetable oil in the very large pot.
+1. Add half the laksa paste and fry for about 10-20 minutes, stirring frequently, until the oil separates from the paste. - consider starting the "meanwhile section below"
+1. Add the prawn stock and bring to a simmer.
+1. Stir in the salt, sugar, fish sauce and coconut milk and simmer for about 20 minutes.
+1. Add the tofu puffs and simmer for a further 10 minutes.
+1. Simmer the prawns in the soup for 3 minutes, or until just cooked, then remove from heat and set aside.
+1. Taste the soup and adjust the seasoning as required.
+
+##### Meanwhile while the soup is cooking:
+* Bring a large pot of water to a boil and cook the noodles according to the packet directions.
+* Boil the fish cake for about 2 minutes, or until puffed, then drain.
+* Blanch the bean sprouts for 30 seconds.
+* Boil the eggs for 7 minutes, then refresh in a basin of iced water and peel. Halve the eggs.
+
+
+#### Assembly
+
+1. Warm a noodle bowl.
+1. Add some hokkien noodles, vermicelli, bean sprouts, egg, and prawn to the bowl.
+1. Ladle in some soup, then garnish with Vietnamese mint, cucumber and a big spoon of chilli sambal.
+1. Serve immediately.
