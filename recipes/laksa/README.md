@@ -3,7 +3,7 @@
 #### Wholistic Ingredients:
 
 * 1000 grams raw, unpeeled large prawns
-* 4 tablespoons + 1/2 cup vegetable oil
+* 12 tablespoons + 1 cup vegetable oil
 * 1/2 cup dried shrimp
 * 2 teaspoons salt
 * 2 teaspoons sugar
@@ -94,7 +94,7 @@ Now, you can move onto the next steps.
 #### Ingredients
 
 * 1/3 of the prawn heads
-* 1/2 cup vegetable oil
+* 1 cup vegetable oil
 * 1 tablespoon tomato paste (optional)
 * pinch of salt
 
@@ -116,7 +116,7 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 * 300 grams of chicken breast, sliced in medalions
 * 250 grams of frozen squid, thawed (cut however you feel)
 * 1/2 of the laksa paste
-* 4 tablespoons vegetable oil
+* 12 tablespoons vegetable oil
 * 3 teaspoons salt
 * 2 teaspoons sugar
 * 1 teaspoon fish sauce
@@ -133,7 +133,7 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 
 #### Method
 
-1. Heat 4 tablespoons of vegetable oil in the very large pot.
+1. Heat 12 tablespoons of vegetable oil in the very large pot.
 1. Add half the laksa paste and fry for about 10-20 minutes, stirring frequently, until the oil separates from the paste. - consider starting the "meanwhile section below"
 1. Add the prawn stock and bring to a simmer.
 1. Stir in the salt, sugar, fish sauce and coconut milk.
