@@ -18,8 +18,8 @@
 * 1 cup loosely packed Vietnamese mint leaves, finely shredded to serve
 * 1 Lebanese cucumber, shredded, to serve
 * 1 tablespoon tomato paste (optional)
-* 15 dried chillies, seeded and soaked in hot water for around 20 minutes
-* 4 large red chillies, seeded
+* 5 dried hot chinese chillies
+* 7 large red chillies, seeded
 * 1 tablespoon belacan (shrimp paste)
 * 6 shallots, or 1 large brown onion, peeled and roughly chopped
 * 10 garlic cloves, peeled
@@ -29,8 +29,6 @@
 * 3 lemongrass stems, white part only
 * 2 tablespoons ground coriander
 * 6 candlenuts, or macadamia nuts
-* 5 dried chillies, soaked
-* 3 large red chillies
 * 2 eschallots, or 1/2 small onion, roughly chopped
 * 1 teaspoon belacan (shrimp paste)
 * 1/2 cup peanut oil
@@ -41,7 +39,7 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Ingredients
 
-* 15 dried chillies, seeded and soaked in hot water for around 20 minutes
+* 3 dried hot chinese chillies, seeded and soaked in hot water for around 20 minutes
 * 4 large red chillies, seeded
 * 1 tablespoon belacan (shrimp paste)
 * 6 shallots, or 1 large brown onion, peeled and roughly chopped
@@ -63,8 +61,12 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Ingredients
 
-* 350 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
-* 1/4 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
+* 2 dried hot chinese chillies, soaked
+* 3 large red chillies
+* 2 eschallots, or 1/2 small onion, roughly chopped
+* 1 teaspoon belacan (shrimp paste)
+* 1/2 cup peanut oil
+* pinch of sugar
 
 #### Method
 
