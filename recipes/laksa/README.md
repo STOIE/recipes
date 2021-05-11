@@ -53,8 +53,9 @@ Note. this takes a long time to prepare, we recommend making the Laksa paste, Sa
 
 #### Method
 
-1. Mix the papain into the meet.
-1. Mix cornstarch into shaoxing wine to make a slurry.
+1. Add all the ingredients to a blender.
+1. Blend into a smooth paste, adding a little water if necessary.
+1. This can then be frozen or used as needed.
 
 
 ### Chilli Sambal
@@ -99,6 +100,7 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 
 * 1000 grams of the prawns, now peeled
 * 2/3 of the prawn heads and all the shells
+* 1/2 of the laksa paste
 * 4 tablespoons vegetable oil
 * 1/2 cup dried shrimp, soaked in hot water
 * 2 teaspoons salt
