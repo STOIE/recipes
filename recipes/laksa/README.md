@@ -53,6 +53,7 @@ Now, you can move onto the next steps.
 
 * 3 dried hot chinese chillies
 * 4 large red chillies, seeded
+* 1/2 cup dried shrimp, soaked in hot water
 * 1 tablespoon belacan (shrimp paste)
 * 6 shallots, or 1 large brown onion, peeled and roughly chopped
 * 10 garlic cloves, peeled
@@ -114,7 +115,6 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 * 1000 grams of the prawns, now peeled
 * 1/2 of the laksa paste
 * 4 tablespoons vegetable oil
-* 1/2 cup dried shrimp, soaked in hot water
 * 2 teaspoons salt
 * 2 teaspoons sugar
 * 1 teaspoon fish sauce
