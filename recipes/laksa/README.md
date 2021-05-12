@@ -5,8 +5,8 @@
 * 1000 grams raw, unpeeled large prawns
 * 12 tablespoons + 1 cup vegetable oil
 * 1/2 cup dried shrimp
-* 2 teaspoons salt
-* 2 teaspoons sugar
+* 3 tablespoons salt
+* 5 tablespoons sugar
 * 1 teaspoon fish sauce
 * 2 x 425 ml tins coconut cream
 * 250 grams fried tofu puffs, halved
@@ -117,8 +117,8 @@ Note. Certain varieties of prawns have more red colour than others, so if your p
 * 250 grams of frozen squid, thawed (cut however you feel)
 * 1/2 of the laksa paste
 * 12 tablespoons vegetable oil
-* 3 teaspoons salt
-* 2 teaspoons sugar
+* 3 tablespoons salt
+* 5 tablespoons sugar
 * 1 teaspoon fish sauce
 * 2 x 425 ml tins coconut cream
 * 250 grams fried tofu puffs, halved
