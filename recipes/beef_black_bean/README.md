@@ -31,7 +31,7 @@
 
 * 1 tablespoon fermented black beans (soaked in cool water 20-30 minutes)
 * 1 tablespoon dried tangerine peel (soaked in cool water 20-30 minutes)
-* 3 cloves of garlic
+* 6 cloves of garlic
 * 1 tablespoon sugar
 * 1 tablespoon light soy sauce
 
@@ -65,7 +65,7 @@
 * Sauce perpared earlier
 * 2 inch ginger minced fine
 * 2 shallot minced fine
-* 1 red banana chili cut into diamonds (or capcicum)
+* 2 red banana chilis cut into diamonds (or capcicum)
 * 8 scallion whites cut into 2 inch sections
 * 2 tablepoons shaoxing wine
 * 2 teaspoons sesame oil
