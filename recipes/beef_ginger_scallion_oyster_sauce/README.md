@@ -25,31 +25,15 @@
 1. It should change colour, then remove and drain, setting the beef aside.
 
 
-### The Paste
-
-#### Ingredients
-
-* 2 tablespoons fermented black beans (soaked in cool water 20-30 minutes)
-* 1 tablespoon dried tangerine peel (soaked in cool water 20-30 minutes)
-* 6 cloves of garlic
-* 1 tablespoon sugar
-* 1 tablespoon light soy sauce
-
-#### Method
-
-1. Rough chop the black beans, tangerine peel and garlic
-1. Add them to a mortar and pound together, slowly adding in the sugar
-1. Continue pounding and add in the soy sauce and pound a bit more to an incorporated paste
-
-
 ### The Sauce
 
 #### Ingredients
 
-* 1 tablespoon oyster sauce
-* 1 tablespoon stock (or water, optional touch of stock concentrate if using water)
-* 1 teaspoon salt
+* 1-1/2 tablespoons oyster sauce
+* 2 tablespoons stock (or water, optional touch of stock concentrate if using water)
+* 1/2 teaspoon salt
 * 1 teaspoon cornstarch
+* 1 teaspoon sugar
 
 #### Method
 
@@ -61,13 +45,11 @@
 #### Ingredients
 
 * Beef prepared earlier
-* Paste prepared earlier
 * Sauce perpared earlier
-* 2 tablespoons of ginger paste (or, 2 inch ginger minced fine)
-* 2 shallot minced fine
-* 2 red banana chilis cut into diamonds (or capcicum)
-* 8 scallion whites cut into 2 inch sections
+* 2 inch ginger thin sliced rounds
+* 16 scallions cut into 2 inch sections - whites separated from greens (2:1 white-to-green)
 * 2 tablepoons shaoxing wine
+* 2 tablespoons light soy sauce
 * 2 teaspoons sesame oil
 * 4 tablespoons vegetable oil
 
@@ -77,11 +59,9 @@
 1. Heat a wok to very high heat.
 1. Turn off the heat from the wok and add the 4 tablespoons of vegetable oil, moving it around the wok.
 1. Return the wok to medium heat.
-1. Add the shallot and ginger, fry for about a minute til fragrant.
-1. Add the paste and fry for about thirty seconds til everything is smelling, then up the heat to high.
-1. Add the chili and give a 5 second mix.
-1. Pour the shaoxing wine in around the wok and give a quick mix.
-1. Add beef and give a 5 second mix.
+1. Add the scallion whites and ginger, fry for about a minute til fragrant.
+1. Then up the heat to high and pour the shaoxing wine in around the wok and give a quick mix.
+1. Add beef and pour in the light soy sauce around the wok, give a 5 second mix.
 1. Add sauce and give a 5 second mix.
-1. Shut off the heat and add the scallions, quick mix.
+1. Shut off the heat and add the green scallions, quick mix.
 1. Add the sesame oil and final quick mix, then serve.
