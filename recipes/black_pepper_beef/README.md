@@ -6,15 +6,15 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 
 #### Ingredients
 
-* 350 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
+* 500 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
 * 1/4 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
 * 3 tablespoons water
 * 1/2 teaspoon salt
-* 1-1/2 teaspoon sugar
-* 1-1/2 teaspoon cornstarch
-* 2 teaspoon shaoxing wine
-* 1 teaspoon dark soy sauce
-* 2 teaspoon vegetable oil
+* 2 teaspoons sugar
+* 2 teaspoons cornstarch
+* 2 teaspoons shaoxing wine
+* 2 teaspoons dark soy sauce
+* 2 teaspoons vegetable oil
 * Another volume of vegetable oil to pass thru
 
 #### Method
