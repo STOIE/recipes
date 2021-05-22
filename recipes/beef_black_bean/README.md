@@ -6,13 +6,13 @@
 
 * 500 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
 * 1/4 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
-* 5 tablespoons water
-* 1 teaspoon salt
+* 3 tablespoons water
+* 1/2 teaspoon salt
 * 2 teaspoons sugar
 * 2 teaspoons cornstarch
 * 2 teaspoons shaoxing wine
 * 2 teaspoons dark soy sauce
-* 1 teaspoon vegetable oil
+* 2 teaspoons vegetable oil
 * Another volume of vegetable oil to pass thru
 
 #### Method
@@ -29,7 +29,7 @@
 
 #### Ingredients
 
-* 1 tablespoon fermented black beans (soaked in cool water 20-30 minutes)
+* 2 tablespoons fermented black beans (soaked in cool water 20-30 minutes)
 * 1 tablespoon dried tangerine peel (soaked in cool water 20-30 minutes)
 * 6 cloves of garlic
 * 1 tablespoon sugar
@@ -48,7 +48,7 @@
 
 * 1 tablespoon oyster sauce
 * 1 tablespoon stock (or water, optional touch of stock concentrate if using water)
-* 1/2 tablespoon salt
+* 1 teaspoon salt
 * 1 teaspoon cornstarch
 
 #### Method
@@ -63,7 +63,7 @@
 * Beef prepared earlier
 * Paste prepared earlier
 * Sauce perpared earlier
-* 2 inch ginger minced fine
+* 2 tablespoons of ginger paste (or, 2 inch ginger minced fine)
 * 2 shallot minced fine
 * 2 red banana chilis cut into diamonds (or capcicum)
 * 8 scallion whites cut into 2 inch sections
