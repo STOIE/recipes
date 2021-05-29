@@ -13,9 +13,11 @@
 
 #### Method
 
-1. Mix the papain into the meat.
-1. Mix cornstarch into shaoxing wine to make a slurry.
-1. Then mix all the ingredients together with the beef, mixing well.
-1. Then heat a wok to high heat with a reasonable volume of oil.
-1. Once very hot, pass the meat through the oil for a very brief fry (<30 seconds).
-1. It should change colour, then remove and drain, setting the beef aside.
+1. Line a baking tray with non-stick baking paper and preheat oven to 150°C.
+1. In a large mixing bowl, beat the butter and brown sugar until thick and creamy.
+1. Add in the egg and vanilla essence, continuing to beat until well combined.
+1. Fold in the plain flour and self-raising flour until just combined without lumps, but not over beating.
+1. Then add the chocolate and macadamias to form a chunky mixture.
+1. Place spoonfuls of the cookie mixture on the prepared tray and gently press down to flatten a little.
+1. Bake for ~15 minutes, avoiding over-cooking.
+1. Remove from oven and set aside for a few minutes to cool slightly, then transfer to a wire rack to cool completely.
