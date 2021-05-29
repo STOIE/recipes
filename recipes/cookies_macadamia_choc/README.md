@@ -2,7 +2,7 @@
 
 #### Ingredients
 
-* 130 grams butter, softened
+* 130 grams butter, diced
 * 165 grams brown sugar (3/4 cup)
 * 3/4 cup plain flour, sifted
 * 3/4 cup self-raising flour, sifted
@@ -14,6 +14,7 @@
 #### Method
 
 1. Line a baking tray with non-stick baking paper and preheat oven to 150°C.
+1. Slowly melt the butter in a small pan over very-low heat, until fully melted (depending on your butter, you may need to strain it after).
 1. In a large mixing bowl, beat the butter and brown sugar until thick and creamy.
 1. Add in the egg and vanilla essence, continuing to beat until well combined.
 1. Fold in the plain flour and self-raising flour until just combined without lumps, but not over beating.
