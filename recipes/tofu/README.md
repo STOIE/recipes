@@ -2,6 +2,7 @@
 
 Servings:
 Depending on what end weight you desire, multiply recipe like-for-like where initial soybean weight is 1:3 final tofu weight.
+
 `eg. 1kg soybeans should net around 3kg of tofu`
 
 #### Ingredients
