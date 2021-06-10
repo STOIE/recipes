@@ -17,13 +17,13 @@ Depending on what end weight you desire, multiply recipe like-for-like where ini
 1. Soak the soybeans in a large volume of water overnight (1500ml+ water for every 500 grams of soybeans)
 1. The next day, drain the excess water from the soybeans and weigh them.
 1. Calculate the additional volume of water required:
-```
-x = (initial soybean weight) multiplied by (8)
 
-y = (final soybean weight) minus (initial soybean weight)
+`x = (initial soybean weight) multiplied by (8)`
 
-x minus y = additional water required.
-```
+`y = (final soybean weight) minus (initial soybean weight)`
+
+`x minus y = additional water required`
+
 
 ### Making the Soymilk
 
