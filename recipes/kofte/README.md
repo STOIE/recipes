@@ -4,28 +4,22 @@
 
 #### Ingredients
 
-* 1 kilogram ground beef
-* 1 large onion diced very fine
-* 4 cloves garlic very fine
-* 2 teaspoons salt
-* 1/2 teaspoon mustard powder
-* 1 teaspoon white pepper
+* 500 grams ground beef
+* 250 grams ground pork fat
+* 1 shallot diced very fine (or 1/4 white onion)
+* 2 cloves garlic very fine
+* 1 teaspoons salt
+* 1/2 teaspoon course milled black pepper
+* 1/2 teaspoon garlic powder
 * 1 teaspoons oregano
-* 4 tablespoons ketchup
-* 2 tablespoons olive oil
-* 2 eggs
-* 2-1/2 cups bread crumbs
-* 2 tablespoons mayonnaise
-* 1 tablespoon oyster sauce
-* 1/2 teaspoon baking soda
+* 1 tablespoon fresh parsley very fine (or 1/2 teaspoon dried)
+* 1 cup bread crumbs
 
 
 #### Method
 
 * Mix all the ingredients thoroughly together in a large mixing bowl.
+* Allow to rest in fridge for 2 hours minimum.
 * Make the kofte rolled into a sausage shape as desired.
-* Then, heat a large shallow pan filled 6-8mm deep with sunflower oil.
-* Try a small test ball to get the temperate of the oil correct, it should be a slow simmering/boil around the beef.
-* Add the kofte to the pan and adjust the heat as necessary to keep the same cooking temperature (not spattering everywhere, nor doing nothing).
-* Keep turning as needed and remove when cooked to a plate with paper towel to soak up excess oil.
+* Cook over charcoal grill for best results, turning as needed.
 * Serve hot with something like [Tzatziki](../tzatziki/).
