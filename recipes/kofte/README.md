@@ -4,8 +4,8 @@
 
 #### Ingredients
 
-* 500 grams ground beef
-* 250 grams ground pork fat
+* 500 grams course ground beef
+* 250 grams course ground pork fat
 * 1 shallot diced very fine (or 1/4 white onion)
 * 2 cloves garlic very fine
 * 1 teaspoons salt
