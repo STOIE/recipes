@@ -19,7 +19,9 @@ Depending on what end weight you desire, multiply recipe like-for-like where ini
 1. Calculate the additional volume of water required:
 ```
 x = (initial soybean weight) multiplied by (8)
+
 y = (final soybean weight) minus (initial soybean weight)
+
 x minus y = additional water required.
 ```
 
