@@ -5,14 +5,16 @@ Depending on what end weight you desire, multiply recipe like-for-like where ini
 
 `eg. 1kg soybeans should net around 3kg of tofu`
 
+`1.5kg soybeans = two 17x17mm tofu`
+
 #### Ingredients
 
-* 300 grams soybeans
-* 12 grams nigari powder
+* 500 grams soybeans
+* 20 grams nigari powder
 
 ### Soybean preparation
 
-1. Soak the soybeans in a large volume of water overnight (1000ml+ water for every 300 grams of soybeans)
+1. Soak the soybeans in a large volume of water overnight (1500ml+ water for every 500 grams of soybeans)
 1. The next day, drain the excess water from the soybeans and weigh them.
 1. Calculate the additional volume of water required:
 ```
@@ -38,7 +40,7 @@ x minus y = additional water required.
 
 #### Method
 
-1. Prepare your nigari powder by adding 12 grams + 50ml boiling water; per 300 inital grams soybeans - in a cup/bowl.
+1. Prepare your nigari powder by adding 20 grams + 80ml boiling water; per 500 inital grams soybeans - in a cup/bowl.
 1. Now slowly heat the soymilk (still in the large pot) up to 73 degrees celsius.
 1. Once at temperature, stop the heat and very gently stir in the nigrari liquid - stir as little as possible!
 1. Cover the pot and leave for 10 minutes.
