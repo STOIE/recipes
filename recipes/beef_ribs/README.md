@@ -46,7 +46,7 @@
 
 #### Method
 
-1) Remove from sous vide, open packets, place ribs on a steel rack and pat dry.
-2) Sear with either a searsall, grill or cast iron skillet.
-3) Once seared apply sauce liberally.
-4) If a you have a searsall / torch available, burn in the sauce slightly.
+1. Remove from sous vide, open packets, place ribs on a steel rack and pat dry.
+1. Sear with either a searsall, grill or cast iron skillet.
+1. Once seared apply sauce liberally.
+1. If a you have a searsall / torch available, burn in the sauce slightly.
