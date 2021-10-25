@@ -41,11 +41,7 @@
 
 #### Requirements
 
-Either:
-* Searsall
-* Grill
-* Cast Iron Skillet
-
+* Either a: Searsall, Grill or Cast Iron Skillet
 * Sauce of your liking
 
 #### Method
