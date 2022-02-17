@@ -14,7 +14,7 @@
 
 #### Method
 
-1. Mix the papain into the meet.
+1. Mix the papain into the meat and allow 15-60 minutes to sit.
 1. Then mix all the ingredients together with the beef, mixing well.
 1. Then heat a wok to high heat with a reasonable volume of oil.
 1. Once very hot, pass the meat through the oil for a very brief fry (<30 seconds).
