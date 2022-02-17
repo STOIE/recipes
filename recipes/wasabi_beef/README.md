@@ -1,6 +1,5 @@
-## Black Pepper Beef
+## Wasabi Beef
 
-Note. you will need the homemade black pepper sauce for this recipe (see the recipe for that first)
 
 ### Beef Prep
 
