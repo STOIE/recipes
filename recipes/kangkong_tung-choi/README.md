@@ -1,10 +1,38 @@
 # Kangkong (Tung Choi)
 
+## Quick Fried
+
+Note. recipe is per bunch of Kangkong, simply multiply depending how bunches are used.
+
+### Ingredients
+
+* 1 bunch Kangkong
+* 1/4 large garlic chopped fine (but still a bit chunky)
+* 1 tablespoon of light soy sauce
+* 1 tablespoon of soy bean paste
+* 1/2 tablespoon of oyster sauce
+* 1/2 dried chinese chilli, chopped fine
+* vegetable oil to cook
+
+
+### Method
+
+1. Prepare the Kangkong into 3in long pieces, clean and dry.
+1. In a large mixing bowl, combine all the ingredients and give an initial mix through.
+1. In a wok on high heat, add enough vegetable oil to cook with (min 3-4 tablespoons, not ratioed per bunch though).
+1. Add the kangkong when the wok it very hot, being stiring from the moment it goes in (if more than fits into the wok, add in batches while it wilts).
+1. Cook until fully wilted, fully mixed and crunchy to your liking.
+1. Serve immediately with steamed rice.
+
+
+
+## Blanched Basic
+
 ### Ingredients
 
 * 650 grams Kangkong (or Tung Choi)
 * 1 whole small garlic (or 1/2 a very large one) chopped fine (but still a bit chunky)
-* 4 tablesoons of light soy sauce
+* 4 tablespoons of light soy sauce
 * 1/2 cup peanut oil
 * 2 dried chinese chilli, chopped
 * 1/2 teaspoon of table salt or MSG
