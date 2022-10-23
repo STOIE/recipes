@@ -9,3 +9,4 @@ Basmati | Fluffy | Low Press. Glutin | yes | 1:1.5 | 1 tsp butter per cup and pi
 Jasmine | Fluffy | Low Press. Glutin | yes | 1:1.25 | 
 Jasmine | Sticky | Glutin Rice | yes | 1:1.25 | 
 Sushi | Sticky | Glutin Rice | yes | Use Bowl Marker |
+Thai Glutinous | Sticky | Glutin Rice | yes | 1:0.25 | pre-soak with room temp water for 4 hours, drain and add additional water
