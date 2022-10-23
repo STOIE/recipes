@@ -5,6 +5,6 @@
 
 Rice Type | Finish | Setting | Wash Rice | Rice : Water | Extra
 --- | --- | --- | --- | --- | ---
-Basmati | Fluffy | yes | x | 1:1.5 | 1tsp butter per cup and pinch of salt
-Jasmine | Fluffy | yes | x | x
-Jasmine | Sticky | yes | x | x
+Basmati | Fluffy | x | yes | 1:1.5 | 1tsp butter per cup and pinch of salt
+Jasmine | Fluffy | x | yes | x | x
+Jasmine | Sticky | x | yes | x | x
