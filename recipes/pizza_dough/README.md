@@ -40,22 +40,49 @@
 
 
 
-# Aussie Style
+Mixer hook should be as smooth as possible with no rough edges
 
-### Ingredients
+Use cold water
+Use cold poolish
+Refrigerate mixer hook
+Don’t let dough exceed 25 degrees C
 
-* 200ml water
-* 2-1/2 cups plain flour
-* 1 tablespoon olive oil
-* 1 teaspoon salt
-* 1-3/4 teaspoons dry yeast
+Add poolish to mixer, add all flour, mix on lowest setting
+Let poolish absorb all flour
+In meanwhile mix salt into cold water
+Begin adding water, after a small amount, switch to 2 or 3 speed
+Very slowly add water, little by little
+Over course of about 12 mins mix time
 
 
-### Method
 
-1. With all ingredients at room temperature, place them all into a large mixing bowl.
-1. Mix all through thoroughly until a dough forms.
-1. Knead dough until smooth and stretchy.
-1. Halve dough into two equal parts and let sit on the counter top for 2-4 hours.
 
-The dough can then either be used for a pizza right away, or kept in the fridge wrapped in cling wrap (or aluminium foil) over night. The dough can also be frozen, however this is not the preferred way to use it.
+
+
+
+When removing from mixer, place in a lightly oiled large bowl.
+Form into a large ball and very lightly (with hands) oil the surface before covering with cling wrap.
+Let rest 30 mins.
+
+Cut and Ball out the dough after waiting 30 mins (oil hands first)
+Place into lidded tub for 1-2 hours before using
+
+
+
+
+
+Poolish (makes up to 2lt water in final dough, ie. 2lt+4kg flour at 50% hydration)
+
+Add to medium mixing bowl, 300g cold water, 3g dry yeast and 3g honey.
+Melt yeast and honey into water, let sit for 2-3 mins.
+
+Then add 300g of flour to the mix and mix together.
+(Use 280w flour, not too strong)
+
+When combined cover with cling and let rest for 1hr at room temp. Then fridge for 16-24 hours.
+
+
+
+Your final hydration is taking into account a poolish of 100% AR. (1 part water for every 1 part flour)
+
+If need to make larger quantity, ratio up the water and flour, not the honey and yeast.
