@@ -29,7 +29,7 @@
 * Beef prepared earlier
 * Sous Vide
 
-#### Times and temps (longer and lower = better)
+#### Times and temps (longer and lower = less rendered)
 
 * 24 hours @ 74c
 * 36 hours @ 69c
