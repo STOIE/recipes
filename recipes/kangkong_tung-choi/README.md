@@ -8,8 +8,8 @@ Note. recipe is per bunch of Kangkong, simply multiply depending how bunches are
 
 * 1 bunch Kangkong
 * 1/4 large garlic chopped fine (but still a bit chunky)
-* 1 tablespoon of light soy sauce
-* 1 tablespoon of soy bean paste
+* 3/4 tablespoon of light soy sauce
+* 3/4 tablespoon of soy bean paste
 * 1/2 tablespoon of oyster sauce
 * 1/2 dried chinese chilli, chopped fine
 * vegetable oil to cook
