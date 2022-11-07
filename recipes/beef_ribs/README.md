@@ -31,7 +31,7 @@
 
 #### Times and temps (longer and lower = less rendered)
 
-* 24 hours @ 74c
+* 24 hours @ 74c - recommended
 * 36 hours @ 69c
 * 48 hours @ 63c
 * 72 hours @ 55c
