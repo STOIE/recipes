@@ -15,6 +15,8 @@
 * 1.5-2 cups of room temp water
 * Jasmine rice to serve
 
+You can also cook with chicken or pork, if using meat like this then halve the potatoes and perform a partial fry with the meat in step 4.
+
 
 ### Method
 
@@ -41,6 +43,8 @@
 * 1-2 medium sized carrots (1cm cubed)
 * 3-4 cups of room temp water
 * Jasmine rice to serve
+
+You can also cook with chicken or pork, if using meat like this then halve the potatoes and perform a partial fry with the meat in step 4.
 
 
 ### Method
