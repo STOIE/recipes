@@ -33,18 +33,6 @@ The following recipes are well tested and good to use:
 - [Wasabi Beef](recipes/wasabi_beef/).
 
 
-These recipes are "tested" but need refining, use at your own risk:
-
-- [Chicken Satay](recipes/chicken_satay/).
-- [Chicken with Cashew Nuts](recipes/chicken_with_cashew_nuts/).
-- [McDonalds - Big Mac](recipes/mcdonalds_big_mac/).
-- [Mongolian Beef](recipes/mongolian_beef/).
-- [Peanut Butter Cheesecake](recipes/peanut_butter_cheesecake/).
-- [Pizza Dough](recipes/pizza_dough/).
-- [Sweet Pickle Relish](recipes/sweet_pickle_relish/).
-- [Tandoori Chicken](recipes/tandoori_chicken/).
-
-
 
 Some other "unsorted" links:
 - Other Links [here](./links.md)
