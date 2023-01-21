@@ -8,13 +8,13 @@
 
 #### Initial rub
 
-* 8 pieces of chicken (generally 4 drumsticks and 4 full-thighs)
+* 1kg chicken however you like
 * 1/2 tablespoon fine table salt
 
 
 #### First coating: Dry
 
-* 1 cup plain flour
+* 3/4 cup plain flour
 
 
 #### Second coating: Batter
@@ -27,7 +27,7 @@
 
 #### Third coating: Seasoning
 
-* 3 cups plain flour
+* 1-1/2 cups plain flour
 * 1/2 tablespoon ground thyme
 * 1/2 tablespoon dry mustard
 * 1/4 teaspoon powdered basil
