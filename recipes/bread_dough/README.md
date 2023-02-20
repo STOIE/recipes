@@ -40,9 +40,3 @@
 1. Score the top of the loaf with a bakers lame (knife) as desired.
 1. Quickly place the loaves into the oven and bake for around ~30 minutes.
 1. Once baked, remove from the bread tin(s) and allow to cool on a rack.
-
-
-
-## Notes:
-
-* If need to make larger quantity, ratio up the water, flour, butter and salt, but not the yeast, it should remain the same at 7g.
