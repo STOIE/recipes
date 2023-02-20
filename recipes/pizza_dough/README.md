@@ -1,88 +1,58 @@
-# Classic Neapolitan Style
+# Classic Neapolitan Style (70% AR)
 
-### Ingredients (makes ~10 medium sizes individual pizzas, ratio as required)
+## Phase 1 - Poolish (15 mins prep + 30 mins wait + 16-20 hours wait)
 
-* 1000ml 30-deg C water
-* 1.6kg plain flour 00
-* 20 grams white sugar
-* 50 grams table salt
-* 2 grams dry yeast
-* 50ml olive oil
+### Ingredients (makes 6 12 inch pizzas)
+
+* 500ml room temp water
+* 500 grams flour (like Caputo Super Nuvola)
+* 3 grams honey
+* 3 grams dry instant yeast
 
 
 ### Method
 
-#### Phase 1 - Mixing
-
-1. In a large dough trough, add 1kg of the flour to the side and all the water to the other side.
-1. Add the salt to the water and mix it into the water.
-1. Then mix the yeast into the dry flour (NOT the water - direct contact with the salty water kills the yeast).
-1. Slowly combine the flour into the water, pushing and stirring it in slowly.
-1. Then continue to mix through into a sloppy dough, once it begins sticking together add the sugar sprinkled over with the other hand while still mixing.
-1. Once combined, add the oil over the top of the dough mix and mix through well.
-1. Then, sprinkle in, bit-by-bit the other 500-700 grams of flour (keep the dough moist, not dry).
-1. Start heavily kneading on the bench top for 15-20 minutes.
-1. Then let sit and rest for 20 minutes on the counter, covered with a towel.
-
-#### Phase 2 - Cutting
-
-1. Now we cut the dough while roughing it into baseball sized balls (the full recipe should make 9-10).
-1. Now let the dough balls rest for 6-8 hours.
-
-#### Phase 3 - Forming
-
-1. Pre-heat the oven to the maximum temp (250 deg C+), with a flat tile inside the top half of the oven.
-1. On a floured table top, take a ball at a time.
-1. Try to avoid working the dough, work it as little as possible.
-1. Use finger tips of both hands together like a beak, three pushes from the centre out and then flip, making a round.
+1. Combine the honey into the water and mix until completely disolved.
+1. Then add the instant yeast into the water mix and give a light stir.
+1. In a medium-large mixing bowl, add the flour and then combine the water/honey/yeast mixture.
+1. Mix very well, until all combined and minimal lumps exist.
+1. Cover the bowl with cling film and allow to rest at room temperature for 30 minutes.
+1. After 30 minutes, place into the firdge for a minimum of 16 hours and maximum of 20 hours before proceeding to phase 2.
 
 
+## Phase 2 - Mixing (30 mins prep + 30 mins wait + 15 mins prep + 2-3 hours wait)
+
+### Ingredients (makes 6 12 inch pizzas)
+
+* 200ml cold water
+* 500 grams flour (like Caputo Super Nuvola)
+* 26 grams fine table salt
 
 
+### Method
+
+1. Combine the salt into the water and mix until fully disolved, then set aside.
+1. Take the poolish mixture from the fridge and add into your (appropriate) mixer with a dough hook.
+1. On a low setting, combine the additional flour into the poolish mix over 2-3 minutes.
+1. Then switch the mixer to a medium speed and begin incorporating the water, slowly adding the water over an approx. 8 minute period.
+1. Continue mixing on medium, checking the dough for texture every few minutes, do so by grabbing the dough ball in your finger and pulling it up, it should be a strong heavy strechy texture and not break for at-least 20-30cm, continue mixing until this is achieved.
+1. Once the dough has been mixed adequately, remove from the mixer and place onto a heavily oiled benchtop (with olive oil).
+1. Here use a very strong fold-slap-turn method to degas and form the dough (lift dough from one end on the bench until all in the air, then slap the dough firmly to the bench folding it over itself in the process, then pick up 90 degrees from the direction you picked it up last time).
+1. Do this around 15 times and from into a large dough ball on the counter, then with very oily hands apply oil to the top of the ball.
+1. Next cover in cling flim and let rest for 30 minutes.
+
+
+## Phase 3 - Balling and Prove
+
+1. After 30 minutes, cut the dough ball into 6 equal size portions and using a similar technique as before, form the dough into 6 dough balls.
+1. Place the dough balls into desired proving trays or containers, covered bu not air tight.
+1. Allow to prove at warm room temperature for 2-3 hours before using for pizza.
+
+
+
+
+## Notes:
 
 Mixer hook should be as smooth as possible with no rough edges
-
-Use cold water
-Use cold poolish
-Refrigerate mixer hook
 Don’t let dough exceed 25 degrees C
-
-Add poolish to mixer, add all flour, mix on lowest setting
-Let poolish absorb all flour
-In meanwhile mix salt into cold water
-Begin adding water, after a small amount, switch to 2 or 3 speed
-Very slowly add water, little by little
-Over course of about 12 mins mix time
-
-
-
-
-
-
-
-When removing from mixer, place in a lightly oiled large bowl.
-Form into a large ball and very lightly (with hands) oil the surface before covering with cling wrap.
-Let rest 30 mins.
-
-Cut and Ball out the dough after waiting 30 mins (oil hands first)
-Place into lidded tub for 1-2 hours before using
-
-
-
-
-
-Poolish (makes up to 2lt water in final dough, ie. 2lt+4kg flour at 50% hydration)
-
-Add to medium mixing bowl, 300g cold water, 3g dry yeast and 3g honey.
-Melt yeast and honey into water, let sit for 2-3 mins.
-
-Then add 300g of flour to the mix and mix together.
-(Use 280w flour, not too strong)
-
-When combined cover with cling and let rest for 1hr at room temp. Then fridge for 16-24 hours.
-
-
-
-Your final hydration is taking into account a poolish of 100% AR. (1 part water for every 1 part flour)
-
-If need to make larger quantity, ratio up the water and flour, not the honey and yeast.
+If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
