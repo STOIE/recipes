@@ -2,7 +2,7 @@
 
 ## Phase 1 - Poolish (15 mins prep + 30 mins wait + 16-20 hours wait)
 
-### Ingredients (makes 6 12 inch pizzas)
+### Ingredients (makes 6 ~12inch pizzas)
 
 * 500ml room temp water
 * 500 grams flour (like Caputo Super Nuvola)
