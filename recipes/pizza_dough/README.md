@@ -53,6 +53,6 @@
 
 ## Notes:
 
-Mixer hook should be as smooth as possible with no rough edges
-Don’t let dough exceed 25 degrees C
-If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
+* Mixer hook should be as smooth as possible with no rough edges
+* Don’t let dough exceed 25 degrees C
+* If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
