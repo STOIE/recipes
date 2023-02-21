@@ -36,6 +36,8 @@
 
 ## Phase 3 - Baking
 
+### Method
+
 1. Pre-heat your oven to 230c for at-least 30 minutes with a water tray.
 1. Score the top of the loaf with a bakers lame (knife) as desired.
 1. Quickly place the loaves into the oven and bake for around ~30 minutes.
