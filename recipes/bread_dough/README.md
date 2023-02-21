@@ -17,7 +17,7 @@
 1. Place all the flour and melted butter into the mixer with a dough hook and on lowest setting stir together.
 1. Once combined add the yeast and again, mix on lowest setting until fully combined.
 1. Slowly add the water (over a period of a few minutes) until fully combined.
-1. Now switch the mixer to a medium setting and continue mixing until gluten has formed giving the dough strong stretch (without breaking) and a smooth surface.
+1. Now switch the mixer to a medium setting and continue mixing until gluten has begun forming, the dough should have a smooth surface and come out of the bowl clean.
 1. Either remove the bowl from the mixer and cover in cling film, or move the dough to another bowl and cover with cling film.
 1. Allow to prove at room temp for 1-2.5 hours, until at-least doubled in size.
 
