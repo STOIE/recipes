@@ -4,18 +4,23 @@
 
 ### Ingredients (makes 1000g dough)
 
-* 362ml room temp water
+* 380ml warm water
 * 600 grams bread flour
 * 7 grams dry instant yeast
-* 25 grams melted butter
-* 11 grams fine salt
+* 5 grams honey
+* 10 grams fine salt
+
+
+### Prep
+
+1. Add the honey and yeast to half of the water and stir in, stiring every few minutes for 30 minutes.
+1. Completely disolve all the salt into the other half of the water.
 
 
 ### Method
 
-1. Completely disolved all the salt into the water.
-1. Place all the flour and melted butter into the mixer with a dough hook and on lowest setting stir together.
-1. Once combined add the yeast and again, mix on lowest setting until fully combined.
+1. Place all the flour into a mixer with a dough hook.
+1. Add the yeast water in and mix on lowest setting until fully combined.
 1. Slowly add the water (over a period of a few minutes) until fully combined.
 1. Now switch the mixer to a medium setting and continue mixing until gluten has begun forming, the dough should have a smooth surface and come out of the bowl clean.
 1. Either remove the bowl from the mixer and cover in cling film, or move the dough to another bowl and cover with cling film.
