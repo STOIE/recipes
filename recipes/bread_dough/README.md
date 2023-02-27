@@ -1,6 +1,6 @@
 # Plain White Loaf
 
-## Phase 1 - Mixing (30 mins prep + 1-2.5 hours wait
+## Phase 1 - Mixing (30 mins prep + 1-2.5 hours wait)
 
 ### Ingredients (makes 1000g dough)
 
