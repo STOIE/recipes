@@ -4,17 +4,17 @@
 
 ### Ingredients (makes 1000g dough)
 
-* 380ml warm water
+* 350ml warm water (40 deg c)
 * 600 grams bread flour
-* 7 grams dry instant yeast
+* 10 grams dry instant yeast
 * 5 grams honey
 * 10 grams fine salt
 
 
 ### Prep
 
-1. Add the honey and yeast to half of the water and stir in, stiring every few minutes for 30 minutes.
-1. Completely disolve all the salt into the other half of the water.
+1. Add the honey and yeast to 200ml of the water and stir in, allow to bloom for 10 minutes and the yeast should rise to the surface as a skin.
+1. Completely disolve all the salt into the remaining water.
 
 
 ### Method
