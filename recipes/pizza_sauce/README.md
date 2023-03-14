@@ -2,17 +2,16 @@
 
 ### Ingredients
 
-* 1 kg ripe tomatoes
-* 10 grams table salt
-* 10 big leaves fresh basil
-* Drizzle of olive oil
+* 800g net (480g drained) tin of whole/peeled "DOP" San Marzano tomatoes
+* 10 grams fine salt (1-3/4 teasponns)
+* 35 grams olive oil (2.5 tablespoons)
+* 10 big leaves fresh basil (or 30g / 2 tablespoons, pesto)
 
 
 ### Method
 
-1. Break up the tomatoes shredding them as best you can in a mixing bowl by hand (do not blend).
-1. Sieve the shredded tomatoes lightly (not forcing them into the screen), to remove excess water/juice (which can be added to a pasta sauce or similar later).
-1. Add back to the mixing bowl and mix in the salt.
-1. Tear apart basil leaves, adding them to the sauce.
-1. Then add a drizzle of olive oil to the sauce and mix it all together.
-1. Let the sauce sit for preferably an hour.
+1. Using a large fine sieve over a bowl, pour the tomatoes into the sieve and using a spoons, give approx 10 slow stirs to let the fine juice pass through.
+1. Remove everything else left in the sieve to another bowl. (the fine juice is disposed of, but should be kept for pasta etc)
+1. In the bowl with the chunky tomato / thick paste, add the salt, olive oil and basil (pesto).
+1. Now blend the mixture to a fine consistency using an immersion blender (or by adding to a regular blender).
+1. The sauce should now be ready to use.
