@@ -22,6 +22,8 @@ The following recipes are well tested and good to use:
 - [Mac and Cheese](recipes/mac_and_cheese/).
 - [Mulled Wine](recipes/mulled_wine/).
 - [Onion Rings](recipes/onion_rings/).
+- [Pizza Dough](recipes/pizza_dough/).
+- [Pizza Sauce](recipes/pizza_sauce/).
 - [Salmon](recipes/salmon/).
 - [Sea, Bird and Veg - Chilli Pot](recipes/sea_bird_veg_chilli_pot/).
 - [Singapore Noodles](recipes/singapore_noodles/).
