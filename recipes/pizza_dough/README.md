@@ -61,7 +61,7 @@
 ---
 
 
-# 1 Hour - Bar Style
+# 1 Hour - Bar Style (thin and crispy)
 
 ### Ingredients (makes 2x ~14inch pizzas)
 
