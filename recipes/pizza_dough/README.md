@@ -2,7 +2,7 @@
 
 ## Phase 1 - Poolish (15 mins prep + 30 mins wait + 16-20 hours wait)
 
-### Ingredients (makes 6 ~12inch pizzas)
+### Ingredients (makes 6x ~12inch pizzas)
 
 * 500ml room temp water
 * 500 grams flour (like Caputo Super Nuvola)
@@ -22,7 +22,7 @@
 
 ## Phase 2 - Mixing (30 mins prep + 30 mins wait + 15 mins prep + 2-3 hours wait)
 
-### Ingredients (makes 6 12 inch pizzas)
+### Ingredients (makes 6x 12 inch pizzas)
 
 * 200ml cold water
 * 500 grams flour (like Caputo Super Nuvola)
@@ -56,3 +56,28 @@
 * Mixer hook should be as smooth as possible with no rough edges
 * Don’t let dough exceed 25 degrees C
 * If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
+
+
+
+
+# 1 Hour Bar Style
+
+### Ingredients (makes 2x ~14inch pizzas)
+
+* 210ml beer (lager or draft)
+* 500 grams all-purpose flour
+* 5 grams salt
+* 8 grams sugar
+* 7 grams dry instant yeast
+* 15 grams olive oil
+
+
+### Method
+
+1. Heat the beer in a pot over the stove for 20-30 seconds until it reaches 36C in temperature.
+1. Combine all ingredients less beer in a medium to large mixing bowl (or mixer) and mix through.
+1. Slowly add in the beer while mixing until combined to a shaggy dough.
+1. If mixing by hand, remove and knead on the bench for 2 minutes, else continue to mix in the mixer on a medium setting for another 1-5 minutes.
+1. Divide the dough and ball, leaving on the bench covered with a damp cloth.
+1. Using oil on the bench and a rolling pin, roll out the pizzas and place into an aliminium pizza pan.
+1. Allow the pizzas to rest (and rise) in a warm place (oven with only light on) for 30-40 minutes before topping and cooking.
