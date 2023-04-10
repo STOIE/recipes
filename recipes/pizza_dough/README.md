@@ -58,6 +58,7 @@
 * If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
 
 
+---
 
 
 # 1 Hour Bar Style
