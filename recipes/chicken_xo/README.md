@@ -7,7 +7,7 @@
 * 1kg chicken breast cut into 5mm thick slices
 * 1 teaspoon salt
 * 1/2 teaspoon fine white pepper
-* 3 tablespoons XO sauce
+* 3 tablespoons XO sauce (Lee Kum Kee)
 * 2 tablespoons shaoxing wine
 * 3 teaspoons sugar
 * 3 tablespoons light soy sauce
