@@ -31,7 +31,7 @@
 #### Ingredients
 
 * A mince based mix
-* A small bowl of room temp water
+* A small bowl of warm water
 * Wide steel skewers
 * A grill to cook the skewers over
 
