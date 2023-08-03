@@ -49,7 +49,7 @@
 1. Close the crock pot and cook on either high for 4 hours, or low for 8 hours.
 1. After cooking time is complete, very gently stir the ribs, trying not to break the meat off the bone before serving.
 
-
+---
 
 ## Slow-cooked Sous Vide Beef Ribs
 
