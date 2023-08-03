@@ -21,6 +21,7 @@
 
 #### Ingredients
 
+# 1 teaspoon fine table salt
 * 1/3 cup all-purpose flour
 * 1 large brown onion diced large
 * 4 cloves of garlic, smashed and peeled
@@ -39,7 +40,7 @@
 1. As soon as the butter is melted, start adding the flour and continually stir in while adding, until all in the mix and stirred through.
 1. Once all the flour is mixed in, add the beef broth to the pan and mix through.
 1. Following the beef broth, add the vinegar, soy sauce and honey - stir well until everything is incorporated.
-1. Now taste and season with any additional salt as needed, then shutting off the heat.
+1. Add the final teaspoon of salt, mix through then shut off the heat.
 
 ### Cooking
 
