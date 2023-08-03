@@ -4,7 +4,7 @@
 
 #### Ingredients
 
-* 1.5-2kg meaty beef ribs
+* 1-1.5kg meaty beef ribs
 * 2 tablespoons vegetable oil
 * 1 teaspoon kosher salt
 * 1/2 teaspoon ground black pepper
