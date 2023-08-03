@@ -4,10 +4,10 @@
 
 #### Ingredients
 
-1.5-2kg meaty beef ribs
-2 tablespoons vegetable oil
-1 teaspoon kosher salt
-1/2 teaspoon ground black pepper
+* 1.5-2kg meaty beef ribs
+* 2 tablespoons vegetable oil
+* 1 teaspoon kosher salt
+* 1/2 teaspoon ground black pepper
 
 #### Method
 
@@ -21,14 +21,14 @@
 
 #### Ingredients
 
-1/3 cup all-purpose flour
-1 large brown onion diced large
-4 cloves of garlic, smashed and peeled
-2 cups beef broth
-2 tablespoons unsalted butter
-2 tablespoons light/thin balsamic vinegar
-1 tablespoon honey
-2 tablespoons light soy sauce
+* 1/3 cup all-purpose flour
+* 1 large brown onion diced large
+* 4 cloves of garlic, smashed and peeled
+* 2 cups beef broth
+* 2 tablespoons unsalted butter
+* 2 tablespoons light/thin balsamic vinegar
+* 1 tablespoon honey
+* 2 tablespoons light soy sauce
 
 #### Method
 
