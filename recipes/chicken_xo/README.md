@@ -13,7 +13,7 @@
 * 3 teaspoons sugar
 * 3 tablespoons light soy sauce
 * 2 tablespoons corn starch
-* 3/4 cup of vegetable oil
+* 1-1/2 cups of vegetable oil
 
 #### Method
 
