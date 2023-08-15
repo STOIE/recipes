@@ -31,11 +31,12 @@
 * Chicken prepared earlier
 * 8 rounds of ginger (2mm thick)
 * ~8-10 chopped scallions
+* snow peas if wanted
 * 1-2 whole thai chili, sliced into 1mm thick rounds
 
 #### Method
 
 1. Combine all the ingredients with the previously prepared chicken.
 1. Place onto a large plate, cover tightly with aluminium foil and place into a high heat steamer.
-1. If using a very large plate that can fit all the ingredients, steam for around ~25 minutes, if using two smaller plates, steam for around ~20 minutes, or three-or-more plates for ~15 minutes.
+1. If using a very large plate that can fit all the ingredients, steam for around ~25-30 minutes, if using two smaller plates, steam for around ~20 minutes, or three-or-more plates for ~15 minutes.
 1. Remove and eat with steamed rice.
