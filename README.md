@@ -10,6 +10,7 @@ The following recipes are well tested and good to use:
 - [Black Pepper Sauce](recipes/black_pepper_sauce/).
 - [Bolognese Fiori](recipes/bolognese_fiori/).
 - [Butter Chicken (Murgh Makhani)](recipes/butter_chicken/).
+- [Chicken X.O.](recipes/chicken_xo/).
 - [Cookies with Macadamia and Choc Chips](recipes/cookies_macadamia_choc/).
 - [Fergese](recipes/fergese/).
 - [Ginger Pork Don](recipes/ginger_pork_don/).
