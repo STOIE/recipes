@@ -14,6 +14,7 @@
 * 3 tablespoons light soy sauce
 * 2 tablespoons corn starch
 * 1-1/2 cups of vegetable oil
+* 1-1/2 tablespoons of Lao Gan Ma "Chili in Oil"
 
 #### Method
 
@@ -32,7 +33,7 @@
 * 8 rounds of ginger (2mm thick)
 * ~8-10 chopped scallions
 * snow peas if wanted
-* 1-2 whole thai chili, sliced into 1mm thick rounds
+* 1 whole thai chili, sliced into 0.5mm thick rounds
 
 #### Method
 
