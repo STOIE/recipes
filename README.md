@@ -39,8 +39,3 @@ The following recipes are well tested and good to use:
 
 Some other "unsorted" links:
 - Other Links [here](./links.md)
-
-
-# Cooking Related
-
-- [Japanese Knives](https://www.mtckitchen.com/knife-styles/)
