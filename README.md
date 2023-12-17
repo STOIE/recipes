@@ -34,7 +34,7 @@ The following recipes are well tested and good to use:
 - [Tom Yum](recipes/tom_yum/).
 - [Tzatziki](recipes/tzatziki/).
 - [Wasabi Beef](recipes/wasabi_beef/).
-
+- [X.O. Sauce](recipes/xo_sauce/)
 
 
 Some other "unsorted" links:
