@@ -21,7 +21,7 @@
 
 #### Ingredients
 
-# 1 teaspoon fine table salt
+* 1 teaspoon fine table salt
 * 1/3 cup all-purpose flour
 * 1 large brown onion diced large
 * 4 cloves of garlic, smashed and peeled
