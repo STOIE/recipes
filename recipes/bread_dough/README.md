@@ -1,3 +1,6 @@
+This is old and should not be referenced directly - bread has since spilled into it's own offline book (which I should digitise one day)
+
+
 # Plain White Loaf
 
 ## Phase 1 - Mixing (30 mins prep + 1-2.5 hours wait)
