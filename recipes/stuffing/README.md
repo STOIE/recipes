@@ -14,8 +14,11 @@
 * 4 tablespoons olive oil
 * 2 tablespoon fresh parsley chopped fine (or 2 teaspoons dried)
 * 1/2 teaspoon fine white pepper
-* 1-1/2 teaspoons chicken bouillon powder
-* 1 cup water
+
+**And, pick one or the other:**
+
+# 1-1/2 teaspoons salt + 1 cup of meat drippings
+* 1-1/2 teaspoons chicken bouillon powder + 1 cup of water
 
 #### Method
 
