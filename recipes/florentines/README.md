@@ -2,12 +2,12 @@
 
 #### Ingredients
 
-* 2 cups cornflakes
-* 60 grams glazed red cherries chopped into 8ths
-* 1 cup sultanas
-* 1 cup raw peanuts
-* 2/3 cup condensed milk
-* 120 grams dark chocolate
+* 4 cups cornflakes
+* 120 grams glazed red cherries chopped into 8ths
+* 2 cup sultanas
+* 2 cup raw peanuts
+* 1-1/3 cup condensed milk
+* 240 grams dark chocolate
 
 #### Method
 
