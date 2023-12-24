@@ -6,7 +6,7 @@
 * 120 grams glazed red cherries chopped into 8ths
 * 2 cup sultanas
 * 2 cup raw peanuts
-* 1-1/3 cup condensed milk
+* 400 grams condensed milk
 * 240 grams dark chocolate
 
 #### Method
