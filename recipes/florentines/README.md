@@ -4,8 +4,8 @@
 
 * 4 cups cornflakes
 * 120 grams glazed red cherries chopped into 8ths
-* 2 cup sultanas
-* 2 cup raw peanuts
+* 320 grams (2 cups) sultanas
+* 300 grams (2 cups) raw peanuts
 * 400 grams condensed milk
 * 240 grams dark chocolate
 
