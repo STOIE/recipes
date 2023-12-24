@@ -2,7 +2,7 @@
 
 #### Ingredients
 
-* 3 qty. (355 gram) packets original digestives biscuits
+* 1000 grams original digestives biscuits
 * 800 grams condensed milk
 * 8 tablespoons cocoa powder
 * 8 tablespoons rum
@@ -10,7 +10,7 @@
 
 **plus an additional:**
 
-* 400 grams (4 cups) desiccated coconut (can used shredded if desiccated not available)
+* 200 grams (2 cups) desiccated coconut (can used shredded if desiccated not available)
 
 #### Method
 
