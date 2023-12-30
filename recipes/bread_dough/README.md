@@ -1,4 +1,51 @@
-This is old and should not be referenced directly - bread has since spilled into it's own offline book (which I should digitise one day)
+# Bread Maker Recipes (BBM-800)
+
+## White Loaf
+
+### Ingredients
+
+* 380 grams bread flour (10% protein)
+* 300 grams water (room temp)
+* 6 grams instant yeast
+* 8 grams salt
+* 8 grams bread improver
+* 8 grams corn flour (corn starch)
+
+
+### Machine Settings
+
+#### Winter
+
+*Custom - clone from basic: dark, 1.25kg*
+* Knead 1 - 8 mins
+* Knead 2 - 25 mins
+* Rise - 32 deg C
+* Rise 1 - 40 mins
+* Punch down 1 - 20 seconds
+* Rise 2 - 30 mins
+* Punch down 2 - 25 seconds
+* Rise 3 - 65 mins
+* Bake - 80 mins @ 142 deg C
+
+#### Summer
+
+*Custom - clone from basic: dark, 1.25kg*
+* Knead 1 - 8 mins
+* Knead 2 - 25 mins
+* Rise - 28 deg C
+* Rise 1 - 35 mins
+* Punch down 1 - 20 seconds
+* Rise 2 - 22 mins
+* Punch down 2 - 25 seconds
+* Rise 3 - 50 mins
+* Bake - 80 mins @ 142 deg C
+
+---
+
+
+
+
+The below is old and should not be referenced directly - bread has since spilled into it's own offline book (which I should digitise one day)
 
 
 # Plain White Loaf
