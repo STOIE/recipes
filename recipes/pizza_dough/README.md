@@ -20,7 +20,7 @@
 1. After 30 minutes, place into the firdge for a minimum of 16 hours and maximum of 20 hours before proceeding to phase 2.
 
 
-## Phase 2 - Mixing (30 mins prep + 30 mins wait + 15 mins prep + 2-3 hours wait)
+## Phase 2 - Mixing (30 mins prep + 30 mins wait)
 
 ### Ingredients (makes 9x 12 inch pizzas)
 
@@ -42,7 +42,7 @@
 1. Next cover in cling flim and let rest for 30 minutes.
 
 
-## Phase 3 - Balling and Prove
+## Phase 3 - Balling and Prove (15 mins prep + 2-4 hours wait)
 
 1. After 30 minutes, cut the dough ball into 9 equal size portions and using a similar technique as before, form the dough into 9 dough balls.
 1. Place the dough balls into desired proving trays or containers, covered but not air tight.
@@ -83,7 +83,7 @@
 1. After 30 minutes, place into the firdge for a minimum of 16 hours and maximum of 20 hours before proceeding to phase 2.
 
 
-## Phase 2 - Mixing (30 mins prep + 30 mins wait + 15 mins prep + 2-3 hours wait)
+## Phase 2 - Mixing (30 mins prep + 30 mins wait)
 
 ### Ingredients (makes 9x 12 inch pizzas)
 
@@ -111,12 +111,12 @@
 1. Next cover in cling flim and let rest for 30 minutes.
 
 
-## Phase 3 - Cold Ferment
+## Phase 3 - Cold Ferment (4 hour wait)
 
 1. After 30 minutes, place the dough ball into a large bowl, seal the top of the bowl with cling film and place into the refrigerator for 4 hours.
 
 
-## Phase 4 - Balling and Prove
+## Phase 4 - Balling and Prove (15 mins prep + 1-3 hours wait)
 
 1. After the 4 hours, cut the dough ball into 9 equal size portions and using a similar technique as before, form the dough into 9 dough balls.
 1. Place the dough balls into desired oiled proving trays or containers, covered but not air tight - with a good coat of oil on top of each ball.
