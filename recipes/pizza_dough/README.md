@@ -44,7 +44,7 @@
 
 ## Phase 3 - Balling and Prove
 
-1. After 30 minutes, cut the dough ball into 6 equal size portions and using a similar technique as before, form the dough into 9 dough balls.
+1. After 30 minutes, cut the dough ball into 9 equal size portions and using a similar technique as before, form the dough into 9 dough balls.
 1. Place the dough balls into desired proving trays or containers, covered but not air tight.
 1. Allow to prove at warm room temperature for 2-4 hours before using for pizza.
 
@@ -61,7 +61,7 @@
 ---
 
 
-# New York Style (70% AR)
+# New York Style (63% AR)
 
 ## Phase 1 - Poolish (15 mins prep + 30 mins wait + 16-20 hours wait)
 
@@ -119,7 +119,7 @@
 ## Phase 4 - Balling and Prove
 
 1. After the 4 hours, cut the dough ball into 9 equal size portions and using a similar technique as before, form the dough into 9 dough balls.
-1. Place the dough balls into desired proving trays or containers, covered but not air tight.
+1. Place the dough balls into desired oiled proving trays or containers, covered but not air tight - with a good coat of oil on top of each ball.
 1. Allow to prove at warm room temperature for 1-3 hours before using for pizza.
 
 
