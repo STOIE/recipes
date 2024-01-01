@@ -35,9 +35,9 @@
 * Rise - 28 deg C
 * Rise 1 - 35 mins
 * Punch down 1 - 20 seconds
-* Rise 2 - 22 mins
+* Rise 2 - 25 mins
 * Punch down 2 - 25 seconds
-* Rise 3 - 50 mins
+* Rise 3 - 60 mins
 * Bake - 80 mins @ 142 deg C
 
 ---
