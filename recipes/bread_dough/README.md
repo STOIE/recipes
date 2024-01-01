@@ -17,6 +17,7 @@
 #### Winter
 
 *Custom - clone from basic: dark, 1.25kg*
+
 * Knead 1 - 8 mins
 * Knead 2 - 25 mins
 * Rise - 32 deg C
@@ -30,6 +31,7 @@
 #### Summer
 
 *Custom - clone from basic: dark, 1.25kg*
+
 * Knead 1 - 8 mins
 * Knead 2 - 25 mins
 * Rise - 28 deg C
