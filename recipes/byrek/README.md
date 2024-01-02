@@ -32,7 +32,7 @@
 #### Ingredients
 
 * dough made earlier
-* 100 grams butter (softened at room temp)
+* 50 grams butter (softened at room temp)
 * an amount of vegetable oil
 
 #### Method
@@ -56,8 +56,8 @@
 
 #### Ingredients
 
-* 400 grams cheese (feta or ricotta or cottage)
-* 5 tablespoons greek yoghurt
+* 300 grams cheese (feta or ricotta or cottage)
+* 4 tablespoons greek yoghurt
 
 #### Method
 
