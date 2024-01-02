@@ -69,7 +69,7 @@
 
 #### Ingredients
 
-* 2 medium sized onions (white, else brown is fine) diced
+* 1 medium sized onion (white, else brown is fine) diced
 * 3 medium (2 large) tomatoes diced
 * big pinch of salt (fine)
 * an amount of vegetable oil
@@ -84,11 +84,17 @@
 
 #### Ingredients
 
-* X grams minced meat (beef, lamb, pork etc)
+* 300 grams minced meat (beef, lamb, pork etc)
+* 1/2 a medium sized onion (white, else brown is fine) diced
+* 2 medium (2 large) tomatoes diced
+* big pinch of salt (fine)
+* an amount of vegetable oil
+
 
 #### Method
 
-1. Blah
+1. Add all the ingredients, including a splash of oil to a pan.
+1. Saute on medium-high heat until the tomatoes are rendered and mince cooked through.
 
 
 **Spinach Filling**
