@@ -63,7 +63,7 @@
 
 #### Ingredients
 
-* X grams baby spinach
+* 2 cups (one large handful) baby spinach
 * pinch of salt (fine)
 * an amount of vegetable oil
 
