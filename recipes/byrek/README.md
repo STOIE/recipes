@@ -50,6 +50,8 @@
 
 **Pick One Below**
 
+Fillings can also be made in advance - frozen, then thawed prior to use.
+
 **Cheese Filling**
 
 #### Ingredients
@@ -67,13 +69,15 @@
 
 #### Ingredients
 
-* 3 cups (one large handful) baby spinach
+* 2 medium sized onions (white, else brown is fine) diced
+* 3 medium (2 large) tomatoes diced
 * big pinch of salt (fine)
 * an amount of vegetable oil
 
 #### Method
 
-1. Add the spinach to a small non-stick frying pan and fry lightly with oil and a pinch of salt until fully wilted and cooked.
+1. Add all the ingredients, including a splash of oil to a pan.
+1. Saute on medium-high heat until the tomatoes are rendered and onions cooked without browning.
 
 
 **Spinach Filling**
