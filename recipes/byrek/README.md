@@ -2,11 +2,11 @@
 
 ***Byrek*** (Albanian), also known as *Burek* (Slavic) and *Borek* (Turkish).
 
+---
 
 ## Triangles
 
 *Makes 10 large triangles.*
-
 
 ### Phase 1 - Making the dough (10 minutes + 60 minutes wait)
 
@@ -25,6 +25,7 @@
 1. Mix and knead either in a mixer with a dough hook, or by hand.
 1. On an oiled benchtop, ball into one large ball, oil the top of the ball and leave covered with cling film to rest for 60 minutes.
 
+---
 
 ### Phase 2 - Dough layering (15 minutes + 30 minutes wait)
 
@@ -43,6 +44,7 @@
 1. Now starting from the short edge, roll the dough up into an approx 20cm wide roll.
 1. Again cover with cling film and allow to rest for a further 30 minutes.
 
+---
 
 ### Phase 3 - Filling (can be made during the phase 2 wait)
 
@@ -71,6 +73,7 @@
 
 1. Add the spinach to a small non-stick frying pan and fry lightly with oil and a pinch of salt until fully wilted and cooked.
 
+---
 
 ### Phase 4 - Prep and Baking (230 minutes + 20 minutes)
 
