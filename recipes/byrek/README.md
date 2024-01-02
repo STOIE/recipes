@@ -48,12 +48,14 @@
 
 ### Phase 3 - Filling (can be made during the phase 2 wait)
 
+**Pick One Below**
+
 **Cheese Filling**
 
 #### Ingredients
 
-* 300 grams cheese (feta or ricotta or cottage)
-* 4 tablespoons greek yoghurt
+* 400 grams cheese (feta or ricotta or cottage)
+* 5 tablespoons greek yoghurt
 
 #### Method
 
@@ -65,8 +67,8 @@
 
 #### Ingredients
 
-* 2 cups (one large handful) baby spinach
-* pinch of salt (fine)
+* 3 cups (one large handful) baby spinach
+* big pinch of salt (fine)
 * an amount of vegetable oil
 
 #### Method
