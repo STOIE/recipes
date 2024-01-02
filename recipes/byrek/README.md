@@ -75,7 +75,7 @@
 
 ---
 
-### Phase 4 - Prep and Baking (230 minutes + 20 minutes)
+### Phase 4 - Prep and Baking (30 minutes + 20 minutes)
 
 #### Ingredients
 
