@@ -19,14 +19,14 @@
 *Custom - clone from basic: dark, 1.25kg*
 
 * Knead 1 - 8 mins
-* Knead 2 - 25 mins
+* Knead 2 - 30 mins
 * Rise - 32 deg C
 * Rise 1 - 40 mins
 * Punch down 1 - 20 seconds
 * Rise 2 - 30 mins
 * Punch down 2 - 25 seconds
 * Rise 3 - 65 mins
-* Bake - 80 mins @ 142 deg C
+* Bake - 75 mins @ 142 deg C
 
 #### Summer
 
