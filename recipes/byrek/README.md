@@ -63,6 +63,19 @@
 1. Then add the yoghurt and mix together until combined.
 
 
+**Tomato and Onion Filling**
+
+#### Ingredients
+
+* 3 cups (one large handful) baby spinach
+* big pinch of salt (fine)
+* an amount of vegetable oil
+
+#### Method
+
+1. Add the spinach to a small non-stick frying pan and fry lightly with oil and a pinch of salt until fully wilted and cooked.
+
+
 **Spinach Filling**
 
 #### Ingredients
