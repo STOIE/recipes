@@ -4,8 +4,10 @@
 
 ### Ingredients
 
+*Note. in winter use 100% room temp water, summer use 100% fridge water and in the off seasons use a 50:50 mix.*
+
 * 380 grams bread flour (10% protein)
-* 300 grams water (room temp)
+* 300 grams water (see note above)
 * 6 grams instant yeast
 * 8 grams salt
 * 8 grams bread improver
@@ -33,14 +35,14 @@
 *Custom - clone from basic: dark, 1.25kg*
 
 * Knead 1 - 8 mins
-* Knead 2 - 25 mins
+* Knead 2 - 30 mins
 * Rise - 28 deg C
-* Rise 1 - 40 mins
-* Punch down 1 - 20 seconds
+* Rise 1 - 45 mins
+* Punch down 1 - 10 seconds
 * Rise 2 - 30 mins
-* Punch down 2 - 25 seconds
+* Punch down 2 - 15 seconds
 * Rise 3 - 65 mins
-* Bake - 80 mins @ 142 deg C
+* Bake - 70 mins @ 142 deg C
 
 ---
 
