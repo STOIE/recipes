@@ -22,9 +22,9 @@
 * Knead 2 - 30 mins
 * Rise - 32 deg C
 * Rise 1 - 45 mins
-* Punch down 1 - 12 seconds
+* Punch down 1 - 10 seconds
 * Rise 2 - 30 mins
-* Punch down 2 - 25 seconds
+* Punch down 2 - 15 seconds
 * Rise 3 - 65 mins
 * Bake - 70 mins @ 142 deg C
 
