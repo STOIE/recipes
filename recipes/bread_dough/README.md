@@ -28,7 +28,7 @@
 * Rise 2 - 30 mins
 * Punch down 2 - 15 seconds
 * Rise 3 - 65 mins
-* Bake - 70 mins @ 142 deg C
+* Bake - 70 mins @ 150 deg C
 
 #### Summer
 
