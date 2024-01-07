@@ -16,8 +16,6 @@
 
 ### Machine Settings
 
-#### Winter
-
 *Custom - clone from basic: dark, 1.25kg*
 
 * Knead 1 - 8 mins
@@ -29,20 +27,6 @@
 * Punch down 2 - 15 seconds
 * Rise 3 - 65 mins
 * Bake - 70 mins @ 150 deg C
-
-#### Summer
-
-*Custom - clone from basic: dark, 1.25kg*
-
-* Knead 1 - 8 mins
-* Knead 2 - 30 mins
-* Rise - 28 deg C
-* Rise 1 - 45 mins
-* Punch down 1 - 10 seconds
-* Rise 2 - 30 mins
-* Punch down 2 - 15 seconds
-* Rise 3 - 65 mins
-* Bake - 70 mins @ 142 deg C
 
 ---
 
