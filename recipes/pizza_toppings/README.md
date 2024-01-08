@@ -56,10 +56,35 @@
 * salami genoa
 
 
-## Sole Mio
+## Kapricoze
 
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
 * prosciutto cotto (cooked/smoked ham)
-* egg
+* salami genoa
+* champignon mushrooms (white button)
+* red banana chillies
+* kalamata olives
+
+
+## Kater Stinet
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* prosciutto cotto (cooked/smoked ham)
+* salami genoa
+* champignon mushrooms (white button)
+* tuna
+
+
+## Beicon Pikant
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* bacon
+* pickled hot italian chillies
+
+
