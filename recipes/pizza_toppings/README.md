@@ -115,10 +115,93 @@
 * champignon mushrooms (white button)
 
 
-## Tartuf Kerpudhe
+## Ton Tartuf
 
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
 * white truffle salsa
+* tuna
+
+
+## Vegjetariane
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* seasonal vegetables
+* champignon mushrooms (white button)
+
+
+## Fshati
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* red banana chillies
+* kalamata olives
+# tomato slices
+* eshallots
+* feta
+
+
+## Kerpudhe
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* champignon mushrooms (white button)
+
+
+## Ton - Kerpudhe
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* champignon mushrooms (white button)
+* tuna
+
+
+## Kater Djathrat
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* gorgonzola
+* reggiano parmigiano (uncooked, grated over the hot pizza)
+
+
+## Kater Djathrat Pikant
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* gorgonzola
+* reggiano parmigiano (uncooked, grated over the hot pizza)
+* spicy pepperoni
+
+
+## Diavolo
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* spicy pepperoni
+
+
+## Ton
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* tuna
+
+
+## Ton Qep Ulli
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* eshallots
+* kalamata olives
 * tuna
