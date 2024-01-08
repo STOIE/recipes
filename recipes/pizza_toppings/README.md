@@ -19,7 +19,7 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* prosciutto cotto (cooked/smoked ham)
+* prosciutto crudo (cooked on the pizza)
 
 
 ## Sallam
@@ -35,7 +35,7 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* bacon
+* ham
 
 
 ## Proshute - Kerpudhe
@@ -43,7 +43,7 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* prosciutto cotto (cooked/smoked ham)
+* prosciutto crudo (cooked on the pizza)
 * champignon mushrooms (white button)
 
 
@@ -52,7 +52,7 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* prosciutto cotto (cooked/smoked ham)
+* prosciutto crudo (cooked on the pizza)
 * salami genoa
 
 
@@ -61,7 +61,7 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* prosciutto cotto (cooked/smoked ham)
+* prosciutto crudo (cooked on the pizza)
 * salami genoa
 * champignon mushrooms (white button)
 * red banana chillies
@@ -73,7 +73,7 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* prosciutto cotto (cooked/smoked ham)
+* prosciutto crudo (cooked on the pizza)
 * salami genoa
 * champignon mushrooms (white button)
 * tuna
@@ -84,7 +84,15 @@
 * tomato sauce
 * gouda or pecorino - fine layer on the base
 * mozzarella (fior di latte)
-* bacon
+* ham
 * pickled hot italian chillies
 
 
+## Tre Sallami
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* prosciutto crudo (cooked on the pizza)
+* salami genoa
+* ham
