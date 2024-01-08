@@ -1,6 +1,6 @@
-[Prosciutto explained](https://www.eataly.com/us_en/magazine/culture-and-tradition/prosciutto-cotto-crudo)
-[Types of Italian salami](https://giadzy.com/blogs/tips/get-to-know-the-different-types-of-italian-salami)
-[Types of Italian mushrooms](https://www.italian-feelings.com/a-visual-guide-for-italian-mushrooms-an-infographic/)
+* [Prosciutto explained](https://www.eataly.com/us_en/magazine/culture-and-tradition/prosciutto-cotto-crudo)
+* [Types of Italian salami](https://giadzy.com/blogs/tips/get-to-know-the-different-types-of-italian-salami)
+* [Types of Italian mushrooms](https://www.italian-feelings.com/a-visual-guide-for-italian-mushrooms-an-infographic/)
 
 
 1. [Tom Yum Soup](https://www.eatingthaifood.com/tom-yum-soup-recipe/)
