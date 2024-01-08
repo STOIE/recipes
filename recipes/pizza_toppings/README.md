@@ -96,3 +96,29 @@
 * prosciutto crudo (cooked on the pizza)
 * salami genoa
 * ham
+
+
+## Proshute Krudo
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* prosciutto crudo (uncooked, added after pizza is cooked)
+
+
+## Tartuf Kerpudhe
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* white truffle salsa
+* champignon mushrooms (white button)
+
+
+## Tartuf Kerpudhe
+
+* tomato sauce
+* gouda or pecorino - fine layer on the base
+* mozzarella (fior di latte)
+* white truffle salsa
+* tuna
