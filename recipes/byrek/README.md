@@ -58,9 +58,9 @@
 
 ---
 
-### Phase 4 - Filling (can be made during the phase 2 wait)
+### Phase 4 - Filling (can be made during the phase 3 wait)
 
-**Pick One Below**
+**Pick One Below** - quantities are per 10 byrek.
 
 *Fillings can also be made in advance - frozen, then thawed prior to use.*
 
@@ -73,7 +73,7 @@
 
 #### Method
 
-1. On a plate, break up the cheese with a fork until in a rough gravel.
+1. In a bowl, break up the cheese with a fork or similar until a rough gravel.
 1. Then add the yoghurt and mix together until combined.
 
 
