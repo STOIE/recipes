@@ -6,28 +6,40 @@
 
 ## Triangles
 
-*Makes 10 large triangles.*
+*Makes 10 large triangles.* - multiply recipe as required.
 
-### Phase 1 - Making the dough (10 minutes + 60 minutes wait)
+### Phase 1 - Making the dough (25 minutes + 30 minutes wait)
 
 #### Ingredients
 
 * 500 grams flour (strong bakers flour, 12%+)
-* 300 ml water (room temp)
+* 300 ml water (approx 50:50 - room:fridge water)
 * 1 teaspoon salt (fine)
 * 1 tablespoon vinegar (balsamic or white)
 * an amount of vegetable oil
 
 #### Method
 
-1. Add the flour and salt into a large mixing bowl and incorporate.
-1. Then add the vinegar to the bowl, followed by the water.
-1. Mix and knead either in a mixer with a dough hook, or by hand.
-1. On an oiled benchtop, ball into one large ball, oil the top of the ball and leave covered with cling film to rest for 60 minutes.
+1. Weigh out the flour and water in separate bowls, flour can be placed directly into a mixer bowl.
+1. Add the salt to the water and stir until disolved, then add the vinegar to the water.
+1. Now add approx half the water mixture to the mixing bowl containing the flour.
+1. Mix briefly allowing the water to combine, then add another half of the remaining water, mixing briefly again until incorporated.
+1. Then add the remaining water to the mixing bowl and allow to fully mix through into a dough.
+1. Then if using a mixer, continue to knead in the mixer - else remove the dough from the bowl and knead by hand on a benchtop.
+1. Lastly, on an oiled benchtop, ball into one large ball, oil the top of the ball and leave covered with cling film to rest for 30 minutes.
 
 ---
 
-### Phase 2 - Dough layering (15 minutes + 30 minutes wait)
+### Phase 2 - Perform folds and reball (5 minutes + 30 minutes wait)
+
+#### Method
+
+1. Removing the cling film and setting it aside to reuse, perform some folds to the doughball (approx 10).
+1. Reball, oil the top and cover again with the cling film and allow to rest an additional 30 minutes.
+
+---
+
+### Phase 3 - Dough layering (15 minutes + 30 minutes wait)
 
 #### Ingredients
 
@@ -46,7 +58,7 @@
 
 ---
 
-### Phase 3 - Filling (can be made during the phase 2 wait)
+### Phase 4 - Filling (can be made during the phase 2 wait)
 
 **Pick One Below**
 
@@ -111,7 +123,7 @@
 
 ---
 
-### Phase 4 - Prep and Baking (30 minutes + 20 minutes)
+### Phase 5 - Prep and Baking (30 minutes + 20 minutes)
 
 #### Ingredients
 
