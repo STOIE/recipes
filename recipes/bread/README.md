@@ -28,6 +28,26 @@
 * Rise 3 - 65 mins
 * Bake - 70 mins @ 150 deg C
 
+
+## Banana Bread
+
+### Ingredients
+
+* 320 grams very ripe bananas, mashed (approx. 3)
+* 390 grams white flour (10% protein)
+* 300 grams brown sugar
+* 160 grams unsalted butter, cold melted
+* 160 grams egg, beaten (approx 3)
+* 1-1/2 teaspoons vanilla extract
+* 1-1/2 teaspoons baking soda (bi-carb)
+* 1-1/2 teaspoons baking powder
+* 3/4 teaspoon salt
+
+
+### Machine Settings
+
+*Sweet: 1.25kg*
+
 ---
 
 
