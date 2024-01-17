@@ -4,7 +4,7 @@
 
 ### Ingredients (makes 9x ~12inch pizzas)
 
-* 750ml room temp water
+* 750ml water (room temp)
 * 750 grams flour (like Caputo Super Nuvola)
 * 3 grams honey
 * 3 grams dry instant yeast
@@ -24,7 +24,7 @@
 
 ### Ingredients (makes 9x 12 inch pizzas)
 
-* 300ml cold water
+* 300ml water (50:50, room-temp:fridge)
 * 750 grams flour (like Caputo Super Nuvola)
 * 40 grams fine table salt
 
@@ -87,7 +87,7 @@
 
 ### Ingredients (makes 9x 12 inch pizzas)
 
-* 500ml cold water
+* 500ml water (50:50, room-temp:fridge)
 * 750 grams flour (like Caputo Pizzeria 00)
 * 335 grams semolina
 * 50 grams fine table salt
