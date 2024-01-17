@@ -46,7 +46,17 @@
 
 ### Machine Settings
 
-*Sweet: 1.25kg*
+*Custom - clone from sweet: 1.25kg*
+
+* Knead 1 - 5 mins
+* Knead 2 - 20 mins
+* Rise - 32 deg C
+* Rise 1 - 0 mins
+* Punch down 1 - 0 seconds
+* Rise 2 - 0 mins
+* Punch down 2 - 0 seconds
+* Rise 3 - 0 mins
+* Bake - 85 mins @ 123 deg C
 
 ---
 
