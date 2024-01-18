@@ -48,8 +48,8 @@
 
 *Custom - clone from sweet: 1.25kg*
 
-* Knead 1 - 5 mins
-* Knead 2 - 20 mins
+* Knead 1 - 3 mins
+* Knead 2 - 25 mins
 * Rise - 32 deg C
 * Rise 1 - 0 mins
 * Punch down 1 - 0 seconds
