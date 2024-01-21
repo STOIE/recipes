@@ -1,4 +1,4 @@
-# Rice Recipes (Cuckoo CRP-JHT1010F)
+# Rice Machine Recipes (Cuckoo CRP-JHT1010F)
 
 ### Note. Minimum is 2 cups of rice.
 <br>
