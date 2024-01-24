@@ -27,7 +27,7 @@
 * 6 tablespoons vegetable oil
 * 7 garlic cloves, minced
 * 1 large onion, diced (any variety)
-* 500 gram tin tomatoes
+* 560 grams tin tomatoes
 * 230ml orange juice
 * 670ml beef or chicken broth (or stock)
 * 160ml water
