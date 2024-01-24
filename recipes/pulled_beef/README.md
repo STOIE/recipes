@@ -23,17 +23,11 @@
 
 #### Ingredients
 
-* 2kg beef brisket (cut into 4-5 chunks)
+* 2kg beef brisket (cut into 5 chunks)
 * 6 tablespoons vegetable oil
 * 7 garlic cloves, minced
-* 1 large onion, diced (any variety)
-* 560 grams tin tomatoes
-* 230ml orange juice
-* 670ml beef or chicken broth (or stock)
+* 1 large onion, diced fine (any variety)
 * 160ml water
-* 3 tablespoons lime juice
-* 1 teaspoon salt
-* 1/2 teaspoon black pepper
 
 #### Method
 
@@ -44,6 +38,15 @@
 1. Using the water deglaze the pan and then add everything to the slow cooker bowl.
 
 ### Cooking (5 mins prep + 8 hours cook + 20 mins prep)
+
+#### Ingredients
+
+* 560 grams tinned tomatoes
+* 230ml orange juice (2 oranges)
+* 670ml beef or chicken broth (or stock)
+* 3 tablespoons lime juice
+* 1 teaspoon salt
+* 1/2 teaspoon black pepper
 
 #### Method
 
