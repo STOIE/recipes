@@ -2,9 +2,7 @@
 
 ## Slow Cooker Mexican Beef (Brisket)
 
-(20 mins prep + 3 hours cook)
-
-### Spice Prep
+### Spice Prep (5 mins prep)
 
 #### Ingredients
 
@@ -19,21 +17,14 @@
 
 #### Method
 
-1. Leaving all the beef drippings in the pan from earlier, switch the heat to medium and add the onions to the pan.
-1. Allow the onions to cook in the drippings until lightly golden brown, then add the garlic.
-1. Let the garlic to only cook briefly, constantly moving it for around 30 seconds (or less).
-1. Next, add the butter to the pan and stir in.
-1. As soon as the butter is melted, start adding the flour and continually stir in while adding, until all in the mix and stirred through.
-1. Once all the flour is mixed in, add the beef broth to the pan and mix through.
-1. Following the beef broth, add the vinegar, soy sauce and honey - stir well until everything is incorporated.
-1. Add the final teaspoon of salt, mix through then shut off the heat.
+1. Add all ingredients to a small mixing bowl, and mix until thoroughly combined.
 
-### Beef Prep
+### Beef Prep (45 mins prep)
 
 #### Ingredients
 
 * 2kg beef brisket (cut into 4-5 chunks)
-* 3 tablespoons vegetable oil
+* 6 tablespoons vegetable oil
 * 7 garlic cloves, minced
 * 1 large onion, diced (any variety)
 * 500 gram tin tomatoes
@@ -46,16 +37,22 @@
 
 #### Method
 
-1. In a large bowl, season the beef ribs with the salt and pepper, mixing thoroughly.
-1. Add the oil to a steel/cast iron pan and pre-heat to near smoke point.
-1. Add the ribs to the pan, allowing each side to brown before turning to an un-browned side.
-1. Repeat turning of the ribs until all sides are browned.
-1. Once browned, turn off the heat and remove the ribs from the pan, adding them into the crock pot.
+1. In a large mixing bowl, apply 6 teaspoons of the spice mix to the beef chunks and rub into the surface so it sticks.
+1. Pre-heat a large heavy frying pan over high heat, add half the vegetable oil and then add the beef chunks, searing on all sides (add in batches if necessary).
+1. Remove the beef from the pan and set aside in your slow cooker bowl.
+1. Now add the remaining vegetable oil to the pan, then adding the garlic and onion and fry briefly until fragrant before adding the water to the pan.
+1. Using the water deglaze the pan and then add everything to the slow cooker bowl.
 
-### Cooking
+### Cooking (5 mins prep + 8 hours cook + 20 mins prep)
 
 #### Method
 
-1. Add the gravy mix to the crock pot containing the ribs, covering the ribs in the gravy.
-1. Close the crock pot and cook on either high for 4 hours, or low for 8 hours.
-1. After cooking time is complete, very gently stir the ribs, trying not to break the meat off the bone before serving.
+1. Add the orange and lime juice to the slow cooker bowl, followed by tomatoes and broth (or stock).
+1. Now add the remaing spice mix, salt and pepper, then stir mixing everything through.
+1. Close the slow cooker and cook on low temp slow cook for 8 hours.
+1. After cooking time is complete, remove the meat from the pot and tear apart, then setting it aside.
+1. Now remove the sauce remaing in the pot to an appropriate size saucepan.
+1. Simmer on the stove for 10-15 minutes allowing to reduce-thicken slightly, adding any additional salt if necessary.
+1. Finally add the beef back into the sauce and serve.
+
+Note. when storing in fridge, keep the sauce and beef separate as to avoid the beef becomming too soggy.
