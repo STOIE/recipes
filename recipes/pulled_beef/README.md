@@ -8,7 +8,7 @@
 
 * 1-1/2 teaspoon fine table salt
 * 1-1/2 teaspoon ground back pepper
-* 2 tablespoons chipotle powder
+* 2 tablespoons chipotle powder (or smoked paprike + 1/2 teaspoon cayenne pepper powder)
 * 1-1/2 tablespoons sweet paprika
 * 1-1/2 tablespoons dried oregano
 * 1-1/2 teaspoons ground all-spice
