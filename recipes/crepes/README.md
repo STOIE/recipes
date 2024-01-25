@@ -1,6 +1,6 @@
 # Crepes
 
-## Classic French
+## Savory
 
 ### Batter Prep
 
@@ -19,7 +19,7 @@
 1. Take two mixing bowls, one medium sized, one large.
 1. In the small bowl, add the eggs then whisk, next adding the milk, water and oil; then whisk again to combine.
 1. In the large bowl measure out the flour, salt and sugar.
-1. Add about 1/3 of the egg mix to the flour flour and using the whisk, fix until most lumps are removed.
+1. Add about 1/3 of the egg mix to the flour and using the whisk, mix until most lumps are removed.
 1. Then add the remaining egg mixture to the batter and continue to mix until smooth with no lumps.
 
 ### Cooking
