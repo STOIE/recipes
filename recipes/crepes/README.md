@@ -7,8 +7,8 @@
 #### Ingredients
 
 * 700ml milk, full cream
-* 300ml water, room temp
-* 7 eggs, large
+* 350ml water, room temp
+* 6 eggs, large
 * 6 tablespoons vegetable oil
 * 9 teaspoons sugar
 * 1-1/2 teaspoons salt, fine table
