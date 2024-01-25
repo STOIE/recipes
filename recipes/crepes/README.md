@@ -6,13 +6,13 @@
 
 #### Ingredients
 
-* 600ml milk, full cream
+* 700ml milk, full cream
 * 300ml water, room temp
 * 7 eggs, large
 * 6 tablespoons vegetable oil
 * 9 teaspoons sugar
 * 1-1/2 teaspoons salt, fine table
-* 340 grams flour, plain 0/00 ~10%
+* 350 grams flour, plain 0/00 ~10%
 
 #### Method
 
