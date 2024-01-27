@@ -2,6 +2,8 @@
 
 ## Chicken
 
+### Slow Cooker
+
 #### Ingredients
 
 * 1.5kg chicken (breast or thigh)
@@ -9,7 +11,7 @@
 * 700ml chicken stock
 * 120 grams green curry paste (Maeploy)
 * 6 tablespoons palm sugar
-* 5 tablespoons fish sauce
+* 3 tablespoons fish sauce
 * 10 kaffir lime leaves, torn
 * 900 grams bamboo shoots, tinned slices
 * 3 cups thai basil
@@ -17,8 +19,10 @@
 
 #### Method
 
-1. In a large mixing bowl, apply 6 teaspoons of the spice mix to the beef chunks and rub into the surface so it sticks.
-1. Pre-heat a large heavy frying pan over high heat, add half the vegetable oil and then add the beef chunks, searing on all sides (add in batches if necessary).
-1. Remove the beef from the pan and set aside in your slow cooker bowl.
-1. Now add the remaining vegetable oil to the pan, then adding the garlic and onion and fry briefly until fragrant before adding the water to the pan.
-1. Using the water deglaze the pan and then add everything to the slow cooker bowl.
+1. In a small sauce pan, add the green curry paste and roughly a cup of the coconut milk.
+1. Over medium-low heat, simmer the paste until it separates and causes a lot of oil to form.
+1. Now add the paste, chicken, kaffir lime leaves, stock, palm sugar and fish sauce your slow cooker pot.
+1. Mix together well, then add the remaining coconut milk and mix again until fully combined.
+1. Place into the slow cooker and cook for 3 hours on high.
+1. 15 minutes before cooking is complete, add the banana chilli, bamboo shoots and thai basil.
+1. Once cooking is complete, stir again and serve with jasmine rice.
