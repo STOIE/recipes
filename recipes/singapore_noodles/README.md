@@ -2,7 +2,7 @@
 
 ## Classic OG
 
-### Protein Prep (5 mins prep)
+### Protein Prep (15 mins prep)
 
 #### Ingredients
 
@@ -38,7 +38,7 @@
 1. In a small mixing bowl add all the ingredients, less the eggs and mix thoroughly until combined.
 1. In another separate small mixing bowl, add the eggs and whisk until beaten.
 
-### Noodle Prep (45 mins prep)
+### Noodle Prep (15 mins prep)
 
 ### Ingredients
 
@@ -51,7 +51,7 @@
 1. Once the pot is boiling, add the noodles and allow to blanch for 1-to-2 minutes, before removing and adding to the bowl of cold water for a minute.
 1. Then drain the noodles as well as you can, so they have little water and set aside.
 
-### Cooking (45 mins prep)
+### Cooking (5 mins)
 
 ### Ingredients
 
