@@ -78,10 +78,10 @@
 1. Next, move the ingredients to the side of the wok, add another splash of oil and then add the beaten eggs.
 1. Let the eggs cook while lightly moving the mix around, until mostly cooked.
 1. Now add in the bean sprouts, mix everything through with a quick fry.
-1, Quickly add in the sauce, giving it a quick mix, then remove everything from the wok and add to a very-large mixing bowl.
+1. Quickly add in the sauce, giving it a quick mix, then remove everything from the wok and add to a very-large mixing bowl.
 1. Add a decent amount of oil into the wok (a triple splash) and add the noodles into the empty wok.
 1. Fry the noodles to your liking, before turning off the heat and placing them into the mixing bowl containing all the other ingredients.
 1. Do your best to mix everything through, colouring all the noodles with sauce (use two pairs of tongs etc).
 1. Sprinkle some chopped spring onion (optional, 1mm rounds) and sesame seeds atop everything and serve hot.
 
-Note. while it's fine to ratio everything up, to cook a larger batch, just beaware than when performing the final noodle fry (steps 13-14) that you should do so in possibly multiple batches depending on your wok size.
+Note. while it's fine to ratio everything up, to cook a larger batch, just beaware than when performing the final noodle fry (steps 14-15) that you should do so in possibly multiple batches depending on your wok size.
