@@ -84,4 +84,4 @@
 1. Do your best to mix everything through, colouring all the noodles with sauce (use two pairs of tongs etc).
 1. Sprinkle some chopped spring onion (optional, 1mm rounds) and sesame seeds atop everything and serve hot.
 
-Note. while it's fine to ratio everything up, to cook a larger batch, just beaware than when performing the final cook (steps x-y) that you should do so in possibly multiple batches depending on your wok size.
+Note. while it's fine to ratio everything up, to cook a larger batch, just beaware than when performing the final noodle fry (steps x-y) that you should do so in possibly multiple batches depending on your wok size.
