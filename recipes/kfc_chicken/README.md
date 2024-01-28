@@ -61,4 +61,4 @@
 1. Place cooked chicken onto a wire rack over a drip tray.
 1. Repeat until all your chicken is ready and serve hot.
 
-Note. you can also use the [supercharged sauce](kfc_supercharged_sauce) to complement it.
+Note. you can also use the [supercharged sauce](kfc_supercharged_sauce/README.md) to complement it.
