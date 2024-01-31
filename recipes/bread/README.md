@@ -56,4 +56,4 @@
 * Rise 2 - 0 mins
 * Punch down 2 - 0 seconds
 * Rise 3 - 0 mins
-* Bake - 90 mins @ 123 deg C
+* Bake - 95 mins @ 123 deg C
