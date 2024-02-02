@@ -6,7 +6,7 @@
 
 #### Ingredients
 
-* 1kg pork belly
+* 1kg pork belly (weighed without skin)
 * 3-1/2 tablespoons fish sauce
 * 2-1/2 teaspoons sugar
 * 1 teaspoon ground white pepper
