@@ -1,4 +1,101 @@
-## Laksa
+# Laksa
+
+## HTK
+
+aka: the better one
+
+### Paste
+
+The below makes a single batch, but you can premake two-or-three times the quantity of paste and freeze in portions.
+
+#### Ingredients
+
+* 1 long red chilli
+* 1 birds eye chilli
+* 15-20 grams dried shrimp
+* 6 candlenuts
+* 4 garlic cloves
+* 2 medium eschalots
+* 1 stalk lemongrass
+* 40mm galangal, chopped rough
+* 1/2 tablespoon tumeric powder (or 40mm fresh)
+* 1/2 teaspoon shrimp paste (belacan)
+
+#### Method
+
+1. Add all the ingredients to a blender and blend into a paste, add water as required.
+1. Freeze pre-portioned or use immediately.
+
+
+### Broth
+
+#### Ingredients
+
+* 4 large shrimp, only the shells and heads (save the bodies for later)
+* 1600ml water (7 cups)
+* vegetable oil
+
+
+#### Method
+
+1. Add the shrimp shells and heads to a large pot.
+1. Place on high heat, with a splash of oil.
+1. Fry until fully cooked and sticking to the bottom of the pot.
+1. Add the water and deglaze the pan, bringing to a rapid boil.
+1. After 1 minute boiling, remove from heat.
+1. Strain the liquid, disposing of the shells and setting the broth aside.
+
+
+### Soup
+
+#### Ingredients
+
+* 1 serve of paste from earlier
+* 6-10 tofu puffs
+* 560ml coconut cream (mae ploy)
+* 2 tablespoons fish sauce
+* 4-6 tablespoons sugar (to taste)
+* 1-2 teaspoons salt (to taste)
+* vegetable oil
+
+#### Method
+
+1. In the pot from earlier, add the paste and some oil.
+1. Fry on high heat for around 5 minutes and then add about 1/4 of the coconut cream.
+1. Continue to fry, until the sticking on the pan either becomes too bad or the oil starts separating from the paste.
+1. Add the remaining coconut cream and stir through, lowering the heat to medium-low.
+1. Then add the shrimp broth from earlier, stirring thoroughly to combine.
+1. Once simmering, lower the heat to low and add the fish sauce.
+1. Then add the sugar and salt, portioning while tasting to your desire.
+1. Finish by adding tofu puffs and stiring in.
+
+
+### Assembly
+
+#### Ingredients
+
+The following ingredients are completely interchangable, but used as a guideline - served based on your liking of volumes.
+
+* the shrimp bodies from earlier
+* noodles (of your choice) - hokkien or vermicelli, or both
+* fish cake, cut into 4mm slices
+* imitation crab, chopped into 40mm sections
+* beansprouts
+
+#### Method
+
+1. While the soup is still on the stove simmering (or near simmer), place a single serving of noodles into a strainer.
+1. Add the strainer with the noodles to the soup and allow to cook submerged in the liquid, but kept in the strainer.
+1. Once cooked, remove and add to a bowl.
+1. Repeat, adding all the other ingredients to the strainer and submerging, cooking and then adding to the bowl for serving.
+1. Then ladle tofu puffs and soup into the bowl, as desired (recipe should make 2 large servings).
+1. Serve as is, or add vietnamese mint for garnish.
+1. Repeat for other servings.
+
+
+---
+
+## Adam Liaw
 
 #### Wholistic Ingredients:
 
