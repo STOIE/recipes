@@ -23,6 +23,7 @@ The following recipes are well tested and good to use:
 - [Mac and Cheese](recipes/mac_and_cheese/).
 - [Mulled Wine](recipes/mulled_wine/).
 - [Onion Rings](recipes/onion_rings/).
+- [Pad Kra Pao](recipes/pad_kra_pao/).
 - [Pizza Dough](recipes/pizza_dough/).
 - [Pizza Sauce](recipes/pizza_sauce/).
 - [Pizza Toppings](recipes/pizza_toppings/).
