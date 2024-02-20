@@ -17,7 +17,7 @@
 
 #### Ingredients
 
-* 6 teaspoons fish sauce
+* 1-1/2 tablespoons fish sauce
 * 3 tablespoons oyster sauce
 * 3 tablespoons light soy sauce
 * 1 teaspoon dark soy sauce
