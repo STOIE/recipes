@@ -1,5 +1,7 @@
 ## Chicken X.O.
 
+*Multiply everything in recipe for larger batches*
+
 ### Chicken Prep
 
 #### Ingredients
@@ -8,13 +10,13 @@
 * 1-1/2 teaspoons backing soda (bi-carb)
 * 1 teaspoon salt
 * 1/2 teaspoon fine white pepper
-* 2 tablespoons XO sauce (see recipe)
+* 1-1/3 tablespoons XO sauce (see recipe)
 * 2 tablespoons shaoxing wine
-* 3 teaspoons sugar
+* 1 tablespoon sugar
 * 3 tablespoons light soy sauce
 * 2 tablespoons corn starch
-* 1/2 cups of vegetable oil
-* 1-1/2 tablespoons of Lao Gan Ma "Chili in Oil"
+* 1/3 cup of vegetable oil
+* 2/3 tablespoon of Lao Gan Ma "Chili in Oil"
 
 #### Method
 
@@ -39,5 +41,5 @@
 
 1. Combine all the ingredients with the previously prepared chicken.
 1. Place onto a large plate, cover tightly with aluminium foil and place into a high heat steamer.
-1. If using a single very large plate that can fit all the ingredients, steam for around ~40-45 minutes (if double-stacking, cooking 2-3kg chicken, cook for ~50 minutes).
+1. If using a single very large plate that can fit all the ingredients, steam for around ~40-45 minutes (if double-stacking, cooking 2-3kg chicken, cook for ~50 minutes; over 3kg ~60 minutes).
 1. Remove and eat with steamed rice.
