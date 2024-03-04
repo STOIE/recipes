@@ -37,7 +37,7 @@
 1. Now add the remaining vegetable oil to the pan, then adding the garlic and onion and fry briefly until fragrant before adding the water to the pan.
 1. Using the water deglaze the pan and then add everything to the slow cooker bowl.
 
-### Cooking (5 mins prep + 8 hours cook + 20 mins prep)
+### Cooking (5 mins prep + 16 hours cook + 20 mins prep)
 
 #### Ingredients
 
@@ -52,7 +52,7 @@
 
 1. Add the orange and lime juice to the slow cooker bowl, followed by tomatoes and broth (or stock).
 1. Now add the remaing spice mix, salt and pepper, then stir mixing everything through.
-1. Close the slow cooker and cook on low temp slow cook for 12 hours.
+1. Close the slow cooker and cook on low temp slow cook for 16 hours.
 1. After cooking time is complete, remove the meat from the pot and tear apart, then setting it aside.
 1. Now remove the sauce remaing in the pot to an appropriate size saucepan.
 1. Simmer on the stove for 10-15 minutes allowing to reduce-thicken slightly, adding any additional salt if necessary.
