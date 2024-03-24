@@ -7,7 +7,7 @@
 #### Ingredients
 
 * 1kg pork, ground course
-* 3 teaspoons fish sauce
+* 1 tablespoon fish sauce
 
 #### Method
 
@@ -22,7 +22,7 @@
 * 3 tablespoons light soy sauce
 * 1 teaspoon dark soy sauce
 * 4-1/2 teaspoons sugar
-* 6 tablespoons water
+* 3 tablespoons water
 
 #### Method
 
@@ -32,9 +32,9 @@
 
 #### Ingredients
 
-* 4 thai chilies, chopped into 4mm long sections (birds eye)
-* 4/5 cup mild red chilies, copped into 4mm long sections
-* 1 whole garlic, peeled
+* 4 thai chilies, chopped into 1-2mm long sections (birds eye)
+* 3 large mild red chilies, copped into 1-2mm long sections
+* 1 whole garlic, rough chopped
 
 #### Method
 
@@ -46,7 +46,7 @@
 
 #### Ingredients
 
-* 4-5 cups holy basil (else, italian basil)
+* 4 cups holy basil (else, italian basil)
 * vegetable oil
 
 #### Method
