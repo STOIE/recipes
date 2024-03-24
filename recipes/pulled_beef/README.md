@@ -9,11 +9,11 @@
 * 1-1/2 teaspoon fine table salt
 * 1-1/2 teaspoon ground back pepper
 * 2 tablespoons chipotle powder (or smoked paprika + 1/2 teaspoon cayenne pepper powder)
-* 1-1/2 tablespoons sweet paprika
+* 1 tablespoon sweet paprika
 * 1-1/2 tablespoons dried oregano
 * 1-1/2 teaspoons ground all-spice
 * 1-1/2 teaspoons ground coriander
-* 3 teaspoons onion powder (else garlic powder)
+* 2 teaspoons onion powder (else garlic powder)
 
 #### Method
 
@@ -41,8 +41,8 @@
 
 #### Ingredients
 
-* 560 grams tinned tomatoes
-* 230ml orange juice (2 oranges)
+* 400 grams tinned tomatoes
+* 200ml orange juice (2 oranges)
 * 670ml beef or chicken broth (or stock)
 * 3 tablespoons lime juice
 * 1 teaspoon salt
