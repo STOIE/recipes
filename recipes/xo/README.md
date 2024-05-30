@@ -6,8 +6,20 @@
 
 #### Ingredients
 
-* 1kg chicken breast cut into 5mm thick slices
-* 1-1/2 teaspoons backing soda (bi-carb)
+* 1kg chicken tenderloins cut into 5mm thick slices (or breast)
+* 1-1/2 teaspoons baking soda (bicarbonate soda) - not baking powder!
+
+#### Method
+
+1. In a bowl add the chicken and the baking soda, mix well and allow to sit for 45 minutes.
+1. Throughout the 45 minutes, if you remember, mix a few additional times, to ensure everything is coated well.
+1. Wash the chicken in a strainer to remove any remaining baking soda.
+
+
+### Sauce Prep
+
+#### Ingredients
+
 * 1 teaspoon salt
 * 1/2 teaspoon fine white pepper
 * 1-1/3 tablespoons XO sauce (see recipe)
@@ -20,11 +32,9 @@
 
 #### Method
 
-1. In a bowl add the chicken and the baking soda, mix well and allow to sit for 20 minutes.
-1. Wash the chicken in a strainer to remove any remaining baking soda before proceeding to the next step.
-1. Season chicken pieces with salt and pepper, then mix.
-1. Mix all additional ingredients in a small bowl and then combine with the chicken mixing well.
-1. Let sit for ~15+ minutes to take flavour.
+1. Mix all the ingredients in a small/medium bowl.
+1. Optional. Mix in with the chicken ahead of time, and allow to sit for any period of time, even overnight in the fridge, to take flavour.
+1. Else, mix together with the chicken and use immediately.
 
 
 ### The Dish Itself
@@ -32,14 +42,14 @@
 #### Ingredients
 
 * Chicken prepared earlier
-* 8 rounds of ginger (2mm thick)
+* 8 rounds of ginger, cut 2mm thick
 * ~8-10 chopped scallions
-* snow peas if wanted
-* 1 whole thai chili, sliced into 0.5mm thick rounds
+* ~15 sugar snap peas
+* 1-1/2 whole thai chili, sliced into 0.5mm thick rounds
 
 #### Method
 
 1. Combine all the ingredients with the previously prepared chicken.
-1. Place onto a large plate, cover tightly with aluminium foil and place into a high heat steamer.
-1. If using a single very large plate that can fit all the ingredients, steam for around ~40-45 minutes (if double-stacking, cooking 2-3kg chicken, cook for ~50 minutes; over 3kg ~60 minutes).
-1. Remove and eat with steamed rice.
+1. Place into a large tray of adequate depth (else a plate), cover tightly with aluminium foil and place into a steamer on high heat.
+1. If using a single large plate that can fit all the ingredients, steam for around ~40-45 minutes (if double-stacking, cooking 2-3kg chicken, cook for ~50 minutes; over 3kg ~60 minutes).
+1. Remove and eat with steamed jasmine rice.
