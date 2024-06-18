@@ -41,7 +41,7 @@
 1. Line your cake tin with parchment paper along the sides and bottom.
 1. Pour the mixture into the tin gently and then tap the tin on the benchtop twice to break any large bubbles.
 1. Bake for around 45+ minutes, until golden brown with a raised centre - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place onto a cooling rack.
+1. Once baking is complete, remove immediately from the tin and place upside down onto a cooling rack (do not attempt to flip back over).
 
 
 Notes. ensure your baking powder is not out of date or too old, this can cause the cake to be deflated.
