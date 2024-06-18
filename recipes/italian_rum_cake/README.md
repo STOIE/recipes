@@ -4,13 +4,15 @@
 
 * one 8 inch round, 4 inch tall sponge cake (see: [sponge cake](./recipes/sponge_cake/README.md))
 
+1. The sponge cake should be levelled into 3-4 layers.
+
 ---
 
 ### Crema Pasticcera
 
 #### Ingredients
 
-* 700ml full-cream milk
+* 700ml full-cream milk (split into 550ml / 150ml in two bowls)
 * 1 long strip of lemon zest (2cm wide)
 * 6 egg yolks
 * 150 grams white caster sugar
@@ -20,24 +22,15 @@
 
 #### Method
 
-1. Preheat your oven to 180 celsius.
-1. In your mixer bowl, add egg whites and cream of tartar.
-1. Using a whisk attachment, beat on high till foamy.
-1. Then add the 90 grams of sugar to the mixer bowl and continue to beat on high until firm peaks form.
-1. Remove mixture from the mixing bowl and place into another large bowl.
-1. Give the mixer bowl a quick clean and then add the egg yolks, the 160g of sugar, salt, water, honey and vanilla to the bowl.
-1. Beat on high until fluffy, pale yellow ribbons form (ribbon, when the mixture falls onto itself a ribbon should remain for 3-4 seconds).
-1. Then add approx half of the egg white mixture into the bowl and gently fold in with a silicone spatula.
-1. Using a sieve, sift the flour and baking powder into the egg yolk mixture in 3-5 parts, gently folding the mixture after each addition.
-1. Next add the vegetable oil into the mixture, slowly adding while gently folding through.
-1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to to deflate the mixture.
-
-#### Baking
-
-1. Line your cake tin with parchment paper along the sides and bottom.
-1. Pour the mixture into the tin gently and then tap the tin on the benchtop twice to break any large bubbles.
-1. Bake for around 45+ minutes, until golden brown with a raised centre - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place upside down onto a cooling rack (do not attempt to flip back over).
+1. Add the 550ml of milk and lemon zest to a medium saucepan.
+1. Heat over medium heat until you can see steam rising from the milk, but DO NOT BOIL - then remove from heat and set aside.
+1. In a bowl whish together the egg yolks, sugar and flour until smooth, then whisk in the remaining milk.
+1. Remove the lemon zest from the warm milk and discard, before whisking the warm milk into the egg mixture, followed by the vanilla extract.
+1. Pour all the mixture back into the saucepan and place over medium heat, whisking continuously. 
+1. The mixture should boil and thicken, then simmer for 1 minute and remove from heat - do not stop stiring ever.
+1. Quickly evenly divide the hot mixture into two bowls, adding the chocolate to one and stiring it through until melted and combined.
+1. Then immediately cover the bowls with plastic wrap, pressing it directly onto the surface to avoid a skin forming.
+1. Refridgerate and then stir until smooth before using - can be kept in the fridge if making in advance.
 
 
 ---
@@ -52,24 +45,10 @@
 
 #### Method
 
-1. Preheat your oven to 180 celsius.
-1. In your mixer bowl, add egg whites and cream of tartar.
-1. Using a whisk attachment, beat on high till foamy.
-1. Then add the 90 grams of sugar to the mixer bowl and continue to beat on high until firm peaks form.
-1. Remove mixture from the mixing bowl and place into another large bowl.
-1. Give the mixer bowl a quick clean and then add the egg yolks, the 160g of sugar, salt, water, honey and vanilla to the bowl.
-1. Beat on high until fluffy, pale yellow ribbons form (ribbon, when the mixture falls onto itself a ribbon should remain for 3-4 seconds).
-1. Then add approx half of the egg white mixture into the bowl and gently fold in with a silicone spatula.
-1. Using a sieve, sift the flour and baking powder into the egg yolk mixture in 3-5 parts, gently folding the mixture after each addition.
-1. Next add the vegetable oil into the mixture, slowly adding while gently folding through.
-1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to to deflate the mixture.
-
-#### Baking
-
-1. Line your cake tin with parchment paper along the sides and bottom.
-1. Pour the mixture into the tin gently and then tap the tin on the benchtop twice to break any large bubbles.
-1. Bake for around 45+ minutes, until golden brown with a raised centre - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place upside down onto a cooling rack (do not attempt to flip back over).
+1. Add the water and sugar to a saucepan and heat over medium heat until the sugar is completely dissolved.
+1. Remove from heat and set aside to cool.
+1. Once mostly cooled, stir in the rum.
+1. The mixture can then be refridgerated if making in advance.
 
 
 ---
@@ -85,21 +64,21 @@
 
 #### Method
 
+1. Place the cream into your mixer bowl with a whisk attachment and whip on medium speed.
+1. While whipping, slowly add in the sugar and vanilla extract.
+1. Whip until solid peaks form, but do not over whip.
+1. Refridgerate until needed.
 1. Preheat your oven to 180 celsius.
-1. In your mixer bowl, add egg whites and cream of tartar.
-1. Using a whisk attachment, beat on high till foamy.
-1. Then add the 90 grams of sugar to the mixer bowl and continue to beat on high until firm peaks form.
-1. Remove mixture from the mixing bowl and place into another large bowl.
-1. Give the mixer bowl a quick clean and then add the egg yolks, the 160g of sugar, salt, water, honey and vanilla to the bowl.
-1. Beat on high until fluffy, pale yellow ribbons form (ribbon, when the mixture falls onto itself a ribbon should remain for 3-4 seconds).
-1. Then add approx half of the egg white mixture into the bowl and gently fold in with a silicone spatula.
-1. Using a sieve, sift the flour and baking powder into the egg yolk mixture in 3-5 parts, gently folding the mixture after each addition.
-1. Next add the vegetable oil into the mixture, slowly adding while gently folding through.
-1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to to deflate the mixture.
+1. Spread the almonds evenly over a tray lined with baking paper and place into the oven.
+1. Bake for around 8 minutes until lightly browned, then remove and set aside to cool.
 
-#### Baking
+#### Assembly
 
-1. Line your cake tin with parchment paper along the sides and bottom.
-1. Pour the mixture into the tin gently and then tap the tin on the benchtop twice to break any large bubbles.
-1. Bake for around 45+ minutes, until golden brown with a raised centre - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place upside down onto a cooling rack (do not attempt to flip back over).
+1. Take an appropriately sized cake board.
+1. Starting with the bottom layer of the cake, place it onto the board.
+1. Apply one thick layer of the crema pasticcera to the bottom layer of the cake.
+1. Then place the second layer of the cake atop it, pressing down on the layer to make it stick to the other.
+1. Now add another thick layer of other colour crema pasticcera (using alternating chocolate / white crema pasticcera layers).
+1. Continue to add layers and crema pasticcera in alternating chocolate / white layers, until you place on the top layer of the cake.
+1. Do NOT add crema pasticcera to the top layer of the cake!
+1. Once assembled, coat with a thick layer of cream frosting and then give a heavy layered sprinkle of almonds to the top.
