@@ -78,7 +78,7 @@
 1. Starting with the bottom layer of the cake, place it onto the board.
 1. Apply one thick layer of the crema pasticcera to the bottom layer of the cake.
 1. Then place the second layer of the cake atop it, pressing down on the layer to make it stick to the other.
-1. Now add another thick layer of other colour crema pasticcera (using alternating chocolate / white crema pasticcera layers).
-1. Continue to add layers and crema pasticcera in alternating chocolate / white layers, until you place on the top layer of the cake.
+1. Now add another thick layer of the other colour crema pasticcera.
+1. Continue to add layers and crema pasticcera in alternating chocolate / white layers, until you place on the top layer of the cake - noting that if you have only 3 layers, you are already done!
 1. Do NOT add crema pasticcera to the top layer of the cake!
 1. Once assembled, coat with a thick layer of cream frosting and then give a heavy layered sprinkle of almonds to the top.
