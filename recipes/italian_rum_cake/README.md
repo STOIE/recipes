@@ -46,13 +46,9 @@
 
 #### Ingredients
 
-* 700ml full-cream milk
-* 1 long strip of lemon zest (2cm wide)
-* 6 egg yolks
-* 150 grams white caster sugar
-* 60 grams cake flour
-* 2 teaspoons vanilla extract
-* 60 grams chopped dark chocolate (not baking chocolate)
+* 160ml water
+* 70 grams white caster sugar
+* 40ml rum (not white rum)
 
 #### Method
 
