@@ -8,6 +8,24 @@
 
 ---
 
+### Rum Syrup
+
+#### Ingredients
+
+* 160ml water
+* 70 grams white caster sugar
+* 40ml rum (not white rum)
+
+#### Method
+
+1. Add the water and sugar to a saucepan and heat over medium heat until the sugar is completely dissolved.
+1. Remove from heat and set aside to cool.
+1. Once mostly cooled, stir in the rum.
+1. The mixture can then be refridgerated if making in advance.
+
+
+---
+
 ### Crema Pasticcera
 
 #### Ingredients
@@ -31,24 +49,6 @@
 1. Quickly evenly divide the hot mixture into two bowls, adding the chocolate to one and stiring it through until melted and combined.
 1. Then immediately cover the bowls with plastic wrap, pressing it directly onto the surface to avoid a skin forming.
 1. Refridgerate and then stir until smooth before using - can be kept in the fridge if making in advance.
-
-
----
-
-### Rum Syrup
-
-#### Ingredients
-
-* 160ml water
-* 70 grams white caster sugar
-* 40ml rum (not white rum)
-
-#### Method
-
-1. Add the water and sugar to a saucepan and heat over medium heat until the sugar is completely dissolved.
-1. Remove from heat and set aside to cool.
-1. Once mostly cooled, stir in the rum.
-1. The mixture can then be refridgerated if making in advance.
 
 
 ---
