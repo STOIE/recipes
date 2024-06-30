@@ -17,5 +17,5 @@
 1. Grease a large pie dish and place the apples mix evenly into the bottom of the dish.
 1. Then in a separate bowl rub together the brown sugar, butter, flour and milk powder.
 1. Once combined into a shaggy mix, spread over the top of the apples in the pie dish.
-1. Bake in the oven for 30 minutes.
+1. Bake in the oven for 40 minutes.
 1. Remove and serve hot with vanilla ice-cream.
