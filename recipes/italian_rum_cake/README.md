@@ -82,8 +82,7 @@
 1. Now add more rum syrup, followed by another thick layer of the other colour crema pasticcera.
 1. Continue to add layers and rum/crema pasticcera in alternating chocolate / white layers, until you place on the top layer of the cake - noting that if you have only 3 layers, you are already done!
 1. On the top layer, add rum, but do NOT add crema pasticcera!
-1. Once assembled, coat the sides of the cake with a layer of crema pasticcera, this will allow the almonds to stick.
-1. Next, slightly tilt the cake while applying the almonds on the outside of the cake with the palm of your hand.
-1. Finally, add the cream to the top of the cake and smooth out with a spatula into a thick layer.
+1. Once assembled, coat the sides and top of the cake with a thick layer of whipped cream, smoothing with a spatula.
+1. Finally, apply the almonds on the outside of the cake with small throws against the cake.
 
 Note. you can also pipe cream onto the top of the cake in any manner you desire, as well as adding cherries or more almonds to the top of the cake.
