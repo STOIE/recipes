@@ -18,24 +18,24 @@
 #### Second coating: Batter
 
 * 3 eggs
-* 350ml soda water
+* 330ml soda water
 * 1/2 tablespoon salt
 * 1 cup plain flour
 
 #### Third coating: Seasoning
 
-* 1-1/2 cups plain flour
-* 1/2 tablespoon ground thyme
-* 1/2 tablespoon dry mustard
-* 1/4 teaspoon powdered basil
-* 2 tablespoons sweet paprika
-* 2 tablespoons white pepper
-* 1/2 tablespoon ground ginger
-* 1 tablespoon celery salt
-* 1 tablespoon garlic salt
-* 1 tablespoon fine table salt
-* 1/4 tablespoon oregano
-* 1 tablespoon black pepper
+* 1 cups plain flour
+* 1/4 tablespoon ground thyme
+* 1/4 tablespoon dry mustard
+* 1/8 teaspoon powdered basil
+* 1 tablespoons sweet paprika
+* 1 tablespoons white pepper
+* 1/4 tablespoon ground ginger
+* 1/2 tablespoon celery salt
+* 1/2 tablespoon garlic salt
+* 1/8 tablespoon fine table salt
+* 1/8 tablespoon oregano
+* 1/2 tablespoon black pepper
 
 ### Method
 
