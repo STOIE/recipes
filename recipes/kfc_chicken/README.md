@@ -9,7 +9,7 @@
 #### Initial rub
 
 * 1kg chicken however you like
-* 1/2 tablespoon fine table salt
+* 1 teaspoon fine salt
 
 #### First coating: Dry
 
@@ -18,24 +18,24 @@
 #### Second coating: Batter
 
 * 3 eggs
-* 330ml soda water
-* 1/2 tablespoon salt
+* 330ml soda water (or beer)
+* 1 teaspoon fine salt
 * 1 cup plain flour
 
 #### Third coating: Seasoning
 
 * 1 cups plain flour
-* 1/4 tablespoon ground thyme
-* 1/4 tablespoon dry mustard
 * 1/8 teaspoon powdered basil
-* 1 tablespoons sweet paprika
-* 1 tablespoons white pepper
-* 1/4 tablespoon ground ginger
-* 1/2 tablespoon celery salt
-* 1/2 tablespoon garlic salt
-* 1/8 tablespoon fine table salt
-* 1/8 tablespoon oregano
-* 1/2 tablespoon black pepper
+* 1/2 teaspoon oregano
+* 1/2 teaspoon ground celery seeds
+* 1/2 teaspoon fine salt
+* 1 teaspoon garlic powder
+* 1 teaspoon ground thyme
+* 1 teaspoon dry mustard
+* 1 teaspoon ground ginger
+* 1 tablespoon sweet paprika
+* 1 tablespoon fine white pepper
+* 1/2 tablespoon fine black pepper
 
 ### Method
 
