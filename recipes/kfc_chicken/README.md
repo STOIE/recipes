@@ -1,7 +1,7 @@
 ### Utensils
 
 * 4 large mixing bowls
-* Deep fryer (or deep pot)
+* Deep fryer (or wok / deep pot)
 
 
 ### Ingredients
