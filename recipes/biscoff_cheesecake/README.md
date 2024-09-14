@@ -72,4 +72,4 @@
 1. Top the cake with the crumbled cookies, generally in a ring around the top edge of the cake.
 1. You can then serve immediately or further refridgerate.
 
-Note. if you remove any foil seal from the plastic cookie butter containers, you can microwave them directly (for 45-60 seconds, in no more than 15 second intervals)
+Note. if you remove any foil seal from the plastic cookie butter containers, you can microwave them directly (for 45 seconds, in no more than 15 second intervals)
