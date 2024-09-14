@@ -66,10 +66,10 @@
 #### Assembly
 
 1. Remove from refridgerator and place onto a flat surface.
-1. Place a damp hot towel around the outside of the cheesecake tin, to slightly melt the cheesecake on the sides for 30-45 seconds.
-1. Then remove the cheesecake from the cheesecake tin.
 1. Crumble the biscoff cookies in either a food processor (best), or blender (quick pulses).
 1. Top the cake with the crumbled cookies, generally in a ring around the top edge of the cake.
+1. Place a damp hot towel around the outside of the cheesecake tin, to slightly melt the cheesecake on the sides for 30-45 seconds.
+1. Then remove the cheesecake from the cheesecake tin.
 1. You can then serve immediately or further refridgerate.
 
 Note. if you remove any foil seal from the plastic cookie butter containers, you can microwave them directly (for 45 seconds, in no more than 15 second intervals)
