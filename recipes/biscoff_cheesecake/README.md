@@ -3,8 +3,8 @@
 #### Prerequisites
 
 * one 10 inch round cheesecake tin
-* 500 grams lotus biscoff cookies
-* 800 grams lotus biscoff cookie butter (spread)
+* 500 grams lotus biscoff cookies - 2x 250g packets
+* 800 grams lotus biscoff cookie butter (spread) - 2x 400g containers
 
 
 ---
