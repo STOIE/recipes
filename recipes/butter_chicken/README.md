@@ -41,7 +41,7 @@
 * 500ml thickened cream
 * 3 tablespoons honey
 * 16 blades whole green cardamom
-* * 4 blades of mace
+* 4 blades of mace
 * 1/2 teaspoon powdered cardamom
 * 1/2 teaspoon powdered kasoori methii (dried fenugreek leaves)
 
