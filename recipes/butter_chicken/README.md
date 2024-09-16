@@ -1,36 +1,63 @@
-# Butter Chicken (Murgh Makhani)
-This is the recipe to the simple classic butter chicken we all know and love.
+## Butter Chicken (Murgh Makhani)
+
 
 ---
-### Requirements
-* **Tandoori Chicken** (Whole, pre-cooked - then boned)
-* **Ripe Dark Red Tomatoes** (Four HUGE, diced)
-* **Butter** (Seven BIG Tablespoons)
-* **Fresh Cream** (One Cup)
-* **Honey** (One Tablespoon)
-* **Olive Oil** (One Tablespoon)
-* **Fresh Ginger** (Two Tablespoons, fine sharded)
-* **Green Chilli** (Four, de-seeded and fine sharded)
-* **Garlic** (Two Tablespoons, grinded)
-* **Green Cardamom** (Eight Blades, whole)
-* **Green Cardamom** (Pinch, powdered)
-* **Mace** (Two Blades, whole)
-* **Kasoori Methii**/**Dried Fenugreek Leaves** (Half-Teaspoon, powered)
+
+### Chicken
+
+#### Ingredients
+
+* 1.5kg chicken tenderloins, sliced into 1.5cm sections
+* 1 cup greek yogurt
+* 1 tablespoon ginger paste (or diced fine)
+* 1 tablespoon garlic paste (or diced fine)
+* 2 teaspoons sweet paprika
+* 2 teaspoons garam masala
+* 2 teaspoons coriander powder
+* 2 teaspoons kasoori methii (dried fenugreek leaves)
+* 1/2 teaspoon ground black pepper
+* 1/2 teaspoon tumeric powder
+* 1/2 teaspoon salt
+
+#### Method
+
+1. Combine the chicken with all ingredients, for best results allow to marinade overnight, else use right away.
+1. In a wok (or steel skillet) over high heat, add some oil and cook the chicken in batches, placing the completed chicken into a large bowl.
+1. Once all the chicken is cooked, allow the wok to cool down before proceeding to the next step.
+
 
 ---
-### Method
-1.  Lightly sauté one tablespoon of **olive oil** and three tablespoons of **butter** in a deep pan.
-2.  Add eight blades of **green cardamom**, two blades of **Mace** and two tablespoons of ground **Garlic**.
-3.  Then add four diced **Tomatoes** and let continue for a few moments.
-4.  Once tomatoes are very soft and pulp-like, remove from heat and purée in a blender.
-5.  Quickly rinse your pan and put back on heat with four tablespoons of **butter**.
-6.  Add two tablespoons of fine sharded **fresh ginger** and four de-seeded and finely sharded **green chillies**.
-7.  Sauté for just a few brief moments (do not let butter brown).
-8.  Strain the tomato purée into the pan and heat for a moment.
-9.  Add boned **tandoori chicken** pieces into the pan and heat for a further 2-3 minutes.
-10. Add one cup of **fresh cream** and a pinch of cardamom powder.
-11. Then add a tablespoon of **honey** and a half-teaspoon of powdered **Kasoori Methii**.
-12. Allow mixture to come to desired temperature and then serve.
 
+### Gravy
 
-Note. if unable to use tandoori chicken, use 2 large chicken breasts diced into 1 inch squares, precooked in a seperate pan with olive oil.
+#### Ingredients
+
+* 370 grams butter (250g + 120g)
+* 1200 grams tinned whole peeled tomatoes (3x 400g tins)
+* 2 inches ginger rounds
+* 1/2 a large garlic diced fine
+* 2 large mild red chillies, cut into thin rounds
+* 3 birdseye chillies, cut into thin rounds
+* 500ml thickened cream
+* 3 tablespoons honey
+* 16 blades whole green cardamom
+* * 4 blades of mace
+* 1/2 teaspoon powdered cardamom
+* 1/2 teaspoon powdered kasoori methii (dried fenugreek leaves)
+
+#### Method
+
+1. In the now cool (but still dirty) wok, add 250g of the butter, the ginger and the chillies.
+1. Then over medium heat, melt the butter and lightly fry the ginger and chilli without browning the butter.
+1. Once complete remove from the wok and place to the cooked chicken in the other bowl.
+1. Next take a large deep pan/pot and add the remaining 120g butter, garlic, whole cardamom and mace.
+1. Place the pan over medium heat, melting the butter and lightly frying the cardamom and mace.
+1. Then before browning the butter, add the tinned tomatoes.
+1. Cook the mixture, stiring and smashing the tomatoes until reaching a simmer.
+1. Cover and allow to cook for 10-15 minutes, stirring on and off.
+1. Then remove from heat and using an immersion blender, blend the entire tomato mixture into a smooth consistency.
+1. Place back on the stove, returning to a medium heat, then adding the contents of the chicken, ginger etc.
+1. Cook for a further few minutes, adding in the honey and then cream.
+1. Once back to a decent simmer, turn off the heat and add the powdered cardamom and kasoori methii, stiring in.
+1. Finally, add salt as required - noting the mixture goes from needing salt to having too much rather abruptly. (3 teaspoons are needed generally)
+1. Serve with basmati rice.
