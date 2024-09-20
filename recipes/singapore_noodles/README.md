@@ -28,8 +28,9 @@
 * 1 tablespoons oyster sauce
 * 1/2 tablespoon light soy sauce
 * 1/2 tablespoon dark soy sauce
-* 1/4 teaspoon sesame oil
-* 1/8 teaspoon fine white pepper
+* 1/2 teaspoon sesame oil
+* 1/4 teaspoon fine white pepper
+* 1 teaspoon curry powder
 * 2 eggs
 
 #### Method
