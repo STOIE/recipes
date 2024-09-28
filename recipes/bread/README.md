@@ -57,3 +57,10 @@
 * Punch down 2 - 0 seconds
 * Rise 3 - 0 mins
 * Bake - 95 mins @ 123 deg C
+
+
+### Process
+
+1. Give everything a rough pre-mix in a bowl before placing into the machine.
+1. When removing from the machine, ensure to do so right after baking is complete.
+1. Place the hot tin on the couter for 10 minutes, before removing the bread onto a cooling rack.
