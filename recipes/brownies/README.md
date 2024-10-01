@@ -15,7 +15,7 @@
 #### Method
 
 1. Preheat the oven to 180 deg C.
-1. Grase a (~400-600cm2) brownie pan and line the base with non-stick baking paper.
+1. Grease a (~400-600cm2) brownie pan and line the base with non-stick baking paper.
 1. Place butter, brown sugar and chocolate in a large saucepan and stir over medium heat until well combined.
 1. Remove from heat and beat in the eggs using a wooden spoon.
 1. Sift together the flour, cocoa and baking powder into the chocolate mixture and stir until well combined.
