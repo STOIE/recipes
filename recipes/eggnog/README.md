@@ -1,5 +1,7 @@
 ## Eggnog
 
+*Multiply recipe as desired, noting you may need to make batches depending on blender size.*
+
 #### Ingredients
 
 * 2 eggs
