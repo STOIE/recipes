@@ -96,7 +96,7 @@
 1. From the point, use your fingers to bit-by-bit roll and pinch down into an almost croissant shape.
 1. Finish by giving a light roll with your palms over either side of the dough roll, applying pressure at only the ends to pinch them in.
 1. Once shaped place onto a baguette baking pan.
-1. When complete, place the baking pan into the oven with just the light on to proof for 45-60 minutes, applying a mist with water every 15 minutes.
+1. When complete, place the baking pan into the oven with just the light on to proof for 60 minutes, applying a mist with water every 15 minutes.
 1. Then remove from the oven, and proof for a further 30 minutes on the bench while the oven is preheating to 235 degrees C.
 1. Place a rack for the banh mi at the top of the oven and an empty steel pan on a rack below.
 1. Boil a kettle with water and then score the top of each banh mi with a bakers lame, and mist with water.
