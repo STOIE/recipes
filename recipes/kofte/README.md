@@ -1,1 +1,1 @@
-See [Cervapi](/recipes/cervapi/REAMME.md)
+See [Cevapi](/recipes/cevapi/REAMME.md)
