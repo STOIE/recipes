@@ -81,7 +81,7 @@
 * 2 grams salt
 * 2 grams sugar
 * 8 grams bread improver
-* 1 whole egg
+* 1 whole egg (optional)
 
 ### Process
 
