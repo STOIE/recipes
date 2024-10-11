@@ -73,15 +73,17 @@
 
 ### Ingredients
 
-*Makes 5 baguettes*
+*Makes 10 baguettes*
 
-* 470 grams strong bread flour (12-13% protein)
-* 280 grams cold water
-* 8 grams instant yeast
-* 2 grams salt
-* 2 grams sugar
-* 8 grams bread improver
-* 1 whole egg (optional)
+*Note. to scale up, scale yeast proportionally until reaching a max 5kg flour, then you will need to decrease the ratio of yeast.*
+
+* 940 grams strong bread flour (12-13% protein)
+* 560 grams cold water
+* 14 grams instant yeast
+* 4 grams salt
+* 5 grams sugar
+* 16 grams bread improver
+* 2 whole egg (optional)
 
 ### Process
 
