@@ -75,8 +75,8 @@
 
 *Makes 5 baguettes*
 
-* 450 grams strong bread flour (12-13% protein)
-* 260 grams cold water
+* 470 grams strong bread flour (12-13% protein)
+* 280 grams cold water
 * 8 grams instant yeast
 * 2 grams salt
 * 2 grams sugar
