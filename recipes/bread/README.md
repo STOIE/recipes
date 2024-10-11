@@ -73,7 +73,7 @@
 
 ### Ingredients
 
-*Makes 6 baguettes*
+*Makes 5 baguettes*
 
 * 450 grams strong bread flour (12-13% protein)
 * 260 grams cold water
@@ -90,7 +90,7 @@
 1. Allow to knead for around 5-8 minutes on high until you can pull a roughly 8inch section without tearing.
 1. Now remove the dough from the mixer and place onto a lightly oiled surface, giving the dough several slap-and-folds until balling into a single ball.
 1. Rest for ~20 minutes covered (cover with a bowl).
-1. Again on the lightly oiled surface, divide into six 120g portions, reballing each.
+1. Again on the lightly oiled surface, divide into six 150g portions, reballing each.
 1. Cover with cling film and allow to rest for a further ~15 minutes.
 1. Now to shape, use a rolling pin to lightly roll into an elongated triangle shape, leaving the dough a bit thicker at the point and thinner at the base.
 1. From the point, use your fingers to bit-by-bit roll and pinch down into an almost croissant shape.
