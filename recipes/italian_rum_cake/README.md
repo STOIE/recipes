@@ -2,7 +2,7 @@
 
 #### Prerequisites
 
-* one 8 inch round, 4 inch tall sponge cake (see: [sponge cake](./recipes/sponge_cake/README.md))
+* one 8 inch round, 4 inch tall sponge cake (see: [sponge cake](../sponge_cake/README.md))
 
 1. The sponge cake should be levelled into 3-4 layers.
 
