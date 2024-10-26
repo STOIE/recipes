@@ -2,14 +2,17 @@
 
 ## Banana Peppers
 
-Per 1000ml jar
+### Ingredients
+
+*Per 1000ml jar*
 
 * 1.5kg banana peppers
 * 1 teaspoon sea salt
 * 1 teaspoon whole pepper corns
-
 * 200ml white vinegar
 * 100ml water
+
+### Method
 
 1. Chop the peppers into halves and remove the seeds/insides.
 1. Grill the peppers until thoroughly charred, then bag them into a plastic bag until cool.
