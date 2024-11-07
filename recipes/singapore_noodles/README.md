@@ -23,14 +23,14 @@
 
 #### Ingredients
 
-* 1-1/2 tablespoons tomato ketchup
-* 1/2 tablespoon sriracha chili sauce
+* 2 tablespoons tomato ketchup
+* 1 tablespoon sriracha chili sauce
 * 1 tablespoons oyster sauce
-* 1/2 tablespoon light soy sauce
+* 1 tablespoon light soy sauce
 * 1/2 tablespoon dark soy sauce
-* 1/2 teaspoon sesame oil
-* 1/4 teaspoon fine white pepper
-* 1 teaspoon curry powder
+* 1 tablespoon curry powder
+* 1 teaspoon sesame oil
+* 1/2 teaspoon fine white pepper
 * 2 eggs
 
 #### Method
