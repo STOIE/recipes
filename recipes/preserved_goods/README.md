@@ -9,8 +9,8 @@
 * 1.5kg banana peppers
 * 1 teaspoon sea salt
 * 1 teaspoon whole pepper corns
-* 200ml white vinegar
-* 100ml water
+* 200ml white vinegar (1 cup)
+* 100ml water (1/2 cup)
 
 ### Method
 
