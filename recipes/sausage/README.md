@@ -13,6 +13,7 @@
 * 20 grams cayenne
 * 20 grams paprika
 * 150 grams milk powder
+* 150ml liquid (water, or stock, or beer)
 
 
 #### Method
@@ -38,6 +39,7 @@ Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONS
 * 5 grams cayenne
 * 12 grams paprika
 * 150 grams milk powder
+* 150ml liquid (water, or stock, or beer)
 
 
 #### Method
