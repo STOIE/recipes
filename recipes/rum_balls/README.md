@@ -14,6 +14,7 @@
 
 #### Method
 
-1. Combine all the main ingredients (less the additional coconut) mixing well and shape into balls.
+1. Combine all the main ingredients (less the additional coconut) mixing well.
+1. Shape into balls using your hands, gloves make it much easier.
 1. Roll the balls in the additional desiccated coconut to coat the outside.
 1. Place into a sealed plastic container and refridgerate.
