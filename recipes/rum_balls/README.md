@@ -6,11 +6,11 @@
 * 800 grams condensed milk
 * 8 tablespoons cocoa powder
 * 8 tablespoons rum
-* 400 grams (4 cups) desiccated coconut (can used shredded if desiccated not available)
+* 350 grams (5-6 cups) desiccated coconut (can used shredded if desiccated not available)
 
 **plus an additional:**
 
-* 200 grams (2 cups) desiccated coconut (can used shredded if desiccated not available)
+* 150 grams (2-1/2 cups) desiccated coconut (can used shredded if desiccated not available)
 
 #### Method
 
