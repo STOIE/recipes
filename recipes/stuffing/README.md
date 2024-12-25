@@ -10,7 +10,7 @@
 * 1 cup dried cranberries
 * 2 medium white onions finely diced (or brown onions)
 * 6 eggs
-* 1-1/2 cups celery diced fine
+* 1-1/2 cups celery diced fine, else pear diced large
 * 4 tablespoons olive oil
 * 2 tablespoon fresh parsley chopped fine (or 2 teaspoons dried)
 * 1/2 teaspoon fine white pepper
