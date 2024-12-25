@@ -5,7 +5,7 @@
 #### Ingredients
 
 * 1 cured leg ham (small-medium size, else double recipe)
-* 1/4 cup whole cloves, optional
+* 1/4 cup whole cloves, else 1/4 teaspoon powdered clove
 * 1/8 cup clear honey
 * 1 tablespoons dijon mustard
 * 1/2 cup brown sugar
