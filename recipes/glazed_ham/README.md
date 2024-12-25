@@ -5,18 +5,18 @@
 #### Ingredients
 
 * 1 cured leg ham (small-medium size, else double recipe)
-* 1/4 cup whole cloves
-* 1/4 cup clear honey
-* 2 tablespoons dijon mustard
-* 1 cup brown sugar
-* 4 tablespoons dry sherry
-* 1 tablespoon dark soy sauce
-* 2 tablespoons balsamic vinegar
+* 1/4 cup whole cloves, optional
+* 1/8 cup clear honey
+* 1 tablespoons dijon mustard
+* 1/2 cup brown sugar
+* 2 tablespoons dry sherry
+* 1/2 tablespoon dark soy sauce
+* 1 tablespoons balsamic vinegar
 
 #### Method
 
 1. Score the ham fat/flesh with a sharp knife forming a diamond pattern.
-1. Insert a clove into the centre of every diamond segment.
+1. Insert a clove into the centre of every diamond segment, optional.
 1. Combine all the ingredients together in a bowl and mix them thoroughly together.
 
 
