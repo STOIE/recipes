@@ -2,7 +2,7 @@
 
 #### Ingredients
 
-*Makes approx 10-12 large balls*
+*Makes approx 10-12 large ~6cm balls*
 
 * 500-625 grams (4-5 cups) course grated zucchini (ends removed, unpeeled)
 * 160 grams (1 cup) crumbled feta cheese
@@ -21,4 +21,7 @@
 * Gently squeeze the zucchini with your hands a few times to remove excess water.
 * Then mix all the ingredients, less the flour, thoroughly, for large batches you can use a stand mixer.
 * Once combined, slowly add the flour in to form a wet dough.
-* Serve hot with something like [Tzatziki](../tzatziki/).
+* Using a large serving spoon and a regular soup spoon, roughly ball the mix into large ~6cm balls while dropping into the deep fryer oil.
+* Cook well, until very brown and bubbling has very much settled.
+* Remove and place on a paper lined plate or rack to drain excess oil.
+* Serve hot with [garlic sauce](../garlic_sauce/).
