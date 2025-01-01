@@ -2,20 +2,23 @@
 
 #### Ingredients
 
-* 500-625 grams (4-5 cups) grated zucchini
-* 1kg pork mince (4mm)
-* 1 medium brown onion, grated fine, juice removed
-* 10 cloves garlic, grated fine
-* 2 teaspoons sweet paprika
-* 3 teaspoons salt
-* 2 teaspoons fine black pepper
-* 2 teaspoons baking soda (bi-carb)
-* meat binder, such as c-bind - carrot fibre binder
+*Makes approx 10-12 large balls*
+
+* 500-625 grams (4-5 cups) course grated zucchini (ends removed, unpeeled)
+* 160 grams (1 cup) crumbled feta cheese
+* 25 grams (1/4 cup) fresh mint, finely chopped
+* 180 grams (1-1/2 cups) self-rising flour
+* 2 large eggs, beaten
+* 3 green onions, finely sliced
+* 2 teaspoons salt
+* 1/2 teaspoon fine black pepper
+* vegetable oil for deep frying
 
 
 #### Method
 
-* Mix all the ingredients thoroughly, recommended in stand mixer.
-* Make the cevapi into 25mm + 100mm sausages, recommend using a sausage stuffer with 25mm horn.
-* Cook over charcoal grill for best results, turning as needed.
+* Mix the grated zucchini with salt and place into a colander in the sink and allow to drain for 20 minutes.
+* Gently squeeze the zucchini with your hands a few times to remove excess water.
+* Then mix all the ingredients, less the flour, thoroughly, for large batches you can use a stand mixer.
+* Once combined, slowly add the flour in to form a wet dough.
 * Serve hot with something like [Tzatziki](../tzatziki/).
