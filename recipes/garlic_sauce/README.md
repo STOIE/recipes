@@ -2,9 +2,9 @@
 
 #### Ingredients
 
-* 3 cloves garlic, peeled
-* 3/4 cup mayonnaise
-* 2 tablespoons greek yogurt
+* 4 cloves garlic, peeled
+* 1 cup mayonnaise
+* 3 tablespoons greek yogurt
 * 2 teaspoons lemon juice
 * 1 tablespoon olive oil
 * 1/2 teaspoon za'atar spice blend
