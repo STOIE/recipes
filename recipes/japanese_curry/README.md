@@ -9,10 +9,10 @@
 * 1/2 box (1 packet / 4 cubes) of S&B Golden Curry Mix
 * 1 garlic clove smashed (not mashed)
 * 1 teaspoon sized thumb of ginger (skinned whole)
-* 2-3 medium sized potatoes (cut into 8-way chunks)
-* 2 medium sized onions (cut into 8-way chunks)
-* 1 medium sized carrot (1cm cubed)
-* 1.5-2 cups of room temp water
+* 2 medium sized potatoes (cut into 8-way chunks, or 15mm cubes)
+* 1 medium sized onions (cut into 8-way chunks)
+* 1/4 medium sized carrot (0.5-1cm cubed)
+* 2.5-3.5 cups of boiling water
 * Jasmine rice to serve
 
 You can also cook with chunks of chicken or pork, if using meat like this then halve the potatoes and perform a partial fry with the meat in step 4.
@@ -38,10 +38,10 @@ You can also cook with chunks of chicken or pork, if using meat like this then h
 * 1 box (2 packets / 8 cubes) of S&B Golden Curry Mix
 * 2 garlic clove smashed (not mashed)
 * 2 teaspoon sized thumbs of ginger (skinned whole)
-* 4-6 medium sized potatoes (cut into 8-way chunks)
-* 3 medium sized onions (cut into 8-way chunks)
-* 1-2 medium sized carrots (1cm cubed)
-* 3-4 cups of room temp water
+* 4 medium sized potatoes (cut into 8-way chunks, or 15mm cubes)
+* 2 medium sized onions (cut into 8-way chunks)
+* 1/2 medium sized carrot (0.5-1cm cubed)
+* 5-7 cups of boiling water
 * Jasmine rice to serve
 
 You can also cook with chunks of chicken or pork, if using meat like this then halve the potatoes and perform a partial fry with the meat in step 4.
