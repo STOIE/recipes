@@ -21,7 +21,7 @@
 * 3 tablespoons oyster sauce
 * 3 tablespoons light soy sauce
 * 1 teaspoon dark soy sauce
-* 4-1/2 teaspoons sugar
+* 1-1/2 tablespoons sugar
 * 3 tablespoons water
 
 #### Method
