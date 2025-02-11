@@ -15,6 +15,7 @@
 
 #### Method
 
+1. Ensure any casing is removed from the outside of the ham (sometimes a very thin casing exists).
 1. Score the ham fat/flesh with a sharp knife forming a diamond pattern.
 1. Insert a clove into the centre of every diamond segment, optional.
 1. Combine all the ingredients together in a bowl and mix them thoroughly together.
