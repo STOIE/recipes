@@ -56,7 +56,7 @@
 * The mixer hook should be as smooth as possible with no rough edges
 * Don’t let dough exceed 25 degrees C
 * If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
-* When making more than 6 balls, place however many over 6 into the fridge at the start of proofing. Then remove 6 from the fridge (if less 12 or less total, that would be all) after 15 minutes. While more remain in the fridge, continue to remove a further 6 every 20 minutes there-after.
+* When making more than 6 balls, place however many over 6 into the fridge at the start of proofing. Then remove 6 from the fridge (if 12, or less total, that would be all) after 15 minutes. While more remain in the fridge, continue to remove a further 6 every 20 minutes there-after.
 
 
 ---
