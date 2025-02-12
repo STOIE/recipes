@@ -42,11 +42,11 @@
 1. Next cover in cling flim and let rest for 30 minutes.
 
 
-## Phase 3 - Balling and Prove (15 mins prep + 2-4 hours wait)
+## Phase 3 - Balling and Prove (15 mins prep + 3-6 hours wait)
 
 1. After 30 minutes, cut the dough ball into 9 equal size portions and using a similar technique as before, form the dough into 9 dough balls.
 1. Place the dough balls into desired proving trays or containers, covered but not air tight.
-1. Allow to prove at warm room temperature for 2-4 hours before using for pizza.
+1. Allow to prove at warm room temperature for 3-6 hours before using for pizza.
 
 
 
@@ -56,6 +56,7 @@
 * The mixer hook should be as smooth as possible with no rough edges
 * Don’t let dough exceed 25 degrees C
 * If need to make larger quantity, ratio up the water, flour and salt in all steps, but not the honey and yeast, they remain the same at 3g.
+* When making more than 6 balls, place however many over 6 into the fridge at the start of proofing. Then remove 6 from the fridge (if less 12 or less total, that would be all) after 15 minutes. If remove a further 6 every 20 minutes there-after.
 
 
 ---
