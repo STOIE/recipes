@@ -20,12 +20,12 @@
 
 * Knead 1 - 8 mins
 * Knead 2 - 30 mins
-* Rise - 32 deg C
+* Rise - 30 deg C (32 winter)
 * Rise 1 - 45 mins
 * Punch down 1 - 10 seconds
 * Rise 2 - 30 mins
 * Punch down 2 - 15 seconds
-* Rise 3 - 65 mins
+* Rise 3 - 60 mins (65 up-to 70 winter)
 * Bake - 70 mins @ 150 deg C
 
 
