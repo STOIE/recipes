@@ -2,7 +2,7 @@
 
 ### Equipment (makes 32 buns)
 
-* 1 Square ~1000cm2 baking pan (5cm tall or taller) - like 35 x 28cm
+* 1 Rectanglar ~1000cm2 baking pan (5cm tall or taller) - like a 40 x 25cm pizza pan
 * Sieve
 * Mixer
 
