@@ -15,8 +15,8 @@
 * 120 grams white caster sugar
 * 36 grams mixed spice
 * 120 grams butter (room temp)
-* 280 grams raisins (or craisins)
-* 160 grams candied peel (optional, else use an additional 160 grams raisins)
+* 250 grams raisins (or craisins)
+* 160 grams candied peel
 * 840 grams water (boiling)
 
 #### Main Dough Ingredients
@@ -48,7 +48,7 @@
 1. Then add the flour and mix to a dough, shaping into a single large dough ball.
 1. Place the dough ball covered in the bowl and allow to rest for an hour.
 1. After the first rest, remove the dough and perform a good bench fold, finally reballing and placing back into the covered bowl for another hour.
-1. After the second rest, remove from the bowl and divide into 32 pieces of 87 grams each (or 48 at 58 grams each).
+1. After the second rest, remove from the bowl and divide into 32x pieces of 86 grams eachwith candied peel, else 81g (or 48x at 57 grams each with candied peel, else 54g).
 1. Once divided, ball and place covered on the bench to rest for 15 minutes.
 1. Refold and perform a final balling, then place into the baking paper lined baking tray.
 1. Take some additional melted butter (100g) and using a brush, butter between the buns to prevent them sticking together.
