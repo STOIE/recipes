@@ -7,12 +7,13 @@
 #### Ingredients
 
 * 1.5-1.7kg 3-ribs rack
-* 50:50 salt:ground black pepper (by volume)
+* 50:50 salt:ground black pepper (by volume) and/or another seasoning.
 
 #### Method
 
 1. On the back-side of the ribs, score the membrane with a criss-cross pattern.
 1. On the top-side, trim any fat thicker than 5mm from the surface of the ribs.
+1. Season as desired.
 
 ### Cooking
 
