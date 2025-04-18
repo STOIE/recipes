@@ -1,10 +1,10 @@
 ## Hot Cross Buns
 
-### Equipment (makes 32 buns)
+### Equipment (makes 32 regular or 48 small buns)
 
-* 1 Rectanglar ~1000cm2 baking pan (5cm tall or taller) - like a 40 x 25cm pizza pan
-* Sieve
-* Mixer
+* For regular sized buns: 1 Rectanglar ~1000cm2 baking pan (6cm tall) - like a 40 x 25cm pizza pan
+* For small sized buns: 1 Rectanglar ~1400cm2 baking pan (4cm tall) - like a 44 x 32cm baking tray
+
 
 ### Ingredients
 
@@ -16,7 +16,7 @@
 * 36 grams mixed spice
 * 120 grams butter (room temp)
 * 280 grams raisins (or craisins)
-* 160 grams candied peel (optional)
+* 160 grams candied peel (optional, else use an additional 160 grams raisins)
 * 840 grams water (boiling)
 
 #### Main Dough Ingredients
@@ -39,25 +39,26 @@
 
 ### Method
 
-1. Preheat your oven to 180 celsius.
-1. In your mixer bowl, add egg whites and cream of tartar.
-1. Using a whisk attachment, beat on high till foamy.
-1. Then add the smaller amount of sugar to the mixer bowl and continue to beat on high until firm peaks form.
-1. Remove mixture from the mixing bowl and place into another large bowl.
-1. Give the mixer bowl a quick clean and then add the egg yolks, the larger amount of sugar, salt, water, honey and vanilla to the bowl.
-1. Beat on high until fluffy, pale yellow ribbons form (ribbon, when the mixture falls onto itself a ribbon should remain for 3-4 seconds).
-1. Then add approx half of the egg white mixture into the bowl and gently fold in with a silicone spatula.
-1. Using a sieve, sift the flour and baking powder into the egg yolk mixture in 3-5 parts, gently folding the mixture after each addition.
-1. Next add the vegetable oil into the mixture, slowly adding while gently folding through.
-1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to to deflate the mixture.
-
-
-### Baking
-
-1. Line your cake tin(s) with parchment paper along the sides and bottom.
-1. Pour the mixture into the tin(s) gently and then tap the tin(s) on the benchtop twice to break any large bubbles.
-1. Bake for around 45+ minutes, until golden brown with a raised centre - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place upside down onto a cooling rack (do not attempt to flip back over).
+1. First, make the decorative paste by combining the flour, icing sugar, and butter in a small bowl.
+1. Mix until smooth. then transfer to a piping bag and leave on the side for later (don't place in the fridge).
+1. Next, make the scald by combining the flour, salt, sugar, and mixed spice in a large bowl.
+1. Pour the boiling water over the ingredients and then mix together, then add the butter, raisins and candied peel (optional).
+1. Mix until combined, cover and leave to cool down to between 25-28C (can be placed in fridge or freezer to speed up the process).
+1. Once the temp has been reached, make the dough by first mixing in the yeast.
+1. Then add the flour and mix to a dough, shaping into a single large dough ball.
+1. Place the dough ball covered in the bowl and allow to rest for an hour.
+1. After the first rest, remove the dough and perform a good bench fold, finally reballing and placing back into the covered bowl for another hour.
+1. After the second rest, remove from the bowl and divide into 32 pieces of 105 grams each (or 48 at 70 grams each).
+1. Once divided, ball and place covered on the bench to rest for 15 minutes.
+1. Refold and perform a final balling, then place into the baking paper lined baking tray.
+1. Take some additional melted butter (100g) and using a brush, butter between the buns to prevent them sticking together.
+1. Re-cover with cling film and allow for final proof, time will depend on the temperature of the dough and the room (generally 90-120 minutes).
+1. Toward the end, preheat the oven to 170C fan-forced.
+1. Before placing the buns into the oven to bake, use the decorative paste and draw the crosses onto the buns.
+1. Give them a spray with water and place them into the oven for around 25 minutes.
+1. Before the buns are fully baked, prepare the syrup by heating the water and sugar to a boil in a small pan over the stove.
+1. When you remove the buns from the oven, brush the tops of the buns with the hot sugar syrup.
+1. Once removed from the pan, the hot cross buns are best eaten hot.
 
 
 Notes. you can freeze your buns if they take longer than a few days to consume.
