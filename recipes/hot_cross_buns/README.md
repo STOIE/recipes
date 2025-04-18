@@ -48,7 +48,7 @@
 1. Then add the flour and mix to a dough, shaping into a single large dough ball.
 1. Place the dough ball covered in the bowl and allow to rest for an hour.
 1. After the first rest, remove the dough and perform a good bench fold, finally reballing and placing back into the covered bowl for another hour.
-1. After the second rest, remove from the bowl and divide into 32 pieces of 105 grams each (or 48 at 70 grams each).
+1. After the second rest, remove from the bowl and divide into 32 pieces of 87 grams each (or 48 at 58 grams each).
 1. Once divided, ball and place covered on the bench to rest for 15 minutes.
 1. Refold and perform a final balling, then place into the baking paper lined baking tray.
 1. Take some additional melted butter (100g) and using a brush, butter between the buns to prevent them sticking together.
