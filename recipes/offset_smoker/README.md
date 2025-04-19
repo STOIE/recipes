@@ -1,5 +1,54 @@
 # Beef
 
+---
+
+## Brisket
+
+### Meat Prep
+
+#### Ingredients
+
+* ~7kg brisket
+* 50:50 salt:ground black pepper (by volume) and/or another seasoning.
+
+#### Method
+
+1. Trim the brisket by first cutting the mohawk.
+1. Straightening the side parallel to the mohawk.
+1. Trimming any fat off the underside (side without fat) of the brisket.
+1. Then again on the top-side (fat side), shave the fat down to be around 7mm thick.
+1. Finish by rounding the flat (thin-end) corners off to remove any thin meat that will char easily.
+1. Set all the trimmings aside and sort into fat and meat (again cutting as required).
+1. Season the brisket as desired.
+1. Meat trimmings can be kept for sausage, fat trimmings will be used later for tallow.
+
+### Cooking
+
+#### Method
+
+1. Get your smoker to 200 deg F, then place the brisket inside, thickest end facing the firebox.
+1. Take your fat trimmings and place them into a tray and put into the smoker closer to the firefox to melt and smoke.
+1. Cook for ~4 hours at temp, with a smoky fire (but open flame), this phase is simply to build smoke flavour.
+1. Raise the temp to 225 deg F, keeping a fairly smoky fire (but open flame) and cook a further ~2 hours, this phase is colour and to begin rendering fat.
+1. At this point remove the fat tray, now tallow from the smoker and place aside.
+1. Now raise the temp again to 250-275 deg F, smoke level doesn't really matter at this point, cook a further ~2 hours, this phase is to finish rendering fat.
+1. To tell if ready to wrap the colour should be dark, the fat should be rendered to a point like jelly, poke it with a finger and it should just sink in like jelly (internal temp ~175).
+1. Remove from the smoker, wrap in butcher paper, placing some smoked-tallow on the under-side of the brisket.
+1. Ensure the wrap is tight and that after the wrap the brisket is kept top-side/fat-side up.
+1. Place back into the smoker this time with the flat (thin) side facing the firebox.
+1. At this point fire can be clean (can even use an oven), still 250-275F, cook for another ~3 hours (internal temp of point/thick-end ~200F, flat/thin-end ~205F).
+1. Place into an oven (@145F) or insulated cooler to rest for 10+ hours/generally overnight, longer is fine, less is not, just keep it above 135F to be food safe.
+
+### Slicing
+
+#### Method
+
+1. Start with the flat/thin-end and slice toward the point/thick-end.
+1. Once you see the two muscles sitting on-top of one another (as the brisket thickens up), stop slicing the flat.
+1. Rotate the brisket 90 degrees, and slice the rest in that direction.
+
+---
+
 ## Ribs
 
 ### Meat Prep
@@ -27,8 +76,11 @@
 1. Place into an insulated cooler to rest for a couple of hours.
 
 ---
+---
 
 # Chicken
+
+---
 
 ## Whole Chicken
 
