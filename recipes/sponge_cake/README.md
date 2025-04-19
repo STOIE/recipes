@@ -46,7 +46,7 @@
 1. Then add approx half of the egg white mixture into the bowl and gently fold in with a silicone spatula.
 1. Using a sieve, sift the flour and baking powder into the egg yolk mixture in 3-5 parts, gently folding the mixture after each addition.
 1. Next add the vegetable oil into the mixture, slowly adding while gently folding through.
-1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to to deflate the mixture.
+1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to not deflate the mixture.
 
 
 #### Baking
