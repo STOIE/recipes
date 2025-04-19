@@ -22,7 +22,6 @@
 * 250ml freshly squeezed orange juice (3-4 oranges)
 * grated peel of one orange
 
-
 #### Method
 
 1. Preheat your oven to 160 celsius.
@@ -34,7 +33,6 @@
 1. Beat on high until fluffy, pale yellow ribbons form (ribbon, when the mixture falls onto itself a ribbon should remain for 3-4 seconds).
 1. Then add approx half of the egg white mixture into the bowl and gently fold in with a silicone spatula.
 1. Finally add the remaining half of the egg whites to the mixture and fold through until well combined, trying to not deflate the mixture.
-
 
 #### Baking
 
@@ -48,18 +46,19 @@ Notes. ensure your baking powder is not out of date or too old, this can cause t
 
 ---
 
-### Rum Syrup
+### Decorations
 
 #### Ingredients
 
-* 140ml water
-* 70 grams white caster sugar
-* 60ml rum (not white rum)
+* 2 oranges, sliced into 8mm slices
+* 250ml water
+* 250 grams white caster sugar
+* 2 tablespoons brandy
 
 #### Method
 
-1. Add the water and sugar to a saucepan and heat over medium heat until the sugar is completely dissolved.
-1. Remove from heat and set aside to cool.
+1. Add the water, sugar and brandy to a shallow frying pan.
+1. Heat over the stove until boiling and the sugar is dissolved.
 1. Once mostly cooled, stir in the rum.
 1. The mixture can then be refridgerated if making in advance.
 
