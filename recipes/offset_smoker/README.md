@@ -13,10 +13,10 @@
 
 #### Method
 
-1. Trim the brisket by first cutting off the mohawk.
-1. Cut straightening the side parallel to the mohawk.
-1. Trimming any fat off the underside (side without fat) of the brisket.
-1. Then again on the top-side (fat side), shave the fat down to be around 7mm thick.
+1. Trim the brisket by first removing most of the deckle fat from the underside (side without fat) of the brisket.
+1. Then turn over to the top-side (fat side) and start by cutting off the mohawk.
+1. Cut it from the middle of the brisket lengthwise, and curve down rounding the corner off in the side of the brisket, straightening the side as you go.
+1. Now shave the remaining fat down to be around 6mm thick.
 1. Finish by rounding the flat (thin-end) corners off to remove any thin meat that will char easily.
 1. Set all the trimmings aside and sort into fat and meat (again cutting as required).
 1. Season the brisket as desired.
