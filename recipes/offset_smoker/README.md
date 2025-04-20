@@ -9,7 +9,7 @@
 #### Ingredients
 
 * ~7kg brisket
-* 50:50 salt:ground black pepper (by volume) and/or another seasoning.
+* 50:50 salt:ground black pepper (by volume) and/or another seasoning
 
 #### Method
 
@@ -34,7 +34,7 @@
 1. Now raise the temp again to 120-135 deg C (250-275 deg F), smoke level doesn't really matter at this point, cook a further ~2 hours, this phase is to finish rendering fat.
 1. To tell if ready to wrap the colour should be dark, the fat should be rendered to a point like jelly, poke it with a finger and it should just sink in like jelly (internal temp ~80C/175F).
 1. Remove from the smoker, wrap in butcher paper, placing some smoked-tallow on the under-side of the brisket.
-1. Ensure the wrap is tight and that after the wrap the brisket is kept top-side/fat-side up.
+1. Ensure the wrap is tight and ensure the brisket finishes top-side/fat-side up.
 1. Place back into the smoker this time with the flat (thin) side facing the firebox.
 1. At this point fire can be clean (can even use an oven), still at 250-275F, cook for another ~3 hours (internal temp of point/thick-end ~93C/200F, flat/thin-end ~97C/205F).
 1. Place into an oven (@63C/145F) or insulated cooler to rest for 10+ hours/generally overnight, longer is fine, less is not, just keep it above 57C/135F to be food safe.
@@ -49,14 +49,14 @@
 
 ---
 
-## Ribs
+## Beef Ribs
 
 ### Meat Prep
 
 #### Ingredients
 
 * 1.5-1.7kg 3-ribs rack
-* 50:50 salt:ground black pepper (by volume) and/or another seasoning.
+* 50:50 salt:ground black pepper (by volume) and/or another seasoning
 
 #### Method
 
@@ -74,6 +74,47 @@
 1. Remove from the smoker, wrap in butcher paper - optionally placing some smoked-tallow on the top-side of the ribs.
 1. Place back into the smoker and increase temp to 135 deg C (275 deg F) clean fire and cook until the temp probe goes into the meat like peanut butter (internal temp ~90-93C / ~195-200F).
 1. Place into an insulated cooler to rest for a couple of hours.
+
+
+---
+
+# Pork
+
+---
+
+## St Louis Spare Ribs
+
+### Rack Prep
+
+#### Ingredients
+
+* full rack st louis spare ribs
+* 50:50 salt:ground black pepper (by volume) and/or another seasoning
+
+#### Method
+
+1. Trim any thin or hanging pieces of meat from the ribs.
+1. On the underside of the ribs, score the membrane in a criss-cross pattern.
+1. Season as desired.
+
+### Cooking
+
+#### Method
+
+1. Get your smoker to 110 deg C (225 deg F), then place the ribs inside, front-to-back of the smoker, with the bone ends facing the firebox/stack.
+1. Optionally, place some pork lard onto a baking tray (2 heaped tablespoons per rack) and place inside the smoker, firebox end.
+1. Cook for ~4 hours at temp, with a smoky fire (but open flame), this phase is to build smoke flavour.
+1. After around hour 3 you might need to spray to stop the ribs drying out too much, once a red colour has been reached, do this with a 50:50 mix of apple-cider-vinegar/water.
+1. Continue to spray about every 15-20 minutes.
+1. Raise the temp to 135 deg C (275 deg F), keeping a fairly smoky fire (but open flame) and cook a further ~1 hour, this phase is to render fat and get pull-back on the bones.
+1. Continue to spray about every 20 minutes.
+1. Remove from the smoker, wrap in butcher paper, placing some smoked-tallow on the top-side of each rack.
+1. Place back into the smoker this time with the meat-side facing down.
+1. At this point fire can be clean (can even use an oven), still at 275F, cook for another ~30 minutes (internal temp ~97C/205F).
+1. The feel should be a sag which feels like they want to break in the paper when picked up from the middle.
+1. If you want to sauce/glaze them, do so now by taking your sauce, thinning slightly with distilled vinegar and coating the ribs.
+1. If using sauce, place back on the smoker until sticky.
+1. You can allow to rest, or eat right away.
 
 
 ---
