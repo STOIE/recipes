@@ -1,4 +1,4 @@
-## Homemade Black Pepper Sauce
+## Black Pepper Sauce
 
 #### Ingredients
 
