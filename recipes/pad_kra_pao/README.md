@@ -33,7 +33,7 @@
 #### Ingredients
 
 * 4 thai chilies, chopped into 1-2mm long sections (birds eye)
-* 3 large mild-medium red chilies, copped into 1-2mm long sections
+* 3 large mild-medium red chilies, chopped into 1-2mm long sections
 * 1 whole garlic, rough chopped
 
 #### Method
