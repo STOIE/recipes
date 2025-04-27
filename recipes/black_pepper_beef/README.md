@@ -13,10 +13,10 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 * 1/3 cup water
 * 1 teaspoon salt
 * 1 tablespoon sugar
-* 1 tablespoon cornstarch
-* 1 tablespoon shaoxing wine
+* 1-1/2 tablespoon cornstarch
+* 1-1/2 tablespoon shaoxing wine
 * 1 tablespoon dark soy sauce
-* 1 tablespoon vegetable oil
+* 1-1/2 tablespoon vegetable oil
 * Another volume of vegetable oil to pass thru
 
 #### Method
@@ -44,7 +44,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 * 1-2 red banana chili cut into diamonds (or capcicum)
 * 150 grams sugar snap peas
 * 3 tablespoons black pepper sauce mixed with 3 tablespoons water
-* 1/3 cup Cantonese Mijiu Rice Wine (or Japanese sake)
+* 1/2 cup cantonese mijiu rice wine (or cooking sake)
 * 2 teaspoon dark soy sauce
 * 1 tablespoon cornstarch & 1 tablespoon water as slurry
 * 1/2 cup peanut oil
