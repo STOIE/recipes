@@ -21,7 +21,7 @@
 #### To serve (all as desired):
 
 * guacamole (see recipe)
-* chimichurri
+* chimichurri (see recipe)
 * hot sauce (like cholula)
 * queso cheese dip (see recipe)
 * salsa
