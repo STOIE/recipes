@@ -14,11 +14,19 @@
 * grated mexican cheese, like Queso Asadero
 * cooked rice
 * refried beans
+* large tortillas
+
+#### To serve:
+
+* guacamole (see recipe)
+* chimichurri
+* hot sauce (like cholula)
+
 
 #### Method
 
 1. Mix the tomatoes and jalapenos together into a salsa.
-1. Take a burrito wrap and place on some refried beans.
+1. Take a large tortilla and place on some refried beans.
 1. Add some onions, meat (chicken or beef), cheese and salsa to your liking.
 1. Add some rice (optional).
 1. Wrap tight and deep fry.
