@@ -16,11 +16,12 @@
 * refried beans
 * large tortillas
 
-#### To serve:
+#### To serve (all as desired):
 
 * guacamole (see recipe)
 * chimichurri
 * hot sauce (like cholula)
+* queso cheese dip
 
 
 #### Method
