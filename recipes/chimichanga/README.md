@@ -23,7 +23,7 @@
 * guacamole (see recipe)
 * chimichurri
 * hot sauce (like cholula)
-* queso cheese dip
+* queso cheese dip (see recipe)
 
 
 ### Method
