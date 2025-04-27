@@ -1,4 +1,6 @@
-#### Ingredients
+## Mac and Cheese
+
+### Ingredients
 
 * 2 tablespoons butter
 * 2 tablespoons flour
@@ -12,7 +14,7 @@
 * 1/2 cup of fine grated parmigiano reggiano
 
 
-#### Method
+### Method
 
 1. Melt butter in a large-deep pot over medium-high heat.
 1. Add flour, and stir until combined.
@@ -22,5 +24,5 @@
 1. Continue cooking, stirring constantly, until the mixture just reaches a simmer.
 1. Reduce heat to medium-low to maintain the low simmer.
 1. Continue cooking, stirring constantly, for about 9-10 minutes, or until the pasta is al dente (or to your liking).
-1. Remove from heat, and stir in the cheeses until melted.
+1. Remove from heat and allow to cool significantly, then stir in the cheeses until melted (adding it too hot will cause the cheese to become grainy).
 1. Serve hot immediately.
