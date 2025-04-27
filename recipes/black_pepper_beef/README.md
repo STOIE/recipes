@@ -26,7 +26,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 1. Then mix all the ingredients together with the beef, mixing well.
 1. Allow to rest for 1-6 hours.
 1. Then heat a wok to high heat with a reasonable volume of oil.
-1. Once very hot, pass the meat through the oil for a very brief fry (<30 seconds).
+1. Once very hot, pass the meat through the oil for a very brief fry (60-90 seconds).
 1. It should change colour, then remove and drain, setting the beef aside.
 
 
