@@ -1,27 +1,30 @@
 ## Black Pepper Beef
 
-Note. you will need the homemade black pepper sauce for this recipe (see the recipe for that first)
+Note. you will need the black pepper sauce for this recipe (see the recipe for that first)
 
 ### Beef Prep
 
 #### Ingredients
 
-* 500 grams Beef loin (or flank, or round) thinly sliced into 2mm sections
-* 1/4 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
-* 3 tablespoons water
-* 1/2 teaspoon salt
-* 2 teaspoons sugar
-* 2 teaspoons cornstarch
-* 2 teaspoons shaoxing wine
-* 2 teaspoons dark soy sauce
-* 2 teaspoons vegetable oil
+*Per 1 kg meat*
+
+* 1kg beef loin (or flank, or round) thinly sliced into 2mm sections
+* 1/2 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
+* 6 tablespoons water
+* 1 teaspoon salt
+* 4 teaspoons sugar
+* 4 teaspoons cornstarch
+* 4 teaspoons shaoxing wine
+* 4 teaspoons dark soy sauce
+* 4 teaspoons vegetable oil
 * Another volume of vegetable oil to pass thru
 
 #### Method
 
-1. Mix the papain into the meet.
+1. Mix the papain into the meat and allow to rest for 20 minutes.
 1. Mix cornstarch into shaoxing wine to make a slurry.
 1. Then mix all the ingredients together with the beef, mixing well.
+1. Allow to rest for 1-6 hours.
 1. Then heat a wok to high heat with a reasonable volume of oil.
 1. Once very hot, pass the meat through the oil for a very brief fry (<30 seconds).
 1. It should change colour, then remove and drain, setting the beef aside.
@@ -31,18 +34,20 @@ Note. you will need the homemade black pepper sauce for this recipe (see the rec
 
 #### Ingredients
 
+*Per 1 kg meat*
+
 * Beef prepared earlier
-* 1/2 big white onion quarted/chunked
-* 5 cloves garlic smashed
-* 1 inch ginger sliced
-* 8 scallion whites cut into 2 inch sections
-* 1 red banana chili cut into diamonds (or capcicum)
-* 100 grams snow peas
-* 1 large heaped tablespoon of homemade black pepper sauce mixed with 3 tablespoons water
-* 4 tablespoons of Cantonese Mijiu Rice Wine (or Japanese sake)
-* 1 teaspoon dark soy sauce
-* 1/2 tablespoon cornstarch & 1/2 tablespoon water as slurry
-* 4 tablespoons peanut oil
+* 1 big white onion quarted/chunked
+* 10 cloves garlic smashed
+* 2 inch ginger sliced
+* 16 scallion whites cut into 2 inch sections
+* 2 red banana chili cut into diamonds (or capcicum)
+* 200 grams sugar snap peas
+* 3 tablespoons of black pepper sauce mixed with 3 tablespoons water
+* 8 tablespoons of Cantonese Mijiu Rice Wine (or Japanese sake)
+* 2 teaspoon dark soy sauce
+* 1 tablespoon cornstarch & 1 tablespoon water as slurry
+* 8 tablespoons peanut oil
 
 
 #### Method
