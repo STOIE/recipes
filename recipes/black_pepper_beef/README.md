@@ -23,7 +23,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 
 1. Mix the papain into the meat and allow to rest for 20 minutes.
 1. Mix cornstarch into shaoxing wine to make a slurry.
-1. Then mix all the ingredients together with the beef, mixing well.
+1. Then mix all the ingredients (including slurry) together with the beef, mixing well.
 1. Allow to rest for 1-6 hours.
 1. Then heat a wok to high heat with a reasonable volume of oil.
 1. Once very hot, pass the meat through the oil for a very brief fry (60-90 seconds).
