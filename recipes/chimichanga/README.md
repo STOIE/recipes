@@ -24,6 +24,8 @@
 * chimichurri
 * hot sauce (like cholula)
 * queso cheese dip (see recipe)
+* salsa
+* sour cream
 
 
 ### Method
@@ -34,4 +36,4 @@
 1. Add some rice (optional).
 1. Wrap tight, using a bit of flour slurry to stick the end together.
 1. Deep fry as desired.
-1. Serve with guacamole, chimichurri, hot sauce and queso dip.
+1. Serve with any of the ingredients listed above.
