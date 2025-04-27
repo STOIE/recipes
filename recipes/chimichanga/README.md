@@ -31,4 +31,4 @@
 1. Add some onions, meat (chicken or beef), cheese and salsa to your liking.
 1. Add some rice (optional).
 1. Wrap tight and deep fry.
-1. Serve with guacamole, chimichurri and hot sauce.
+1. Serve with guacamole, chimichurri, hot sauce and queso dip.
