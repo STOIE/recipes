@@ -54,5 +54,3 @@
 1. Then using a knife, break the seal at the side of the panna between the panna and cup.
 1. Turn upside down over a plate and the panna should slowly release.
 1. Top the panna with caramel and serve.
-
-#### Assembly
