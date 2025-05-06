@@ -12,7 +12,7 @@
 
 *Makes: 520ml*
 
-* 1/2 cup salt
+* 1/2 cup table salt
 * 1/2 cup sweet paprika
 * 1/2 cup brown sugar (dried)
 * 1/4 cup coarse black pepper
@@ -38,8 +38,27 @@
 * 3/4 cup white sugar
 * 1/2 cup sweet paprika
 * 1/4 cup garlic powder
-* 1/4 cup salt
+* 1/4 cup table salt
 * 2 tablespoons ground black pepper
 * 2 tablespoons ground ginger powder
 * 2 tablespoons onion powder
 * 1 tablespoon rosemary powder (or fine ground)
+
+
+## Random
+
+### Number #63 Rub
+
+#### Ingredients
+
+*Makes: 640ml*
+
+* 1 cup table salt
+* 1/2 cup smoked paprika
+* 1/2 cup freshly cracked black pepper
+* 3 tablespoons onion powder
+* 3 tablespoons garlic powder
+* 2 tablespoons turmeric
+* 2 tablespoons ground coriander
+* 2 teaspoons cayenne pepper
+* 2 teaspoons chipotle pepper
