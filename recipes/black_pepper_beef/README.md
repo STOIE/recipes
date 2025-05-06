@@ -9,7 +9,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 *Per 1 kg meat*
 
 * 1kg beef loin (or flank, or round) thinly sliced into 2mm sections
-* 1/2 teaspoon papain meat tenderiser (or 1 tablespoon bi-carb soda)
+* 1 teaspoon papain meat tenderiser (or 1 tablespoon bi-carb soda)
 * 1/3 cup water
 * 1 teaspoon salt
 * 1 tablespoon sugar
@@ -21,7 +21,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 
 #### Method
 
-1. Mix the papain into the meat and allow to rest for 60 minutes (30 minutes if using bi-carb and rise afterwards).
+1. Mix the papain into the meat and allow to rest for 60 minutes (if using bi-carb, rise afterwards).
 1. Mix cornstarch into shaoxing wine to make a slurry.
 1. Then mix all the ingredients (including slurry) together with the beef, mixing well.
 1. Allow to rest for 1-6 hours.
@@ -52,16 +52,16 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 
 #### Method
 
-1. Heat a cast iron skillet (table skillet) on high heat in the background.
+1. Optional: Heat a cast iron skillet (table skillet) on high heat in the background.
 1. Meanwhile, heat a wok to very high heat.
 1. Turn off the heat from the wok and add two-thirds of the peanut oil, moving it around the wok.
 1. Return the wok to high heat.
-1. Place snowpeas and chillies into the work and fry for 1 minute.
-1. Place the beef, onion, garlic, ginger, scallions and chillies into the wok, frying for an additional minute.
-1. Then add the rice wine (or sake), very lightly mixing.
+1. Fry the vegetables one at a time in the wok, removing and adding back to their bowl.
+1. Once all the veg is fried, place the garlic and ginger into the wok and lightly fry for a minute.
+1. Then add the beef and all veg to the wok and mix roughly.
+1. Add the rice wine (or sake), lightly mixing through.
 1. Immediately add the peppercorn sauce and water mix.
-1. Stir and give a quick fry for around 15-30 seconds.
-1. Add the dark soy sauce and the cornstarch slurry.
-1. Mix quickly again and then add the remaining third of peanut oil.
-1. Remove from the heat, give a final brief mix and then place the mixture into aluminium foil.
-1. You can then place the dish with foil onto the cast iron skillet to present for serving.
+1. Stir and give a quick fry for around 30 seconds.
+1. Add the dark soy sauce and the cornstarch slurry, mix everything thoroughly.
+1. Then remove from the heat.
+1. Optional: You can then place the dish onto the cast iron skillet to present sizzling for serving.
