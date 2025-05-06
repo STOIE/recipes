@@ -32,7 +32,7 @@
 
 #### Ingredients
 
-*Makes: 600ml*
+*Makes: 700ml*
 
 * 3/4 cup dark brown sugar (firmly packed, dried)
 * 3/4 cup white sugar
