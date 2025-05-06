@@ -9,7 +9,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 *Per 1 kg meat*
 
 * 1kg beef loin (or flank, or round) thinly sliced into 2mm sections
-* 1/2 teaspoon papain meat tenderiser (or sodium carbonate, or microwave bi-carbonate for 1 minute)
+* 1/2 teaspoon papain meat tenderiser (or 1 tablespoon bi-carb soda)
 * 1/3 cup water
 * 1 teaspoon salt
 * 1 tablespoon sugar
@@ -21,7 +21,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 
 #### Method
 
-1. Mix the papain into the meat and allow to rest for 20 minutes.
+1. Mix the papain into the meat and allow to rest for 60 minutes (30 minutes if using bi-carb and rise afterwards).
 1. Mix cornstarch into shaoxing wine to make a slurry.
 1. Then mix all the ingredients (including slurry) together with the beef, mixing well.
 1. Allow to rest for 1-6 hours.
