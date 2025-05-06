@@ -45,7 +45,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 * 2 inch ginger sliced
 * 16 scallion whites cut into 2 inch sections
 * 1-2 red banana chili cut into diamonds (or capcicum)
-* 150 grams sugar snap peas
+* 150 grams sugar snap peas, optional
 * 2 *measured* tablespoons black pepper sauce mixed with 3 tablespoons water
 * 1/2 cup cantonese mijiu rice wine (or cooking sake)
 * 2 teaspoon dark soy sauce
