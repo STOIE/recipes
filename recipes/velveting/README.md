@@ -14,3 +14,7 @@
 ---
 
 ### Chicken
+
+#### List of Methods
+
+* 1 tablespoon bi-carb soda for 60 minutes, rinse
