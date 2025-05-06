@@ -2,6 +2,8 @@
 
 Note. you will need the black pepper sauce for this recipe (see the recipe for that first)
 
+---
+
 ### Beef Prep
 
 #### Ingredients
@@ -29,6 +31,7 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 1. Once very hot, pass the meat through the oil for a very brief fry (60-90 seconds).
 1. It should change colour, then remove and drain, setting the beef aside.
 
+---
 
 ### The Dish Itself
 
