@@ -35,6 +35,10 @@ Note. you will need the black pepper sauce for this recipe (see the recipe for t
 
 ### The Dish Itself
 
+There is many combinations of vegetables you can use in this dish, below is the traditional example, however you can also mix and match yourself.
+
+Try to maintain between a 1:1 - 1:1.5; meat:vegetables ratio (by volume).
+
 #### Ingredients
 
 *Per 1 kg meat*
