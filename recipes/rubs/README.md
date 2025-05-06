@@ -10,16 +10,16 @@
 
 #### Ingredients
 
-*Makes: XXXml*
+*Makes: 520ml*
 
-* 1/4 cup salt
-* 1/4 cup sweet paprika
-* 1/4 cup brown sugar (dried)
-* 2 tablespoons coarse black pepper
-* 2 tablespoons raw sugar (slightly ground)
-* 1/2 tablespoon garlic powder
-* 1/4 tablespoon cayenne
-* 1/2 teaspoon celery seed (finely ground)
+* 1/2 cup salt
+* 1/2 cup sweet paprika
+* 1/2 cup brown sugar (dried)
+* 1/4 cup coarse black pepper
+* 1/4 cup raw sugar (slightly ground)
+* 1 tablespoon garlic powder
+* 1/2 tablespoon cayenne
+* 1 teaspoon celery seed (finely ground)
 
 
 ## Meatheads
