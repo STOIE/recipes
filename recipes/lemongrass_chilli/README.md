@@ -24,6 +24,8 @@
 * 2 tablespoons light soy sauce
 * 2 teaspoons dark soy sauce
 * 1 tablespoon rice vinegar
+* 1-1/2 tablespoons sugar
+* 1 teaspoon cracked black pepper
 
 #### Method
 
@@ -31,12 +33,10 @@
 
 ---
 
-### Veg Prep
+### Paste Prep
 
 #### Ingredients
 
-* 1 medium onion, sliced thin
-* 1 red banana chilli (or capsicum), sliced into 5mm strips
 * 3 lemongrass stalks, tops removed, outer layers removed, rough chopped
 * 1-1/2 inches ginger, rough chopped
 * 4 thai chilies, chopped into 1-2mm long sections (birds eye)
@@ -45,7 +45,7 @@
 
 #### Method
 
-1. For the lemongrass, ginger, chillies and garlic, add into a mortar and pestle, smashing and grinding until a rough mixture is formed.
+1. One at a time, add the lemongrass, ginger, chillies and garlic into a mortar and pestle, smashing and grinding until a rough mixture is formed.
 1. Remove from the mortar and set aside.
 
 ---
@@ -54,15 +54,22 @@
 
 #### Ingredients
 
-* 4 cups holy basil (else, italian basil)
+* 1 medium onion, sliced thin
+* 1 red banana chilli (or capsicum), sliced into 5mm strips
+* 1/4 cup fresh coriander, chopped
+* 1/8 cup fresh vietnamese mint, chopped
+* 2 tablespoons lime juice
+* 1-1/2 tablespoons corn starch + 2-1/2 tablespoons water, as a slurry
 * vegetable oil
 
 #### Method
 
 1. Heat a wok on high, add about 2 tablespoons of oil, then adding the pork.
-1. Fry the pork, until lightly seared.
-1. Move the pork aside and add the chilli mixture.
-1. Fry until the chilli mixture turns slightly golden, then add the sauce.
-1. Mix well and fry for about 30-60 seconds longer while stiring through.
-1. Turn off the heat and add the basil, continue to stir until mixed through and wilted.
-1. Serve with jasmine rice and optionally a fried egg.
+1. Fry the pork, until mostly cooked through, then remove and bowl.
+1. Fry the banana chilli (or capsicum), then remove and bowl.
+1. Add the paste mixture to the wok and fry for a moment, then add the onion.
+1. Allow the onion to lightly fry without burning the paste, then add pork and banana chilli (capsicum) back in.
+1. Add the sauce and slurry.
+1. Fry for a couple of minutes longer while stiring thoroughly.
+1. Turn off the heat and add the coriander, mint and lime juice, continue to stir until mixed through.
+1. Serve with rice.
