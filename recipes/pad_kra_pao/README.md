@@ -34,7 +34,7 @@
 
 * 4 thai chilies, chopped into 1-2mm long sections (birds eye)
 * 3 large mild-medium red chilies, chopped into 1-2mm long sections
-* 1 whole garlic, rough chopped
+* 3/4 of a whole garlic, rough chopped
 
 #### Method
 
@@ -51,10 +51,11 @@
 
 #### Method
 
-1. Heat a wok on high, add about 2 tablespoons of oil, then adding the pork.
-1. Fry the pork, until lightly seared.
+1. Heat a wok on high, add about 2 tablespoons of oil, then add the pork.
+1. Fry the pork, until cooked through.
 1. Move the pork aside and add the chilli mixture.
-1. Fry until the chilli mixture turns slightly golden, then add the sauce.
-1. Mix well and fry for about 30-60 seconds longer while stiring through.
+1. Fry until the chilli mixture turns slightly golden.
+1. Add the pork back in, then add the sauce.
+1. Mix well and fry for around a minute or two longer while stiring through.
 1. Turn off the heat and add the basil, continue to stir until mixed through and wilted.
 1. Serve with jasmine rice and optionally a fried egg.
