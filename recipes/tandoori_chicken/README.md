@@ -8,7 +8,7 @@
 * 1/2 tablespoon salt
 * 1/2 teaspoon tandoori chicken colouring powder (optional)
 * 1 large mild-medium green or red chilli, chopped into 1-2mm long sections
-* 50 grams coriander leaves, finely chopped (~1/2 bunch)
+* 1/3 cup coriander leaves, finely chopped (~1/2 bunch)
 * 1 tablespoon garlic paste
 * 1 tablespoon ginger paste
 * 1/2 tablespoon ground cumin
