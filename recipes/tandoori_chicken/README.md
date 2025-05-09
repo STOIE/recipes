@@ -14,7 +14,7 @@
 * 1/2 tablespoon ground cumin
 * 1/2 tablespoon ground coriander
 * 1/2 tablespoon ground black pepper
-* 110 grams greek yoghurt
+* 1/2 cup greek yoghurt
 * 2 tablespoons melted ghee (or melted butter)
 
 
