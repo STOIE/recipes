@@ -22,10 +22,10 @@
 
 * 4 tablespoons fish sauce
 * 2 tablespoons light soy sauce
-* 2 teaspoons dark soy sauce
+* 1 teaspoons dark soy sauce
 * 1 tablespoon rice vinegar
 * 1-1/2 tablespoons sugar
-* 1 teaspoon cracked black pepper
+* 1/2 teaspoon cracked black pepper
 
 #### Method
 
@@ -37,11 +37,11 @@
 
 #### Ingredients
 
-* 3 lemongrass stalks, tops removed, outer layers removed, rough chopped
-* 1-1/2 inches ginger, rough chopped
-* 4 thai chilies, chopped into 1-2mm long sections (birds eye)
-* 2 large mild-medium red chilies, chopped into 1-2mm long sections
-* 3/4 whole garlic, rough chopped
+* 2 lemongrass stalks, tops removed, outer layers removed, rough chopped
+* 1 inch ginger, rough chopped
+* 2-3 thai chilies, chopped into 1-2mm long sections (birds eye)
+* 1-2 large mild-medium red chilies, chopped into 1-2mm long sections
+* 1/2 whole garlic, rough chopped
 
 #### Method
 
@@ -54,21 +54,23 @@
 
 #### Ingredients
 
-* 1 medium onion, sliced thin
+* 1/2 onion, sliced thin
 * 1 red banana chilli (or capsicum), sliced into 5mm strips
-* 1/4 cup fresh coriander, chopped
-* 1/8 cup fresh vietnamese mint, chopped
+* 2 tablespoons fresh coriander, chopped fine
+* 1 tablespoon fresh vietnamese mint, chopped fine
 * 2 tablespoons lime juice
-* 1-1/2 tablespoons corn starch + 2-1/2 tablespoons water, as a slurry
+* 1 tablespoons corn starch + 2 tablespoons water, as a slurry
 * vegetable oil
 
 #### Method
 
-1. Heat a wok on high, add about 2 tablespoons of oil, then adding the pork.
-1. Fry the pork, until mostly cooked through, then remove and bowl.
+1. Place the coriander, mint and lime juice into a bowl.
+1. Heat a wok on high, add about 1-1/2 inches of oil, once at temp, add the pork.
+1. Fry the pork, until 90%+ cooked through, then remove and bowl.
+1. Remove the oil and leave just a couple of tablespoons of oil to proceed.
 1. Fry the banana chilli (or capsicum), then remove and bowl.
-1. Add the paste mixture to the wok and fry for a moment, then add the onion.
-1. Allow the onion to lightly fry without burning the paste, then add pork and banana chilli (capsicum) back in.
+1. Add another splash of oil and the onion to the wok and fry for a moment, then add the paste mixture.
+1. Allow the paste to lightly fry without burning, then add pork and banana chilli (capsicum) back in.
 1. Add the sauce and slurry.
 1. Fry for a couple of minutes longer while stiring thoroughly.
 1. Turn off the heat and add the coriander, mint and lime juice, continue to stir until mixed through.
