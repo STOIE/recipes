@@ -7,12 +7,12 @@
 #### Ingredients
 
 * 1kg chicken tenderloins cut into 5mm thick slices (or breast)
-* 1-1/2 teaspoons baking soda (bicarbonate soda) - not baking powder!
+* 1 tablespoon baking soda (bicarbonate soda) - not baking powder!
 
 #### Method
 
-1. In a bowl add the chicken and the baking soda, mix well and allow to sit for 45 minutes.
-1. Throughout the 45 minutes, if you remember, mix a few additional times, to ensure everything is coated well.
+1. In a bowl add the chicken and the baking soda, mix well and allow to sit for 60 minutes.
+1. Throughout the 60 minutes, if you remember, mix a few additional times, to ensure everything is coated well.
 1. Wash the chicken in a strainer to remove any remaining baking soda.
 
 
