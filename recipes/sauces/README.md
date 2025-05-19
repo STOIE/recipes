@@ -162,3 +162,25 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 ### Method
 
 1. Combine all the ingredients into a bowl and mix together thoroughly.
+
+---
+
+## Blue Cheese Sauce
+
+### Ingredients
+
+* 1/2 cup mayonnaise
+* 1/2 cup sour cream
+* 1/4 cup buttermilk
+* 1 teaspoon garlic to paste (or very-finely diced)
+* 1/2 teaspoon fine black pepper
+* 1/2 teaspoon kosher salt
+* 1/2 teaspoon mustard powder
+* 50 grams frozen blue-cheese
+
+
+### Method
+
+1. In a medium-large bowl add the mayonnaise, sour cream, buttermilk, garlic, black pepper, salt and mustard powder.
+1. Then finely grate the blue cheese into the bowl (generally with a microplane).
+1. Mix all the ingredients together thoroughly.
