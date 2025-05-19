@@ -11,6 +11,7 @@
 * 1 teaspoon sriracha chilli sauce (most chilli sauces are vinegar based, which cannot be used)
 * 2 cups chilli oil (oil with smoked paprika and cayenne pepper)
 
+
 ### Method
 
 1. Seperate one of the eggs (white from yolk) and add just the yolk and the second whole egg to a medium-large mixing bowl.
@@ -36,6 +37,7 @@
 * 1/2 tablespoon onion powder
 * 1/2 tablespoon garlic powder
 
+
 ### Method
 
 1. In a bowl, whisk all the ingredients together THOROUGHLY.
@@ -52,6 +54,7 @@
 * 2 teaspoons lemon juice
 * 1 tablespoon olive oil
 * 1/2 teaspoon za'atar spice blend
+
 
 #### Method
 
@@ -107,6 +110,7 @@ See garlic sauce recipe above for something that is arguably better.
 
 When selecting yoghurt, you can select a thicker yoghurt than the cosistency desired provided the yoghurt is not sweet. As you add olive oil you will be able to achieve the desired consistency.
 
+
 ### Method
 
 1. Wash the cucumber and grate finely with a grater.
@@ -139,3 +143,22 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 1. Continue to stir periodically for 5-8 minutes until liquid is reduced and thickened and creamy.
 1. Taste, add salt and pepper as needed.
 1. Serve over steak and top with additional cracked black pepper if desired.
+
+---
+
+## McDonalds Big Mac Sauce
+
+### Ingredients
+
+* 1 cup thick creamy white mayonnaise (not the clear stuff!)
+* 2-1/2 tablespoons sweet pickle relish
+* 1-1/2 tablespoons classic yellow mustard
+* 2 teaspoons white wine vinegar
+* 1-1/4 teaspoons fine garlic powder
+* 1-1/4 teaspoons fine onion powder
+* 2 teaspoons sweet paprika
+
+
+### Method
+
+1. Combine all the ingredients into a bowl and mix together thoroughly.
