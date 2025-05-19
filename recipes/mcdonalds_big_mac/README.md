@@ -1,25 +1,10 @@
-# Sauce
+## McDonalds Big Mac Burger
 
-### Ingredients
+Note. you will need the [McDonalds Big Mac sauce](../sauces/README.md) for this recipe (see the recipe for that first)
 
-* 1 cup thick creamy white mayonnaise (not the clear stuff!)
-* 2-1/2 tablespoons sweet pickle relish
-* 1-1/2 tablespoons classic yellow mustard
-* 2 teaspoons white wine vinegar
-* 1-1/4 teaspoons fine garlic powder
-* 1-1/4 teaspoons fine onion powder
-* 2 teaspoons sweet paprika
+---
 
-
-### Method
-
-1. Combine all the ingredients into a bowl and mix together thoroughly.
-
-
-
-# Burger
-
-This recipe makes four regular sized Big Macs (multiply the recipe as desired).
+*This recipe makes four regular sized Big Macs (multiply the recipe as desired).*
 
 ### Ingredients
 
