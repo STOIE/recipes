@@ -203,6 +203,23 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 
 ---
 
+## Prik Nam Pla
+
+### Ingredients
+
+4 thai chilies, chopped
+6 tablespoons fish sauce
+2 tablespoons lime juice
+4 cloves garlic, thinly sliced or chopped
+1 small eschalot, thinly sliced or chopped (optional)
+
+
+### Method
+
+1. Combine all the ingredients together in a small bowl and allow to rest for at-least 10 minutes before using.
+
+---
+
 ## Sweet Pickle Relish
 
 ### Ingredients
