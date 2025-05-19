@@ -207,11 +207,11 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 
 ### Ingredients
 
-4 thai chilies, chopped
-6 tablespoons fish sauce
-2 tablespoons lime juice
-4 cloves garlic, thinly sliced or chopped
-1 small eschalot, thinly sliced or chopped (optional)
+* 4 thai chilies, chopped
+* 6 tablespoons fish sauce
+* 2 tablespoons lime juice
+* 4 cloves garlic, thinly sliced or chopped
+* 1 small eschalot, thinly sliced or chopped (optional)
 
 
 ### Method
