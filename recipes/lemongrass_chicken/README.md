@@ -23,3 +23,4 @@
 1. With a gloved hand, thoroughly mix the marinade into the chicken.
 1. Cling film the chicken bowl and refridgerate overnight.
 1. Grill over high heat, charcoal grill for best results.
+1. Serve with [Vietnamese Nuoc Cham](../sauces/README.md) sauce.
