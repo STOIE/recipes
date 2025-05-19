@@ -24,4 +24,4 @@
 * Using a large serving spoon and a regular soup spoon, roughly ball the mix into large ~6cm balls while dropping into the deep fryer oil.
 * Cook well, until very brown and bubbling has very much settled.
 * Remove and place on a paper lined plate or rack to drain excess oil.
-* Serve hot with [garlic sauce](../garlic_sauce/).
+* Serve hot with [garlic sauce](../sauces/).
