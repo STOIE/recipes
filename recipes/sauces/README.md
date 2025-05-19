@@ -204,3 +204,23 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 1. Add all the ingredients, less oil, to a food processor or blender.
 1. Then while pulsing add the olive oil in slowly.
 1. Blend more after all the oil is added if a smoother texture is desired.
+
+---
+
+## Vietnamese Nuoc Cham
+
+### Ingredients
+
+* 3 garlic cloves
+* 3 thai chili
+* 4-1/2 tablespoons sugar
+* 180ml water
+* 6 tablespoons lime juice
+* 4-1/2 tablespoons fish sauce
+
+
+### Method
+
+1. In a mortar and pestle, pound and grind the chillis, garlic and sugar.
+1. Then add in the remaining ingredients, mixing everything through.
+1. Remove from the mortar and serve.
