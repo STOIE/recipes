@@ -20,4 +20,4 @@
 * Mix all the ingredients thoroughly, recommended in stand mixer.
 * Make the cevapi into 25mm + 100mm sausages, recommend using a sausage stuffer with 25mm horn.
 * Cook over charcoal grill for best results, turning as needed.
-* Serve hot with something like [garlic sauce](../garlic_sauce/) or [tzatziki](../tzatziki/).
+* Serve hot with something like [garlic sauce](../sauces/) or [tzatziki](../sauces/).
