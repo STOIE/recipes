@@ -184,3 +184,23 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 1. In a medium-large bowl add the mayonnaise, sour cream, buttermilk, garlic, black pepper, salt and mustard powder.
 1. Then finely grate the blue cheese into the bowl (generally with a microplane).
 1. Mix all the ingredients together thoroughly.
+
+---
+
+## Pesto
+
+### Ingredients
+
+* 2 tablespoons pine nuts, toasted
+* 60 grams fresh basil leaves
+* 50 grams reggiano parmigiano, finely grated
+* 1/2 teaspoon salt
+* 1/4 teaspoon ground black pepper
+* 1 garlic clove
+* 100ml olive oil
+
+### Method
+
+1. Add all the ingredients, less oil, to a food processor or blender.
+1. Then while pulsing add the olive oil in slowly.
+1. Blend more after all the oil is added if a smoother texture is desired.
