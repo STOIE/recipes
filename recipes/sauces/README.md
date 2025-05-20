@@ -169,27 +169,6 @@
 1. Then while pulsing add the olive oil in slowly.
 1. Blend more after all the oil is added if a smoother texture is desired.
 
-
-
-# Middle-eastern Sauces
-
-## Garlic Sauce
-
-#### Ingredients
-
-* 4 cloves garlic, peeled
-* 1 cup mayonnaise
-* 3 tablespoons greek yogurt
-* 2 teaspoons lemon juice
-* 1 tablespoon olive oil
-* 1/2 teaspoon za'atar spice blend
-
-
-#### Method
-
-1. Add the garlic to a mortar and pestle and crush into a paste.
-1. Then add the garlic to a bowl, along with all the other ingredients and mix together thoroughly.
-
 ---
 
 ## Tzatziki
@@ -216,6 +195,27 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 1. In a medium-large sized mixing bowl add the yoghurt, olive oil, garlic, salt and pepper.
 1. Mix together while slowly adding in the cucumber until throughly mixed through.
 1. Drizzle more olive oil atop when serving as desired.
+
+
+
+# Middle-eastern Sauces
+
+## Garlic Sauce
+
+#### Ingredients
+
+* 4 cloves garlic, peeled
+* 1 cup mayonnaise
+* 3 tablespoons greek yogurt
+* 2 teaspoons lemon juice
+* 1 tablespoon olive oil
+* 1/2 teaspoon za'atar spice blend
+
+
+#### Method
+
+1. Add the garlic to a mortar and pestle and crush into a paste.
+1. Then add the garlic to a bowl, along with all the other ingredients and mix together thoroughly.
 
 
 
