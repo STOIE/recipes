@@ -1,4 +1,4 @@
-## Black Pepper Sauce
+## Black Pepper Paste
 
 #### Ingredients
 
