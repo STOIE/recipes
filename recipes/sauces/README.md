@@ -40,6 +40,23 @@
 
 ---
 
+## Chik-fil-a Sauce
+
+### Ingredients
+
+* 1/2 cup mayonnaise
+* 2 teaspoons yellow mustard
+* 1 teaspoon lemon juice
+* 2 tablespoons honey
+* 1 tablespoon smokey bbq sauce
+
+
+### Method
+
+1. Add all ingredients to a small mixing bowl and combine thoroughly together.
+
+---
+
 ## Jirby's Jauce
 
 ### Ingredients
