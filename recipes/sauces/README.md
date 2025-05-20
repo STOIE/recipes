@@ -173,7 +173,7 @@
 
 ## Tzatziki
 
-See garlic sauce recipe above for something that is arguably better.
+See garlic sauce recipe below for something that is arguably better.
 
 ### Indredgients
 
