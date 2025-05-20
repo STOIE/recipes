@@ -22,7 +22,7 @@
 
 * 1 teaspoon salt
 * 1/2 teaspoon fine white pepper
-* 1-1/3 tablespoons XO sauce (see recipe)
+* 1-1/3 tablespoons XO paste (see recipe)
 * 2 tablespoons shaoxing wine
 * 1 tablespoon sugar
 * 3 tablespoons light soy sauce
