@@ -1,6 +1,6 @@
 ## Black Pepper Beef
 
-Note. you will need the black pepper sauce for this recipe (see the recipe for that first)
+Note. you will need the black pepper paste for this recipe (see the recipe for that first)
 
 ---
 
