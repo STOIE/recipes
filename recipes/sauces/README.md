@@ -247,3 +247,27 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 1. Reduce heat to medium low and simmer for 10 minutes.
 1. Remove from heat.
 1. Cool and store in refrigerator for up to a month or process in water bath for 10 minutes.
+
+
+
+# Mexican Sauces
+
+## Chimichurri
+
+### Ingredients
+
+* 1/2 cup olive oil
+* 2 tablespoons red wine vinegar
+* 1/2 cup parsley, finely chopped
+* 4 cloves garlic, minced
+* 1/2 birdseye chilli, chopped fine
+* 3/4 teaspoon oregano, dried
+* 1 teaspoon salt, kosher
+* 1/2 teaspoon black pepper
+
+
+### Method
+
+1. Thoroughly mix all the ingredients together in a bowl.
+1. Allow to sit for 1-24 hours.
+1. Use to baste grilled meats.
