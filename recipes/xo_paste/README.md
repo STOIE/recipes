@@ -1,4 +1,4 @@
-## X.O. Sauce
+## X.O. Paste
 
 #### Ingredients
 
