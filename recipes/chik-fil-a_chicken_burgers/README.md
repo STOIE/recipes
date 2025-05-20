@@ -1,3 +1,7 @@
+# Chik-fil-a Chicken Burgers
+
+*Note. you will see the [Chick-fil-a sauce](../sauces/README.md) for this recipe.
+
 # Buns
 
 ### Ingredients
@@ -24,24 +28,8 @@
 1. Place into a 200 deg C pre-heated oven and bake for 15-20 mins.
 
 
-# Sauce
 
-### Ingredients
-
-* 1/2 cup mayonnaise
-* 2 teaspoons yellow mustard
-* 1 teaspoon lemon juice
-* 2 tablespoons honey
-* 1 tablespoon smokey bbq sauce
-
-
-### Method
-
-1. Add all ingredients to a small mixing bowl and combine thoroughly together.
-
-
-
-# Chicken Mairnate
+## Chicken Mairnate
 
 ### Ingredients
 
