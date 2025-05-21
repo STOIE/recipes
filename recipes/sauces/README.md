@@ -80,6 +80,25 @@
 
 ---
 
+## Honey Mustard
+
+### Ingredients
+
+* 1/2 cup mayonnaise
+* 2 tablespoons dijon mustard
+* 2 tablespoons honey
+* ~1-2 teaspoons apple cider vinegar or lemon juice
+* 1/4 teaspoon salt
+* 1/8 teaspoon white pepper
+
+
+### Method
+
+1. In a bowl, whisk all the ingredients together THOROUGHLY.
+1. Change between 1 to 2 teaspoons of vinegar (or lemon juice) if you are after more tang.
+
+---
+
 ## Blue Cheese Sauce
 
 ### Ingredients
