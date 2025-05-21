@@ -307,7 +307,7 @@ When selecting yoghurt, you can select a thicker yoghurt than the cosistency des
 
 
 
-# Mexican Sauces
+# Mexican / South American Sauces
 
 ## Chimichurri
 
