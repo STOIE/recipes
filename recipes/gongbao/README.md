@@ -63,14 +63,12 @@
 
 #### Method
 
-1. Place the coriander, mint and lime juice into a bowl.
-1. Heat a wok on high, add about 1-1/2 inches of oil, once at temp, add the meat.
-1. Fry the meat, until 90%+ cooked through, then remove and bowl.
-1. Remove the oil and leave just a couple of tablespoons of oil to proceed.
-1. Fry the banana chilli (or capsicum), then remove and bowl.
-1. Add another splash of oil and the onion to the wok and fry for a moment, then add the paste mixture.
-1. Allow the paste to lightly fry without burning, then add meat and banana chilli (capsicum) back in.
-1. Add the sauce and slurry.
-1. Fry for a couple of minutes longer while stiring thoroughly.
-1. Turn off the heat and add the coriander, mint and lime juice, continue to stir until mixed through.
+1. Place your wok on very high heat and long yao with a couple of tablespoons of peanut oil.
+1. Cook the chicken until cooked through and lightly browned, then remove and set aside.
+1. Add a few more tablespoons of oil to the wok and return to heat.
+1. Add the chili pieces and peppercorns, toasting them without burning.
+1. Then add the scallion whites, ginger and garlic and fry til fragrant.
+1. Add back the chicken and add the scallion greens, tossing everything together.
+1. Add the sauce mix, and mix well allowing time to thicken.
+1. Finally add the peanuts, give a light stir through and turn off the heat.
 1. Serve with rice.
