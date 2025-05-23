@@ -21,7 +21,7 @@
 
 #### Ingredients
 
-* 1/2 cup raw skinless peanuts (or cashews)
+* 2/3 cup raw skinless peanuts (or cashews)
 * peanut oil
 
 #### Method
@@ -39,10 +39,11 @@
 
 * 1/4 cup zhenjiang black vinegar (else balsamic)
 * 1/4 cup chicken stock
+* 1 teaspoon sichuan chili powder (else kashmiri)
 * 2 tablespoons soy sauce
 * 2 tablespoons sugar
 * 1 tablespoon shaoxing wine
-* 1 teaspoon cornstarch
+* 1/2 tablespoon cornstarch
 * 3/4 teaspoon salt
 
 #### Method
@@ -55,8 +56,8 @@
 
 #### Ingredients
 
-* 12-18 sichuan chilies (prefer facing heaven zi dan tou), soaked in cold water then chopped into 1cm sections
-* 1 teaspoon sichuan peppercorns, crushed in motar and pestle
+* 1 cup sichuan chilies (prefer facing heaven zi dan tou), soaked in cold water then chopped into 1cm sections
+* 1-1/2 tablespoons sichuan peppercorns, crushed in motar and pestle
 * 6 scallions, 1 inch lengths, greens and whites separated
 * 1-inch ginger, coarsely chopped
 * 2 cloves garlic, coarsely chopped
