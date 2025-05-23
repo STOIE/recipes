@@ -29,6 +29,7 @@
 1. Heat a wok on high with a couple of tablespoons of peanut oil.
 1. Once hot, place in the nuts and toast until golden brown.
 1. Remove and place onto a paper towel to cool.
+1. Remove the skins at this point if they were skin on.
 
 ---
 
@@ -63,9 +64,10 @@
 
 #### Method
 
-1. Place your wok on very high heat and long yao with a couple of tablespoons of peanut oil.
+1. Place your wok on very high heat and place in about 3/4-inch of peanut oil.
 1. Cook the chicken until cooked through and lightly browned, then remove and set aside.
-1. Add a few more tablespoons of oil to the wok and return to heat.
+1. Draining the oil and also setting aside to continue using.
+1. Add a few tablespoons of oil back into the wok and return to heat.
 1. Add the chili pieces and peppercorns, toasting them without burning.
 1. Then add the scallion whites, ginger and garlic and fry til fragrant.
 1. Add back the chicken and add the scallion greens, tossing everything together.
