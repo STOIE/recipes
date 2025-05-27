@@ -14,7 +14,6 @@ Note. you will need the black pepper paste for this recipe (see the recipe for t
 * 1 tablespoon bi-carb soda
 * 1 teaspoon salt
 * 1 tablespoon sugar
-* 1-1/2 tablespoon cornstarch
 * 1-1/2 tablespoon shaoxing wine
 * 1 tablespoon dark soy sauce
 * Another volume of vegetable oil to pass thru
@@ -22,8 +21,7 @@ Note. you will need the black pepper paste for this recipe (see the recipe for t
 #### Method
 
 1. Mix the bi-carb into the meat and allow to rest for 60 minutes, then rise the beef.
-1. Mix cornstarch into shaoxing wine to make a slurry.
-1. Then mix all the ingredients (including slurry) together with the beef, mixing well.
+1. Then mix all the ingredients together with the beef, mixing well.
 1. Allow to rest for 1-6 hours.
 1. Then heat a wok to high heat with a reasonable volume of oil, more than a shallow fry, less than a complete deep fry.
 1. Once very hot, cook the meat in the oil until done, allowing enough time for good fat render.
