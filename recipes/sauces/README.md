@@ -61,17 +61,17 @@
 
 ### Ingredients
 
-* 1 cup ketchup
-* 1/2 cup yellow mustard
-* 1/2 cup honey
-* 1/2 cup brown sugar
-* 1/2 cup white vinegar
-* 1/8 cup mushroom soy sauce or other dark soy sauce (optional)
-* 1/8 cup whisky (optional)
-* 1/2 tablespoon cumin
-* 1/2 tablespoon black pepper
-* 1/2 tablespoon onion powder
-* 1/2 tablespoon garlic powder
+* 1/2 cup ketchup
+* 1/4 cup yellow mustard
+* 1/4 cup honey
+* 1/4 cup brown sugar
+* 1/4 cup white vinegar
+* 1 tablespoon mushroom soy sauce or other dark soy sauce (optional)
+* 2 tablespoons whisky (optional)
+* 1 teaspoon cumin
+* 1 teaspoon black pepper
+* 1 teaspoon onion powder
+* 1 teaspoon garlic powder
 
 
 ### Method
