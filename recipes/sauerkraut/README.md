@@ -17,4 +17,5 @@
 1. Then place the cabbage and all liquid into a clean jar(s), the cabbage should sink under the liquid.
 1. Tap the jar(s) to remove any air bubbles.
 1. Place a sheet of cling film over the top of the jar(s) and afix with a rubber band.
-1. Place into a cool dark place (18-25 deg C) and allow to ferment for ~4 weeks before eating.
+1. Place into a cool dark place (18-25 deg C) and allow to ferment for ~4 weeks.
+1. Every day, shake/bump the jar lightly to allow the liquid to cover the top of the cabbage.
