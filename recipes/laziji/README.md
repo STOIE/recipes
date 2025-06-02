@@ -43,8 +43,8 @@
 * 7 cloves garlic, crushed and chopped fine
 * dried sichuan chillies, between 50%-100% (as desired) by volume that of the chicken, cut into ~1cm sections, sieved to remove ~2/3 of the seeds
 * a couple of very hot dried chinese chillies, chopped (optional for extra heat)
-* 4 tablespoons sichuan peppercorns
-* 2 tablespoons white sesame seeds
+* 3 tablespoons sichuan peppercorns
+* 1-1/2 tablespoons toasted white sesame seeds
 * vegetable
 
 #### Method
