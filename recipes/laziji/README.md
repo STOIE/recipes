@@ -41,6 +41,7 @@
 * ~2 inch ginger, chopped fine
 * 7 cloves garlic, crushed and chopped fine
 * ~100 grams dried sichuan chillies, cut into ~1cm sections, sieved to remove ~2/3 of the seeds
+* a couple of very hot dried chinese chillies, chopped (optional for extra heat)
 * 4 tablespoons sichuan peppercorns
 * 1 tablespoon sichuan peppercorn oil
 * 2 tablespoons white sesame seeds
