@@ -60,5 +60,5 @@
 1. Fry the garlic and ginger for around ~20 seconds.
 1. Then, add the chicken and scallion greens into the wok and fry for about a minute - you may wish to add some more oil back in too.
 1. Then, add the chillies and peanuts and stir thoroughly for ~30 seconds.
-1. Next, add the spice mix, sesame seeds, scallion whites, and about 10-20% of the peppercorns back in, mixing everything through well for another minute.
+1. Next, add the spice mix, sesame seeds, scallion whites, and optionally; about 10-20% of the peppercorns back in, mixing everything through well for another minute.
 1. The dish is now ready to serve.
