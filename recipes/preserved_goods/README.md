@@ -42,7 +42,8 @@
 * 3 garlic cloves, knife crushed and peeled
 * 1/2 teaspoon whole pepper corns
 * 1/2 teaspoon mustard seeds
-* 40 grams sea salt (2-1/4 tablespoons)
+* 36 grams sea salt (2 tablespoons)
+* 4 grams calcium chloride (pickle crisp) (1/2 teaspoon)
 * 500ml water (2 cups)
 
 ### Method
@@ -51,7 +52,7 @@
 1. Then remove about 1cm off each end of each cucumber and discard.
 1. Add the dill, dill-seeds, garlic, pepper and mustard seeds to the jar(s).
 1. Place the cucumbers into the jar(s) in a vertical fashion, as tighly as possible, allowing for enough head space (3cm approx).
-1. Heat in a pot til boiling the salt and water, while at the same time preparing the canning pot of water on the stove.
+1. Heat in a pot til boiling the water, salt and calcium chloride, while at the same time preparing the canning pot of water on the stove.
 1. Fill the jars with the brine solution, using a chopstick to move cucumbers inside if needed.
 1. Keep refilling until no more air bubbles exist, and about 2cm of headspace over the liquid is achieved.
 1. Thoroughly clean the rims of the jar(s), then place the lids on tight.
