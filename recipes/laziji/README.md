@@ -53,7 +53,7 @@
 1. Once roasted, remove all the skins from the peanuts and set aside.
 1. Heat a wok on high, add about ~1 inch of oil to the wok, and once at temp, add the scallion whites and fry before removing and setting aside.
 1. Then, add the chili sections and fry for about 20 seconds, then remove the chillies and set aside in a bowl.
-1. Next, add the peppercorns and fry for about 1 minute, then remove and set aside.
+1. Next, add the peppercorns and fry for about 1 minute, until they split-open, then remove and set aside.
 1. Then add the chicken, frying in batches until golden brown and crispy, then remove from the oil and set aside.
 1. Remove the excess oil from the wok and set aside in a bowl.
 1. Place about ~1/2 cup of oil back into the wok to begin frying again, bringing the wok back to temp.
