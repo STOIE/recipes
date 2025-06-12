@@ -24,6 +24,8 @@
 * Mix all the ingredients thoroughly, recommended in stand mixer.
 * Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
 * Should then be smoked for about 2-3 hours at 225 deg F (107 deg C), internal target temp 155 deg F (68 deg C).
+* Once done, remove and place into an ice-bath for 20 minutes.
+* Sausages can then be eaten, cooked or stored/frozen.
 
 Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
 
