@@ -2,10 +2,10 @@
 
 ### Ingredients
 
-*Per 2x 1000ml jars*
+*Per 3Lt fermentation crock OR; 2x 1000ml jars*
 
-* ~1300g whole white cabbage
-* 1 tablespoon sea salt
+* ~1300g whole white cabbage (~1000g trimmed/cored)
+* 18 grams fine sea salt
 
 ### Method
 
@@ -22,7 +22,7 @@
 1. Place the stones on top of the cabbage and then add water to the top rim of the fermenter and place the lid on.
 1. After around 6-12 hours, remove the lid and press down firmly on the stones to fruther squish the cabbage.
 1. If there is now enough juice to submerge the cabbage, leave it, re-lid.
-1. If there is not enough juice to submerge the cabbage, create a 1.5% brine mixture (salt:water) and add it to the fermenter until the cabbage is just submerged, then re-lid.
+1. If there is not enough juice to submerge the cabbage, create a 2% brine mixture (salt:water) and add it to the fermenter until the cabbage is just submerged, then re-lid.
 1. Place into a cool dark place (18-25 deg C) and allow to ferment for ~4 weeks.
 
 #### If Using Jars
