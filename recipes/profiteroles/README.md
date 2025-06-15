@@ -4,11 +4,11 @@
 
 #### Ingredients
 
-* 100 grams unsalted butter
-* 250ml water
-* 150 grams AP flour
-* 4 large eggs, at room temperature
-* pinch of salt
+* 150 grams unsalted butter
+* 375ml water
+* 225 grams AP flour
+* 6 large eggs, at room temperature
+* 1/4 teaspoon salt
 
 #### Method
 
@@ -21,7 +21,7 @@
 1. Add 1 egg into batter, then beat until combined.
 1. Add the remaining eggs one at a time making sure each is combined before adding the next. The dough should be like a thick paste.
 1. Place the dough into a piping bag fitted with a 13 – 15mm round tip (1/2 – 3/5").
-1. Pipe 3 teaspoon blobs 7cm/3" apart. Make around ~30 blobs.
+1. Pipe tablespoon sized blobs 7cm/3" apart, make around ~45 blobs.
 1. Wet your finger with water and pat down any peaks to form domes (for nice round balls).
 1. Bake for 15 minutes.
 1. Remove from the oven and reduce the oven to 160 degrees C fan-forced.
@@ -42,7 +42,6 @@
 * 120 grams white caster sugar
 * 50 grams cake flour
 * 2 teaspoons vanilla extract
-* 50 grams chopped dark chocolate (not baking chocolate)
 
 #### Method
 
@@ -52,9 +51,11 @@
 1. Remove the lemon zest from the warm milk and discard, before whisking the warm milk into the egg mixture, followed by the vanilla extract.
 1. Pour all the mixture back into the saucepan and place over medium heat, whisking continuously. 
 1. The mixture should boil and thicken, then simmer for 1 minute and remove from heat - do not stop stiring ever.
-1. Quickly evenly divide the hot mixture into two bowls, adding the chocolate to one and stiring it through until melted and combined.
-1. Then immediately cover the bowls with plastic wrap, pressing it directly onto the surface to avoid a skin forming.
+1. Remove the mixture into a cool bowl(s) - add any flavours at this point if using.
+1. Then immediately cover the bowl(s) with plastic wrap, pressing it directly onto the surface to avoid a skin forming.
 1. Refridgerate and then stir until smooth before using - can be kept in the fridge for days if making in advance.
+
+Note. to make other flavours; chocolate, or mashed banana, or mashed blackberries etc. can be added to the hot mixture immediately after being removed from the stove before cooling.
 
 
 ---
