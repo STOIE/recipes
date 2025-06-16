@@ -19,8 +19,8 @@
 ### Ingredients
 
 * 1 egg
-* 280ml water (1-2/5 cups)
-* 70 grams AP Flour (7/10 cup)
+* 280ml water (1-1/6 cups, ie. one plus half of a third)
+* 70 grams AP Flour (7/12 cup, ie. just more than half a cup)
 * 1/2 teaspoon dashi powder
 * 1/2 tablespoon soy sauce (optional)
 
