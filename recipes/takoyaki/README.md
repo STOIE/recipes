@@ -19,10 +19,10 @@
 ### Ingredients
 
 * 1 egg
-* 240ml water (1 cup)
-* 60 grams AP Flour (1/2 cup)
+* 280ml water (1-2/5 cups)
+* 70 grams AP Flour (7/10 cup)
 * 1/2 teaspoon dashi powder
-* 1 tablespoon soy sauce (optional)
+* 1/2 tablespoon soy sauce (optional)
 
 ### Method
 
@@ -55,9 +55,9 @@
 ### Ingredients
 
 * 1 small packet bonito flakes
-* 1 small packet shreaded nori (or just cut up a sheet)
+* 1 small packet shreaded nori (or just cut up a sheet) (optional)
 * kewpie mayonnaise
-* okonomi saunce
+* takoyaki or okonomi saunce
 
 ### Method
 
