@@ -26,11 +26,7 @@
 
 ### Method
 
-1. Remove the outer layer from the cabbage and then chop into quarters and remove the core
-1. Slice the entire cabbage against the grain into slices and place into large bowl.
-1. Sprinkle the salt over the cabbage, and then using a gloved hand, massage the salt into the cabbage.
-1. This is a time consuming process, do so for around 10 minutes, kneading it through.
-1. The cabbage should release a lot of liquid.
+1. Add all the ingredients to a bowl and whisk together thoroughly until a smooth-thin liquid is formed.
 
 
 ## Cooking
