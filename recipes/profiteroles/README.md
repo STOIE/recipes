@@ -13,7 +13,7 @@
 #### Method
 
 1. Place the butter in a saucepan over medium heat, when mostly melted, add the water then bring to a rapid simmer.
-1. While the liquid is simmering, add the flour and a pinch of salt.
+1. While the liquid is simmering, add the flour through a sieve and a pinch of salt.
 1. Then stir vigorously with a wooden spoon (still on stove) until the dough forms sort of a ball and pulls away from the sides of the saucepan. About 1 minute.
 1. Remove from heat and let the mixture cool for 10 minutes.
 1. Preheat your oven to 200 degrees C fan-forced.
@@ -21,7 +21,7 @@
 1. Add 1 egg into batter, then beat until combined.
 1. Add the remaining eggs one at a time making sure each is combined before adding the next. The dough should be like a thick paste.
 1. Place the dough into a piping bag fitted with a 13 – 15mm round tip (1/2 – 3/5").
-1. Pipe tablespoon sized blobs 7cm/3" apart, make around ~45 blobs.
+1. Pipe ~3cm diameter sized blobs 5cm/2" apart, make around ~45 blobs.
 1. Wet your finger with water and pat down any peaks to form domes (for nice round balls).
 1. Bake for 15 minutes.
 1. Remove from the oven and reduce the oven to 160 degrees C fan-forced.
