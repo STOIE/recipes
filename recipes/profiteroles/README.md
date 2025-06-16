@@ -25,8 +25,8 @@
 1. Wet your finger with water and pat down any peaks to form domes (for nice round balls).
 1. Bake for 15 minutes.
 1. Remove from the oven and reduce the oven to 160 degrees C fan-forced.
-1. They should be crispy enough that when pierced, they will not collapse – if not, return to oven for 3 additional minutes.
-1. Pierce the balls with knife then return to the oven for another 5 – 7 minutes until golden and crispy.
+1. They should be crispy enough that when pierced (on the underside), they will not collapse – if not, return to oven for 3 additional minutes.
+1. Pierce all the balls with knife on their underside then return to the oven for another 5 – 7 minutes until golden and crispy.
 1. Remove from the oven and transfer to rack, cool fully before filling.
 
 
@@ -86,6 +86,6 @@ Note. to make other flavours; chocolate, or mashed banana, or mashed blackberrie
 
 #### Assembly
 
-1. Take the profiteroles and fill them with crema pasticcera using a piping bag.
+1. Take the profiteroles and fill them with crema pasticcera using a piping bag through the hole on the underside.
 1. Assemble into your desired stack, generally a pyramid shape.
 1. Drizzle with chocolate sauce.
