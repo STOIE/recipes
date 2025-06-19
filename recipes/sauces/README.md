@@ -144,6 +144,28 @@
 
 ---
 
+## Cream Sauce (for escalope)
+
+### Ingredients
+
+* 240ml (1 cup) chicken stock
+* 4 teaspoons all-purpose flour
+* 1 tablespoon apple cider vinegar
+* 1 cup sour cream
+* 1 teaspoon dill, ground
+* 1 teaspoon salt
+* 1/2 teaspoon black pepper, ground fine
+
+
+### Method
+
+1. In a pan with meat drippings, add 1/2 of the chicken stock and over medium heat, stir through to release pan drippings.
+1. Then in another bowl, mix the remaining 1/2 of the stock with the flour until combined.
+1. Add the flour/stock mix to the pan and whisk to a boil and then continuing to whisk until thickened.
+1. Add the remaining ingredients in, continuing to whisk for another 30-60 seconds, then remove from heat and serve hot over escalope.
+
+---
+
 ## Mushroom Sauce (for steak)
 
 ### Ingredients
