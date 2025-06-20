@@ -11,15 +11,15 @@
 
 #### Ingredients
 
-* 350 grams sifted cake flour
-* 380 grams white caster sugar (in two bowls: 190g / 190g)
+* 315 grams sifted cake flour
+* 340 grams white caster sugar (in two bowls: 170g / 170g)
 * 3 grams salt
-* 15 grams baking powder
-* 10 grams cream of tartar
-* 10 grams vanilla extract
-* 9 eggs (separate yolks and whites)
-* 150ml vegetable oil
-* 250ml freshly squeezed orange juice (3-4 oranges)
+* 14 grams baking powder
+* 9 grams cream of tartar
+* 9 grams vanilla extract
+* 8 eggs (separate yolks and whites)
+* 135ml vegetable oil
+* 225ml freshly squeezed orange juice (3-4 oranges)
 * grated peel of one orange
 
 #### Method
