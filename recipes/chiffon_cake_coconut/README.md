@@ -34,4 +34,6 @@
 
 1. Pour the mixture into the chiffon cake pan gently and then tap the tin on the benchtop twice to break any large bubbles.
 1. Bake for around 60 minutes, until golden brown - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place upside down onto the bench to cool (the chiffon cake tin should have standoffs to support this).
+1. Once baking is complete, remove from the oven and place upside down onto the bench to cool (the chiffon cake tin should have standoffs to support this).
+1. Once cooled, remove the cake from the tin by turning it right side up and using a knife to cut around the tube and outside edges of the pan.
+1. Remove the outer pan, then again with a knife cut around the bade plate of the pan and flip over on a place/rack to remove entirely.
