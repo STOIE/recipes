@@ -11,9 +11,9 @@
 
 * 190 grams cake flour
 * 250 grams white caster sugar (in two bowls: 90g / 160g)
-* 3 grams baking powder
-* 1.5 grams salt
-* 2.5 grams cream of tartar
+* 10 grams baking powder
+* 2 grams salt
+* 6.5 grams cream of tartar
 * 9 eggs (separate yolks and whites)
 * 95 grams vegetable oil
 * 38 grams water
@@ -24,9 +24,9 @@
 
 * 325 grams cake flour
 * 425 grams white caster sugar (in two bowls: 90g / 160g)
-* 5.1 grams baking powder
-* 2.5 grams salt
-* 4.25 grams cream of tartar
+* 15 grams baking powder
+* 3 grams salt
+* 10 grams cream of tartar
 * 15 eggs (separate yolks and whites)
 * 160 grams vegetable oil
 * 65 grams water
