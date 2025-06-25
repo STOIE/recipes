@@ -11,8 +11,11 @@ Sushi | Glutin Rice | yes | Use Bowl Marker | Add sushi seasoning as per the rat
 Brown Rice | Gaba Rice (use left arrow on dial) | yes | Use Bowl Marker (Gaba Rice) | Max 2 cups
 Thai Glutinous (sticky rice) | Glutin Rice | yes | 1:0.25 (rice:water) | pre-soak with room temp water for 4 hours, drain and add additional water
 
+---
 
-# Plain Basmati Rice
+# Manual Rice Recipes
+
+## Plain Basmati Rice
 
 ### Method
 
@@ -30,6 +33,8 @@ Thai Glutinous (sticky rice) | Glutin Rice | yes | 1:0.25 (rice:water) | pre-soa
 1. If the pot starts visibly steaming from the outside, lower the heat a little further, however some sizzling of the rice is normal.
 1. After about 15-20 minutes, the rice should be steaming inside the pot, at this point add a good-sized drizzle of olive oil to the rice and place the lid back on.
 1. Continue to cook for another 15-25 minutes until the steam has reduced and the rice is fluffy.
+
+---
 
 ## Persian Saffron Rice
 
