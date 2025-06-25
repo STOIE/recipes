@@ -7,7 +7,7 @@ Rice Type | Setting | Wash Rice | Water | Extra
 --- | --- | --- | --- | ---
 Jasmine | Glutin Rice | yes | Use Bowl Marker (Glutin Rice) | 
 Basmati | - | - | - | Don't even try buddy, see recipe below
-Sushi | Glutin Rice | yes | Use Bowl Marker |
+Sushi | Glutin Rice | yes | Use Bowl Marker | Add sushi seasoning as per the ratio on the bottle
 Brown Rice | Gaba Rice (use left arrow on dial) | yes | Use Bowl Marker (Gaba Rice) | Max 2 cups
 Thai Glutinous (sticky rice) | Glutin Rice | yes | 1:0.25 (rice:water) | pre-soak with room temp water for 4 hours, drain and add additional water
 
