@@ -48,7 +48,7 @@ This will produce around 3400g dough, of which:
 * 6g yeast
 
 
-# Sauce
+# Pastes
 
 ## Equipment
 
