@@ -46,3 +46,18 @@ This will produce around 3400g dough, of which:
 * 8g salt
 * 8g corn starch
 * 6g yeast
+
+
+# Sauce
+
+## Equipment
+
+### Capacities
+
+* Long ice-cube slots = 150ml
+* Big ice-cubes = 100ml
+* Small ice-cubes = 33ml (~2 tablespoons)
+
+![ice cube trays](./images/ice_cube_trays.png)
+
+*From left to right: small (33ml); large (100ml); long (150ml)*
