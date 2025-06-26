@@ -58,6 +58,6 @@ This will produce around 3400g dough, of which:
 * Big ice-cubes = 100ml
 * Small ice-cubes = 33ml (~2 tablespoons)
 
-![ice cube trays](./images/ice_cube_trays.png)
+![ice cube trays](./ice_cube_trays.png)
 
 *From left to right: small (33ml); large (100ml); long (150ml)*
