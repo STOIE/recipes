@@ -1,3 +1,8 @@
+# WIP - Not ready
+
+
+
+
 ## Nut Cream Cake
 
 ## The Sponge
@@ -11,16 +16,16 @@
 
 #### Ingredients
 
-320 grams cake flour
-120 grams ground hazelnuts (or other ground nuts)
-3 tsp baking powder
-1 pinch of salt
-1 cup (200 g) caster sugar
-1 ⅓ cup (320 ml) full cream milk
-120 grams melted butter
-2-3 tbsp rum
-1-2 tsp cinnamon optional
-1 tbsp apple cider vinegar or 2 tbsp lemon juice
+* 320 grams cake flour
+* 120 grams ground hazelnuts (or other ground nuts)
+* 3 tsp baking powder
+* 1 pinch of salt
+* 1 cup (200 g) caster sugar
+* 1 ⅓ cup (320 ml) full cream milk
+* 120 grams melted butter
+* 2-3 tbsp rum
+* 1-2 tsp cinnamon optional
+* 1 tbsp apple cider vinegar or 2 tbsp lemon juice
 
 #### Method
 
