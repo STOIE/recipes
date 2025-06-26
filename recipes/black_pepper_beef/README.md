@@ -47,7 +47,7 @@ Try to maintain between a 1:1 - 1:1.5; meat:vegetables ratio (by volume).
 * 16 scallion whites cut into 2 inch sections
 * 1-2 red banana chili cut into diamonds (or capcicum)
 * 150 grams sugar snap peas, optional
-* 2 *measured* tablespoons black pepper sauce
+* 2 *measured* tablespoons black pepper sauce (1 small cube per kg)
 * 1/2 cup cantonese mijiu rice wine (or cooking sake)
 * 2 teaspoon dark soy sauce
 * 1 tablespoon cornstarch & 1 tablespoon water as slurry
