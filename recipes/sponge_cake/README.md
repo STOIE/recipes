@@ -16,7 +16,8 @@
 * 7 grams cream of tartar
 * 6 eggs (separate yolks and whites)
 * 95 grams vegetable oil
-* 120 grams water
+* 40 grams water
+* 80 grams freshly squeezed lemon juice
 * 30 grams honey
 * 8 grams vanilla extract
 
@@ -29,7 +30,8 @@
 * 11 grams cream of tartar
 * 11 eggs (separate yolks and whites)
 * 160 grams vegetable oil
-* 210 grams water
+* 70 grams water
+* 140 grams freshly squeezed lemon juice
 * 50 grams honey
 * 14 grams vanilla extract
 
