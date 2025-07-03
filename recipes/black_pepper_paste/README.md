@@ -2,19 +2,19 @@
 
 #### Ingredients
 
-* 50 grams of whole black peppercorns
-* 15 grams of douchi (aka: Chinese Fermented Black Soybeans; aka: Chinese black beans)
-* 1/8 of a white onion finely minced
-* 1/2 of a shallot finely minced
-* 4 cloves garlic finely minced
-* 1/2 of a fresh mild chili finely minced (something like an anaheim or a poblano) - optional
-* 1 tablespoon light soy sauce
-* 1 tablespoon oyster sauce
-* 150 ml of water
-* 1/2 tablespoon sugar
-* 1/2 teaspoon salt
-* 1 teaspoon MSG
-* 3 tablespoons vegetable oil
+* 200 grams of whole black peppercorns
+* 60 grams of douchi (aka: Chinese Fermented Black Soybeans; aka: Chinese black beans)
+* 1/2 of a white onion finely minced
+* 2 of a shallot finely minced
+* 16 cloves garlic finely minced
+* 2 fresh mild chili finely minced (something like an anaheim or a poblano) - optional
+* 4 tablespoon light soy sauce
+* 4 tablespoon oyster sauce
+* 600 ml of water
+* 2 tablespoon sugar
+* 2 teaspoon salt
+* 4 teaspoon MSG
+* 3/4 cup vegetable oil
 
 
 #### Method
