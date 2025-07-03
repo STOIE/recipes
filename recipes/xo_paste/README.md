@@ -1,5 +1,7 @@
 ## X.O. Paste
 
+*Makes 3,000ml*
+
 #### Ingredients
 
 * 300 grams dried scallops (medium sized)
