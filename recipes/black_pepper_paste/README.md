@@ -1,5 +1,7 @@
 ## Black Pepper Paste
 
+*Makes 1000ml*
+
 #### Ingredients
 
 * 200 grams of whole black peppercorns
