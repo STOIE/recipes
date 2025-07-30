@@ -45,7 +45,7 @@
 * a couple of very hot dried chinese chillies, chopped (optional for extra heat)
 * 3 tablespoons sichuan peppercorns
 * 1-1/2 tablespoons toasted white sesame seeds
-* vegetable
+* vegetable oil
 
 #### Method
 
