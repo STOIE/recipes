@@ -30,11 +30,12 @@
 
 * 1 small onion, diced fine
 * 2 red capsicums
-* 200 grams peeled tinned tomatoes (1/2 tin)
+* 130 grams peeled tinned tomatoes (1/3 tin)
 * 2 teaspoons kashmiri chilli powder
 * 1/2 cup vegetable oil
 * 1/2 cup water
 * 1 teaspoon msg
+* 2 teaspoons sugar
 
 #### Method
 
@@ -44,6 +45,7 @@
 1. Once complete, remove the prawn heads from the oil.
 1. Then, briefly fry the onion paste with chilli powder in the oil.
 1. Then add the chicken to the oil and fry until cooked through.
-1. Next add the tomatoes, water, prawns, msg and capsicums - mixing everything through, then covering the wok and allow to cook for a further ~15 minutes on medium-low.
+1. Next add the tomatoes, water, prawns, sugar and msg - mixing everything through, then allow to cook for a further ~15 minutes on medium-low.
 1. The oil should seperate from the gravy when cooked.
+1. Lastly add the capsicums and cook for a few minutes until desired level of cruch is reached.
 1. Give a final stir and then serve.
