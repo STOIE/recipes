@@ -21,6 +21,27 @@
 * 1/2 tablespoon cayenne
 * 1 teaspoon celery seed (finely ground)
 
+### Meat Church: Honey Hog
+
+#### Uses
+
+* Turkey
+* Pork
+* Chicken
+
+#### Ingredients
+
+*Makes: 520ml*
+
+* 1/4 cup table salt
+* 1 cup honey powder
+* 1/4 cup sweet paprika
+* 2 tablespoons chilli powder
+* 1 tablespoon fine ground black pepper
+* 1 tablespoon garlic powder
+* 1/2 tablespoon onion powder
+* 1/2 teaspoon cayenne powder
+
 
 ## Meatheads
 
