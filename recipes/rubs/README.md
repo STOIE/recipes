@@ -55,7 +55,8 @@
 
 * 4 litres water
 * 3/4 cup table salt
-* 1/2 cup brown sugar
+* 3/4 cup brown sugar
+* 4 cloves garlic smashed
 
 ## Meatheads
 
