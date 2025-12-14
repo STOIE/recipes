@@ -42,6 +42,20 @@
 * 1/2 tablespoon onion powder
 * 1/2 teaspoon cayenne powder
 
+### Meat Church: Bird Baptism Brine
+
+#### Uses
+
+* Tukey
+* Chicken
+
+#### Ingredients
+
+*Makes: ~4L*
+
+* 4 litres water
+* 3/4 cup table salt
+* 1/2 cup brown sugar
 
 ## Meatheads
 
