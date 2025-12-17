@@ -2,7 +2,7 @@
 
 #### Ingredients
 
-*Makes: 520ml*
+*Makes: 470ml*
 
 * 1 cup ancho chile powder
 * 2-1/2 tablespoons pasilla chile powder
