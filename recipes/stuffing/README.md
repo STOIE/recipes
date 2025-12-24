@@ -6,7 +6,7 @@
 
 * 150 grams butter
 * 6 cups breadcrumbs
-* 3/4 cup macadamias chopped into 1/4-1/8's
+* 3/4 cup macadamias chopped into 1/4-1/8's and then toasted in the oven
 * 1 cup dried cranberries
 * 2 medium white onions finely diced (or brown onions)
 * 6 eggs
