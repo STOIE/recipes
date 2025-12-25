@@ -130,12 +130,13 @@
 #### Ingredients
 
 * large whole chicken(s)
-* 50:50 salt:ground black pepper (by volume)
+* rub of your choosing (recommended Meat Church: Honey Hog)
 
 #### Method
 
 1. Remove any insides of the chicken, then clean both ends removing the tail bone and excess skin.
-1. Pat dry and rub thoroughly with salt:pepper mix.
+1. Optional: Leave for ~24 hours refridgerated in brine (such as Meat Church: Bird Baptism).
+1. Pat dry and rub thoroughly with your rub.
 
 ### Cooking
 
@@ -146,4 +147,38 @@
 1. Raise the temp to 165 deg C (325 deg F) - either by moving closer to firebox, onto another shelf and/or stoking the fire.
 1. Open the chimney damper up and firebox door open to get maximum airflow that will dry and crisp the chicken skin and reder the fat.
 1. After ~15 mins skin should be crispy and colour golden brown, check internal temp of the breast to 75 deg C (165 deg F).
+1. Remove from the smoker.
+
+
+---
+
+# Turkey
+
+---
+
+## Whole Turkey
+
+### Turkey Prep
+
+#### Ingredients
+
+* large whole turkey(s)
+* rub of your choosing (recommended Meat Church: Honey Hog)
+
+#### Method
+
+1. Spatchcock the turkey by removing the spine with poultry shears, then thoroughly clean the insides of the turkey.
+1. Optional: Remove the breast bone from the turkey.
+1. Leave for ~24 hours refridgerated in brine (such as Meat Church: Bird Baptism).
+1. Pat dry and rub thoroughly with your rub.
+
+### Cooking
+
+#### Method
+
+1. Get your smoker to 110 deg C (225 deg F), then place the chickens inside.
+1. Cook for ~5 hours at temp.
+1. Raise the temp to 165 deg C (325 deg F) - either by moving closer to firebox, onto another shelf and/or stoking the fire.
+1. Open the chimney damper up and firebox door open to get maximum airflow that will dry and crisp the chicken skin and reder the fat.
+1. After ~30-45 mins skin should be crispy and colour golden brown, check internal temp of the breast to ~72-75 deg C (165 deg F).
 1. Remove from the smoker.
