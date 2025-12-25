@@ -17,8 +17,8 @@
 
 **And, pick one or the other:**
 
-* 1-1/2 teaspoons salt + 1 cup of meat drippings
-* 1-1/2 teaspoons chicken bouillon powder + 1 cup of water
+* 1 tablespoon table salt + 3 cup of meat drippings
+* 1-1/2 tablespoons chicken bouillon powder + 3 cup of water
 
 #### Method
 
