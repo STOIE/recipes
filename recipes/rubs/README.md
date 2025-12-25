@@ -31,16 +31,16 @@
 
 #### Ingredients
 
-*Makes: 520ml*
+*Makes: Enough for one big turkey*
 
-* 1/4 cup table salt
-* 1 cup honey powder
-* 1/4 cup sweet paprika
-* 2 tablespoons chilli powder
-* 1 tablespoon fine ground black pepper
-* 1 tablespoon garlic powder
-* 1/2 tablespoon onion powder
-* 1/2 teaspoon cayenne powder
+* 2 tablespoons table salt
+* 1/2 cup honey powder
+* 2 tablespoons sweet paprika
+* 1 tablespoons chilli powder
+* 1/2 tablespoon fine ground black pepper
+* 1/2 tablespoon garlic powder
+* 1/4 tablespoon onion powder
+* 1/4 teaspoon cayenne powder
 
 ### Meat Church: Bird Baptism Brine
 
