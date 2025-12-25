@@ -177,7 +177,7 @@
 #### Method
 
 1. Get your smoker to 110 deg C (225 deg F), then place the chickens inside.
-1. Cook for ~5 hours at temp.
+1. Cook for ~5 hours at temp, looking for around ~65 deg C (~150 deg F) internal temp of the breast.
 1. Raise the temp to 165 deg C (325 deg F) - either by moving closer to firebox, onto another shelf and/or stoking the fire.
 1. Open the chimney damper up and firebox door open to get maximum airflow that will dry and crisp the chicken skin and reder the fat.
 1. After ~30-45 mins skin should be crispy and colour golden brown, check internal temp of the breast to ~72-75 deg C (165 deg F).
