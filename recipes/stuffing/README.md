@@ -22,4 +22,6 @@
 
 #### Method
 
-1. Combine everything and mix well, then bake at 180 deg C (or as direct stuffing)
+1. Combine everything and mix well, then place into a baking tray (or as direct stuffing).
+1. If baking in a tray, be sure to avoid making the mixture too thin, 40-50mm is a good thickness.
+1. Bake on 180 deg C until cooked through / browned to your liking (generally is better when not too dried out).
