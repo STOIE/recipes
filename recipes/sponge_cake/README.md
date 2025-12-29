@@ -55,11 +55,11 @@
 
 1. Line your cake tin(s) with parchment paper along the sides and bottom.
 1. Pour the mixture into the tin(s) gently and then tap the tin(s) on the benchtop twice to break any large bubbles.
-1. Bake for around 45+ minutes, until golden brown with a raised centre - a wooden skewer inserted in the middle of the cake should come out dry to ensure properly cooked.
-1. Once baking is complete, remove immediately from the tin and place upside down onto a cooling rack (do not attempt to flip back over).
+1. Bake for around 45+ minutes, until you reach an internal temp of 98 deg C (do not exceed 99, and do not pull under 98).
+1. Once baking is complete, place upside down on a cooling rack and DO NOT REMOVE THE TIN for 30 minutes.
 
 
-Notes. ensure your baking powder is not out of date or too old, this can cause the cake to be deflated.
+Notes. ensure your baking powder is not out of date or too old, this can cause the cake to become deflated.
 
 ---
 
