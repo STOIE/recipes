@@ -16,7 +16,8 @@
 
 #### Method
 
-* In a large bowl, crack the eggs, add the milk and flour, then whisk everything through thoroughly.
+* First, lightly fry the onion and bacon in a small frying pan over medium heat, then drain any excess oil and set aside.
+* Next, in a large bowl, crack the eggs, add the milk and flour, then whisk everything through thoroughly.
 * Then add the remaining ingredients into the bowl and mix again thoroughly.
 * Pour into a standard (9in) pie dish and spread evenly over the surface.
 * Place into a preheated oven at 180 deg C.
