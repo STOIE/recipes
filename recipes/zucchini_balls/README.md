@@ -10,7 +10,7 @@
 * 180 grams (1-1/2 cups) self-rising flour
 * 2 large eggs, beaten
 * 3 green onions, finely sliced
-* 2 teaspoons salt
+* 1 teaspoon salt
 * 1/2 teaspoon fine black pepper
 * vegetable oil for deep frying
 
