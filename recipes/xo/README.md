@@ -51,5 +51,13 @@
 
 1. Combine all the ingredients with the previously prepared chicken.
 1. Place into a large tray of adequate depth (else a plate), cover tightly with aluminium foil and place into a steamer on high heat.
-1. If using a single large plate that can fit all the ingredients, steam for around ~40-45 minutes (if double-stacking, cooking 2-3kg chicken, cook for ~50 minutes; over 3kg ~60 minutes).
+1. Refer to cook times below.
 1. Remove and eat with steamed jasmine rice.
+
+#### Cook Times
+
+Cooking time generally depends on the size of the tray itself, more than the number of trays.
+
+* If cooking less than or around 1kg pf chicken in a single tray, then cook time should be 55 minutes.
+* If cooking ~2kg-3kg of chicken in a single tray, then cook time should be 75 minutes.
+* If cooking more than a single tray at a time, take the capacity of the largest tray and then add around 15% to the cook time for up to 3 trays, or 30% for more than 3 trays.
