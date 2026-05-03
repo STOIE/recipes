@@ -1,5 +1,32 @@
 # Sausage
 
+## Smoked Pork
+
+#### Ingredients
+
+* 10kg freshly ground (rindless) pork belly (6mm) (70:30)
+* 28 grams sweet paprika
+* 55 grams mustard powder
+* 35 grams cracked black pepper
+* 55 grams granulated garlic
+* 200 grams salt
+* 25 grams no.1 curing salt
+* 400 grams skim milk powder
+* 1000ml water
+
+
+#### Method
+
+* Mix all the ingredients thoroughly, recommended in stand mixer.
+* Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
+* Should then be smoked (high smoke - high airflow) for 4 hours at 150 deg F MAX (65 deg C), we need to ensure temp remains low (cold smoke) so fat doesn't render.
+* Once done, remove and place into an ice-bath for 20 minutes.
+* Place into the fridge uncovered for 24 hours, sausages can then be smoked at high temp til done (275F), cooked or frozen.
+
+Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
+
+---
+
 ## Kransky
 
 #### Ingredients
