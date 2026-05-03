@@ -17,11 +17,11 @@
 
 #### Method
 
-* Mix all the ingredients thoroughly, recommended in stand mixer.
-* Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
-* Should then be smoked (high smoke - high airflow) for 4 hours at 150 deg F MAX (65 deg C), we need to ensure temp remains low (cold smoke) so fat doesn't render.
-* Once done, remove and place into an ice-bath for 20 minutes.
-* Place into the fridge uncovered for 24 hours, sausages can then be smoked at high temp til done (275F), cooked or frozen.
+1. Mix all the ingredients thoroughly, recommended in stand mixer.
+1. Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
+1. Should then be smoked (high smoke - high airflow) for 4 hours at 150 deg F MAX (65 deg C), we need to ensure temp remains low (cold smoke) so fat doesn't render.
+1. Once done, remove and place into an ice-bath for 20 minutes.
+1. Place into the fridge uncovered for 24 hours, sausages can then be smoked at high temp til done (275F), cooked or frozen.
 
 Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
 
@@ -48,11 +48,11 @@ Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONS
 
 #### Method
 
-* Mix all the ingredients thoroughly, recommended in stand mixer.
-* Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
-* Should then be smoked for about 2-3 hours at 225 deg F (107 deg C), internal target temp 155 deg F (68 deg C).
-* Once done, remove and place into an ice-bath for 20 minutes.
-* After 24 hours, sausages can then be eaten, cooked or stored/frozen.
+1. Mix all the ingredients thoroughly, recommended in stand mixer.
+1. Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
+1. Should then be smoked for about 2-3 hours at 225 deg F (107 deg C), internal target temp 155 deg F (68 deg C).
+1. Once done, remove and place into an ice-bath for 20 minutes.
+1. After 24 hours, sausages can then be eaten, cooked or stored/frozen.
 
 Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
 
@@ -76,9 +76,9 @@ Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONS
 
 #### Method
 
-* Mix all the ingredients thoroughly, recommended in stand mixer.
-* Make the sausages with a 28-38mm casing, recommend using a sausage stuffer with 25mm horn.
-* Can be smoked or cooked fresh.
+1. Mix all the ingredients thoroughly, recommended in stand mixer.
+1. Make the sausages with a 28-38mm casing, recommend using a sausage stuffer with 25mm horn.
+1. Can be smoked or cooked fresh.
 
 Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
 
@@ -103,8 +103,8 @@ Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONS
 
 #### Method
 
-* Mix all the ingredients thoroughly, recommended in stand mixer.
-* Make the sausages with a 28-38mm casing, recommend using a sausage stuffer with 25mm horn.
-* Can be smoked or cooked fresh.
+1. Mix all the ingredients thoroughly, recommended in stand mixer.
+1. Make the sausages with a 28-38mm casing, recommend using a sausage stuffer with 25mm horn.
+1. Can be smoked or cooked fresh.
 
 Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
