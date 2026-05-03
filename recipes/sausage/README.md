@@ -18,12 +18,12 @@
 
 #### Method
 
-1. Mix all the ingredients (LESS ASCORBIC ACID) thoroughly, recommended in a stand mixer.
-1. If using ascorbic acid, add it at the end of the mix once everything is already mixed and then allow it to mix in thoroughly.
+1. Combine all ingredients except the ascorbic acid and mix thoroughly (a stand mixer is recommended) until the mixture is well bound and tacky.
+1. If using ascorbic acid, add it once the mixture is fully combined and mix until evenly distributed.
 1. Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
 1. Should then be smoked (high smoke - high airflow) for 4 hours at 150 deg F MAX (65 deg C), we need to ensure temp remains low (cold smoke) so fat doesn't render.
 1. Once done, remove and place into an ice-bath for 20 minutes.
-1. Place into the fridge uncovered for 24 hours, sausages can then be smoked at high temp til done (275F), cooked or frozen.
+1. Place into the fridge uncovered for 24 hours, sausages can then be smoked at high temp until cooked through (275F), cooked directly or frozen.
 
 Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONSUMING!
 
