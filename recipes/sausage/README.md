@@ -13,11 +13,13 @@
 * 25 grams no.1 curing salt
 * 400 grams skim milk powder
 * 1000ml water
+* 5 grams ascorbic acid (optional)
 
 
 #### Method
 
-1. Mix all the ingredients thoroughly, recommended in stand mixer.
+1. Mix all the ingredients (LESS ASCORBIC ACID) thoroughly, recommended in a stand mixer.
+1. If using ascorbic acid, add it at the end of the mix once everything is already mixed and then allow it to mix in thoroughly.
 1. Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
 1. Should then be smoked (high smoke - high airflow) for 4 hours at 150 deg F MAX (65 deg C), we need to ensure temp remains low (cold smoke) so fat doesn't render.
 1. Once done, remove and place into an ice-bath for 20 minutes.
@@ -48,7 +50,7 @@ Note. due to using curing salt, these sausages MUST BE AGED 24 HOURS BEFORE CONS
 
 #### Method
 
-1. Mix all the ingredients thoroughly, recommended in stand mixer.
+1. Mix all the ingredients thoroughly, recommended in a stand mixer.
 1. Make the sausages with a 36mm casing (natural hog preferred), recommend using a sausage stuffer with 25mm horn.
 1. Should then be smoked for about 2-3 hours at 225 deg F (107 deg C), internal target temp 155 deg F (68 deg C).
 1. Once done, remove and place into an ice-bath for 20 minutes.
