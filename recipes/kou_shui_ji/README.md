@@ -26,7 +26,7 @@
 * 120ml (1/2 cup) of chicken drippings
 * 3 tablespoons chinese black vinegar
 * 3 tablespoons of light soy sauce (zhongba preferred)
-* 2 tablespoons of brown sugar
+* 4 tablespoons of brown sugar
 * 1-1/2 tablespoons sichuan pepper oil
 * 1 tablespoon chinese sesame paste
 * 2 teaspoons sesame oil
