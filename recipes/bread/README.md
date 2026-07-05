@@ -139,4 +139,7 @@
 #### Mix, Knead and Rest
 
 1. Add all ingredients to a bowl (or stand mixer with a hook attachment) and mix together until a shaggy wet dough is formed (it will not be strong).
-1. Leave the dough in the bowl and cover with either cling wrap or a damp towel and allow to rest for ~60 minutes at room temp.
+1. Leave the dough in the bowl and cover with either cling wrap or a damp towel and allow to rest until doubled (1-2ish hours).
+1. Remove from the bowl to a floured benchtop and portion, then lightly balling, before placing onto a lined baking tray(s) and pressing out with the fingers into about ~4 inches round discs.
+1. Cover the trays with a towel and again leave to proof for at least a couple of hours until doubled.
+1. Finally bake in a preheated 200 deg C fan-forced (220 deg C conventional) oven until baked through.
