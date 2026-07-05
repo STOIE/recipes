@@ -117,3 +117,26 @@
 1. Bake for 8 minutes, after 8 minutes open the door to release steam (and remove tray if there is still excess water in it).
 1. Continue to bake for another 7-8 minutes, until the crust looks to you preference.
 1. Then remove from the oven and allow to cool.
+
+
+## Albanian Rolls
+
+### Ingredients
+
+*Makes 8 5inch rolls*
+
+*Note. to scale up, scale yeast proportionally until reaching a max 5kg flour, then you will need to decrease the ratio of yeast.*
+
+* 600 grams bread flour (~10%+ protein)
+* 300 grams cold water
+* 6 grams instant yeast
+* 12 grams salt
+* 12 grams olive oil
+* 200 grams greek yoghurt
+
+### Process
+
+#### Mix, Knead and Rest
+
+1. Add all ingredients to a bowl (or stand mixer with a hook attachment) and mix together until a shaggy wet dough is formed (it will not be strong).
+1. Leave the dough in the bowl and cover with either cling wrap or a damp towel and allow to rest for ~60 minutes at room temp.
