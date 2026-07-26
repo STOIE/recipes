@@ -38,7 +38,7 @@ Note. With the big offset, I tend to keep temps on the high side of any temp ran
 1. Remove from the smoker, wrap in butcher paper, placing some smoked-tallow on the under-side of the brisket.
 1. Ensure the wrap is tight and ensure the brisket finishes top-side/fat-side up.
 1. Place back into the smoker this time with the flat (thin) side facing the firebox.
-1. At this point fire can be clean (can even use an oven), still at 250-300F, cook for another ~2-3 hours (internal temp of point/thick-end ~93C/200F, flat/thin-end ~97C/205F).
+1. At this point fire can be clean (can even use an oven), still at 275-300F, cook for another ~2-3 hours (internal temp of point/thick-end ~93C/200F, flat/thin-end ~97C/205F).
 1. Place into an oven (@63C/145F) or insulated cooler to rest for 10+ hours/generally overnight, longer is fine, less is not, just keep it above 57C/135F to be food safe.
 
 ### Slicing
@@ -70,11 +70,11 @@ Note. With the big offset, I tend to keep temps on the high side of any temp ran
 
 #### Method
 
-1. Get your smoker to 93 deg C (200 deg F), then place the ribs inside, thickest bone-end facing the firebox inside.
+1. Get your smoker to 93 deg C (200-225 deg F), then place the ribs inside, thickest bone-end facing the firebox inside.
 1. Cook for ~4-6 hours at temp, with a smoky fire (but open flame), rotate as the bones pull-in (internal temp ~80C/175F).
-1. Raise the temp to 120 deg C (250 deg F), keeping a fairly smoky fire (but open flame) and cook a further 1-2 hours (internal temp ~88C/190F).
+1. Raise the temp to 120 deg C (250-275 deg F), keeping a fairly smoky fire (but open flame) and cook a further 1-2 hours (internal temp ~88C/190F).
 1. Remove from the smoker, wrap in butcher paper - optionally placing some smoked-tallow on the top-side of the ribs.
-1. Place back into the smoker and increase temp to 135 deg C (275 deg F) clean fire and cook until the temp probe goes into the meat like peanut butter (internal temp ~90-93C / ~195-200F).
+1. Place back into the smoker and increase temp to 135 deg C (275-300 deg F) clean fire and cook until the temp probe goes into the meat like peanut butter (internal temp ~93-97C / ~200-205F).
 1. Place into an insulated cooler to rest for a couple of hours.
 
 
