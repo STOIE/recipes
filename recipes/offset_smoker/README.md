@@ -1,3 +1,5 @@
+Note. With the big offset, I tend to keep temps on the high side of any temp ranges, as the airflow is so high on the big offset it gives a cooling effect.
+
 # Beef
 
 ---
@@ -26,17 +28,17 @@
 
 #### Method
 
-1. Get your smoker to 93 deg C (200 deg F), then place the brisket inside, thickest end facing the firebox.
+1. Get your smoker to 93 deg C (200-225 deg F), then place the brisket inside, thickest end facing the firebox.
 1. Take your fat trimmings and place them into a tray and put into the smoker closer to the firefox to melt and smoke.
 1. Cook for ~4 hours at temp, with a smoky fire (but open flame), this phase is simply to build smoke flavour.
-1. Raise the temp to 110 deg C (225 deg F), keeping a fairly smoky fire (but open flame) and cook a further ~2 hours, this phase is colour and to begin rendering fat.
+1. Raise the temp to 110 deg C (225-250 deg F), keeping a fairly smoky fire (but open flame) and cook a further ~2 hours, this phase is colour and to begin rendering fat.
 1. At this point remove the fat tray, now tallow from the smoker and place aside.
-1. Now raise the temp again to 120-135 deg C (250-275 deg F), smoke level doesn't really matter at this point, cook a further ~2 hours, this phase is to finish rendering fat.
-1. To tell if ready to wrap the colour should be dark, the fat should be rendered to a point like jelly, poke it with a finger and it should just sink in like jelly (internal temp ~80C/175F).
+1. Now raise the temp again to 120-135 deg C (250-275 deg F), smoke level doesn't really matter at this point, cook a further ~2-3 hours, this phase is to finish rendering fat.
+1. To tell if ready to wrap the colour should be dark, the fat should be rendered to a point like yellow jelly, poke it with a finger and it should just sink in like jelly (internal temp ~84C/183F).
 1. Remove from the smoker, wrap in butcher paper, placing some smoked-tallow on the under-side of the brisket.
 1. Ensure the wrap is tight and ensure the brisket finishes top-side/fat-side up.
 1. Place back into the smoker this time with the flat (thin) side facing the firebox.
-1. At this point fire can be clean (can even use an oven), still at 250-275F, cook for another ~3 hours (internal temp of point/thick-end ~93C/200F, flat/thin-end ~97C/205F).
+1. At this point fire can be clean (can even use an oven), still at 250-300F, cook for another ~2-3 hours (internal temp of point/thick-end ~93C/200F, flat/thin-end ~97C/205F).
 1. Place into an oven (@63C/145F) or insulated cooler to rest for 10+ hours/generally overnight, longer is fine, less is not, just keep it above 57C/135F to be food safe.
 
 ### Slicing
