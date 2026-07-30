@@ -3,6 +3,8 @@
 
 ---
 
+Honestly, you should use the chicken from the tandoori chicken recipe, but if you cannot a quick version is here:
+
 ### Chicken
 
 #### Ingredients
@@ -32,31 +34,30 @@
 
 #### Ingredients
 
-* 370 grams butter (250g + 120g)
-* 1200 grams tinned whole peeled tomatoes (3x 400g tins)
-* 2 inches ginger rounds
-* 1/2 a large garlic diced fine
-* 2 large mild red chillies, cut into thin rounds
-* 3 birdseye chillies, cut into thin rounds
-* 500ml thickened cream
-* 3 tablespoons honey
+* 370 grams butter
+* 1600 grams tinned whole peeled tomatoes (4x 400g tins)
+* 3 tablespoons ginger paste (or 2 inches ginger rounds)
+* 3 tablespoons garlic paste (or 1/2 a large garlic diced fine)
+* 2 large mild red chillies, cut into thin rounds and diced
+* 2-3 birdseye chillies, cut into thin rounds and diced
+* 600ml thickened cream
+* 4-5 tablespoons honey
 * 3/4 teaspoon powdered mace
 * 1-1/2 teaspoons powdered cardamom (1 + 1/2 teaspoons)
 * 1/2 teaspoon powdered kasoori methii (dried fenugreek leaves)
+* 2 teaspoons fine salt
 
 #### Method
 
-1. In the now cool (but still dirty) wok, add 250g of the butter, the ginger and the chillies.
-1. Then over medium heat, melt the butter and lightly fry the ginger and chilli without browning the butter.
-1. Once complete remove from the wok and place to the cooked chicken in the other bowl.
-1. Next take a large deep pan/pot and add the remaining 120g butter, garlic, mace, and 1 teaspoon of the cardamom.
-1. Place the pan over medium heat, melting the butter and lightly frying the cardamom and mace.
-1. Then before browning the butter, add the tinned tomatoes.
-1. Cook the mixture, stiring and smashing the tomatoes until reaching a simmer.
-1. Cover and allow to cook for 10-15 minutes, stirring on and off.
-1. Then remove from heat and using an immersion blender, blend the entire tomato mixture into a smooth consistency.
-1. Place back on the stove, returning to a medium heat, then adding the contents of the chicken, ginger etc.
-1. Cook for a further few minutes, adding in the honey and then cream.
-1. Once back to a decent simmer, turn off the heat and add the kasoori methii and remaining 1/2 teaspoon of powdered cardamom, stiring in.
-1. Finally, add salt as required - noting the mixture goes from needing salt to having too much rather abruptly. (3 teaspoons are needed generally)
+1. In a large wok or deep pot, add the butter, ginger, garlic, chillies, mace powder and 1 teaspoon of the cardamom powder.
+1. Over medium heat, melt the butter with the ginger, garlic and chilli frying lightly without browning the butter.
+1. Then before browning the butter, add all the tinned tomatoes.
+1. Cook the mixture, covered with a lid, over low heat lightly simmering, stiring every now and then.
+1. After ~45 minutes you should end up with a nice red gravy with lots of surface oil.
+1. At this point, remove from heat and using an immersion blender, blend the entire tomato mixture into a smooth consistency.
+1. Place back on the stove, returning to a medium heat and then add the remaining cardamom powder, the kasoori methii and honey, stiring through.
+1. Cook for a further minute or so, then add in the cream and mix through.
+1. Turn off the heat and add salt to taste (as per the ingredients, usually around 2 teaspoons of fine salt).
+1. Now you can add your chicken in, and heat as necessary while mixing in.
+1. At this point you can either serve, or for best results refridgerate overnight and reheat the next day.
 1. Serve with basmati rice.
