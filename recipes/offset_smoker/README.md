@@ -143,7 +143,7 @@ Note. With the big offset, I tend to keep temps on the high side of any temp ran
 
 1. Get your smoker to 150-163 deg C (300-325 deg F), then place the belly inside, skin up.
 1. Apply a very thick layer of cheap table salt to the entire skin, this layer is to protect the skin from cooking and dry it out, approx 3-5mm thick of pure salt.
-1. Cook for ~3-4 hours at temp, with a smoky fire (but open flame), (internal temp ~97C/205F) ~30 minutes before it is ready, fire up your coals in a chimney starter.
+1. Cook for ~4-5 hours at temp, with a smoky fire (but open flame), (internal temp ~96C/205F) ~30 minutes before it is ready, fire up your coals in a chimney starter.
 1. Once pulled from the smoker, remove the salt from the skin and then place skin down over the charcoal grill you got going while waiting.
 1. The skin may burn very quick, so ensure tongs in hand and keep it moving / checking on the skin constantly, it should crackle up with the intesnse heat.
 1. Continue to crackle while the skin is not burning, once you start to get more burning than crackle, remove and slice.
