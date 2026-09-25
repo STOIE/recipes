@@ -29,7 +29,7 @@
 * 1 tablespoon fresh ginger, finely grated
 * 790g tin of diced tomatoes, inc all liquid
 * 1 lemon rind, cut into strips
-* 700ml water
+* 400ml water
 * 1/2 cup green pitted olives, optional
 
 #### Method
