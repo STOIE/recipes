@@ -29,6 +29,7 @@
 * 1 tablespoon fresh ginger, finely grated
 * 790g tin of diced tomatoes, inc all liquid
 * 1 lemon rind, cut into strips
+* 400ml water
 * 1/2 cup green pitted olives, optional
 
 #### Method
@@ -37,9 +38,9 @@
 1. Sauté the sliced onions for 8–10 minutes until soft, then stir in the minced garlic and grated ginger for 1 minute until fragrant.
 1. Add the lamb chunks to the base and dust the spice blend evenly over the meat.
 1. Stir well for 3–5 minutes to lightly coat and brown the lamb in the spices.
-1. Then, pour in the tomatoes and add in the cinnamon stick, bringing the liquid to a very gentle simmer.
+1. Then, pour in the tomatoes, water and add in the cinnamon stick, bringing the liquid to a very gentle simmer.
 1. Place the ceramic conical lid onto your tagine and turn the heat down to low.
-1. Let it cook undisturbed for 1 hour and 45 minutes, to the point where the lamb should be getting close to fork-tender.
+1. Let it cook undisturbed for 2 hours, to the point where the lamb should be getting close to fork-tender.
 1. Then, remove the lid and arrange the potato wedges in a neat, conical shape radiating from the centre outward to utilize the whole diameter, and then place the lemon slices on top.
 1. Optional. Scatter the green olives over the top.
 1. Then, spoon a little of the sauce over the potatoes.
