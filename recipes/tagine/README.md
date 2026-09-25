@@ -44,7 +44,7 @@
 1. Then, remove the lid and arrange the potato wedges in a neat, conical shape radiating from the centre outward to utilize the whole diameter, and then place the lemon slices on top.
 1. Optional. Scatter the green olives over the top.
 1. Then, spoon a little of the sauce over the potatoes.
-1. Put the lid back on and simmer on low for another 30 minutes until the potatoes are completely tender when pierced with a knife.
+1. Put the lid back on and simmer on low for another 45-60 minutes until the potatoes are completely tender when pierced with a knife.
 1. Turn off the heat and let everything rest for 5 minutes with the lid on.
 1. Then, remove the lid, discard the cinnamon stick, and optionally scatter fresh coriander and parsley over the top.
 1. Serve directly from your tagine base alongside some crusty bread.
