@@ -140,7 +140,7 @@
 * mozzarella (fior di latte)
 * red banana chillies
 * kalamata olives
-# tomato slices
+* tomato slices
 * red onion
 * feta
 
