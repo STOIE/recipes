@@ -9,18 +9,16 @@ permissions:
 
 jobs:
   calculate:
-    # Only run on issues created with the flour-calculator label
     if: contains(github.event.issue.labels.*.name, 'flour-calculator')
     runs-on: ubuntu-latest
 
     steps:
-      - name: Calculate Ingredients and Post Comment
+      - name: Calculate Ingredients, Post Comment, and Close Issue
         uses: actions/github-script@v7
         with:
           script: |
             const body = context.payload.issue.body || '';
 
-            // GitHub Issue Forms render fields as "### Label\n\nValue"
             const unitMatch = body.match(/### Measurement Unit\s+([^\r\n]+)/);
             const amountMatch = body.match(/### Target Amount of Self-Raising Flour\s+([^\r\n]+)/);
 
@@ -30,6 +28,13 @@ jobs:
                 repo: context.repo.repo,
                 issue_number: context.issue.number,
                 body: '❌ **Error:** Could not parse the form fields. Please make sure you used the issue template without altering the headings.'
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'closed',
+                state_reason: 'not_planned'
               });
               return;
             }
@@ -43,6 +48,13 @@ jobs:
                 repo: context.repo.repo,
                 issue_number: context.issue.number,
                 body: `❌ **Invalid Amount:** \`${amountMatch[1].trim()}\` is not a valid positive number. Please open a new issue and enter a number like \`250\` or \`1.25\`.`
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'closed',
+                state_reason: 'not_planned'
               });
               return;
             }
@@ -70,21 +82,56 @@ jobs:
                 issue_number: context.issue.number,
                 body: `❌ **Invalid Unit:** \`${unit}\` is not supported. Please choose \`grams\` or \`cups\`.`
               });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'closed',
+                state_reason: 'not_planned'
+              });
               return;
             }
 
-            // Helper to round cleanly without trailing zeros
+            // Helper to round metric weights cleanly
             const fmt = (num, decimals = 2) => Number(num.toFixed(decimals));
 
-            // Calculate final values
+            // Helper to convert decimals to standard kitchen fractions (nearest 1/8th)
+            const toKitchenFraction = (val) => {
+              const whole = Math.floor(val);
+              const remainder = val - whole;
+              const eighths = Math.round(remainder * 8);
+
+              if (eighths === 0) {
+                return whole === 0 ? '0' : `${whole}`;
+              }
+              if (eighths === 8) {
+                return `${whole + 1}`;
+              }
+
+              // Simplify the fraction (e.g. 4/8 -> 1/2, 2/8 -> 1/4)
+              const gcd = (a, b) => (b === 0 ? a : gcd(b, a % b));
+              const divisor = gcd(eighths, 8);
+              const num = eighths / divisor;
+              const den = 8 / divisor;
+
+              const fracString = `${num}/${den}`;
+              const display = whole > 0 ? `${whole} ${fracString}` : fracString;
+
+              // Append exact decimal in brackets if the fraction was rounded
+              const exactDiff = Math.abs(val - (whole + eighths / 8));
+              return exactDiff > 0.005 ? `${display} (~${fmt(val, 2)})` : display;
+            };
+
+            // Calculate final weights
             const flourG = fmt(BASE_FLOUR_G * multiplier, 1);
             const bpG = fmt(BASE_BP_G * multiplier, 2);
             const saltG = fmt(BASE_SALT_G * multiplier, 2);
             const totalG = fmt(flourG + bpG + saltG, 1);
 
-            const flourCups = fmt(BASE_FLOUR_CUPS * multiplier, 2);
-            const bpTsp = fmt(BASE_BP_TSP * multiplier, 2);
-            const saltTsp = fmt(BASE_SALT_TSP * multiplier, 2);
+            // Calculate final volumes as kitchen fractions
+            const flourCupsFrac = toKitchenFraction(BASE_FLOUR_CUPS * multiplier);
+            const bpTspFrac = toKitchenFraction(BASE_BP_TSP * multiplier);
+            const saltTspFrac = toKitchenFraction(BASE_SALT_TSP * multiplier);
 
             // Build the response comment
             const commentBody = `### 🥣 Self-Raising Flour Recipe
@@ -92,21 +139,30 @@ jobs:
 
             | Ingredient | By Weight (Preferable) | By Volume |
             | :--- | :--- | :--- |
-            | **All-Purpose (Plain) Flour** | **${flourG} g** | ${flourCups} cups |
-            | **Baking Powder** | **${bpG} g** | ${bpTsp} tsp |
-            | **Fine Salt** | **${saltG} g** | ${saltTsp} tsp |
-            | **Total Yield** | **~${totalG} g** | ~${flourCups} cups |
+            | **All-Purpose (Plain) Flour** | **${flourG} g** | ${flourCupsFrac} cups |
+            | **Baking Powder** | **${bpG} g** | ${bpTspFrac} tsp |
+            | **Fine Salt** | **${saltG} g** | ${saltTspFrac} tsp |
+            | **Total Yield** | **~${totalG} g** | ~${flourCupsFrac} cups |
 
             #### Method
             1. Add the plain flour, baking powder, and fine salt to a mixing bowl.
             2. Whisk or sift thoroughly together so the baking powder and salt are evenly distributed throughout the flour.`;
 
-            // Fix indentation caused by template literal
             const cleanComment = commentBody.replace(/^ {12}/gm, '');
 
+            // Post the recipe comment
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
               body: cleanComment
+            });
+
+            // Close the issue as completed
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed',
+              state_reason: 'completed'
             });
