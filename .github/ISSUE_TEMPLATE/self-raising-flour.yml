@@ -1,0 +1,29 @@
+name: Self-Raising Flour Calculator
+description: Calculate the exact ingredients needed to make self-raising flour from plain flour, baking powder, and salt.
+title: "[Flour Calc] "
+labels: ["flour-calculator"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Enter the total amount of **self-raising flour** you need below. Once you submit this issue, a bot will automatically calculate your ingredients and post them in a comment.
+
+  - type: dropdown
+    id: unit
+    attributes:
+      label: Measurement Unit
+      description: Choose whether you want to measure by weight (preferable) or volume.
+      options:
+        - grams
+        - cups
+    validations:
+      required: true
+
+  - type: input
+    id: amount
+    attributes:
+      label: Target Amount of Self-Raising Flour
+      description: Enter a whole number or decimal (e.g., 250 or 1.25). Do not include letters or units.
+      placeholder: "250"
+    validations:
+      required: true
