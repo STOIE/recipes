@@ -1,0 +1,112 @@
+name: Calculate Self-Raising Flour
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  calculate:
+    # Only run on issues created with the flour-calculator label
+    if: contains(github.event.issue.labels.*.name, 'flour-calculator')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Calculate Ingredients and Post Comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || '';
+
+            // GitHub Issue Forms render fields as "### Label\n\nValue"
+            const unitMatch = body.match(/### Measurement Unit\s+([^\r\n]+)/);
+            const amountMatch = body.match(/### Target Amount of Self-Raising Flour\s+([^\r\n]+)/);
+
+            if (!unitMatch || !amountMatch) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: '❌ **Error:** Could not parse the form fields. Please make sure you used the issue template without altering the headings.'
+              });
+              return;
+            }
+
+            const unit = unitMatch[1].trim().toLowerCase();
+            const amount = parseFloat(amountMatch[1].trim());
+
+            if (isNaN(amount) || amount <= 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: `❌ **Invalid Amount:** \`${amountMatch[1].trim()}\` is not a valid positive number. Please open a new issue and enter a number like \`250\` or \`1.25\`.`
+              });
+              return;
+            }
+
+            // Base ratios (1 batch = 135.2g total weight or ~1 cup total volume)
+            const BASE_FLOUR_G = 125;
+            const BASE_BP_G = 7.2;
+            const BASE_SALT_G = 3;
+            const BASE_TOTAL_G = BASE_FLOUR_G + BASE_BP_G + BASE_SALT_G; // 135.2g
+
+            const BASE_FLOUR_CUPS = 1;
+            const BASE_BP_TSP = 1.5;
+            const BASE_SALT_TSP = 0.5;
+
+            // Calculate scaling multiplier
+            let multiplier = 0;
+            if (unit === 'grams') {
+              multiplier = amount / BASE_TOTAL_G;
+            } else if (unit === 'cups') {
+              multiplier = amount / BASE_FLOUR_CUPS;
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: `❌ **Invalid Unit:** \`${unit}\` is not supported. Please choose \`grams\` or \`cups\`.`
+              });
+              return;
+            }
+
+            // Helper to round cleanly without trailing zeros
+            const fmt = (num, decimals = 2) => Number(num.toFixed(decimals));
+
+            // Calculate final values
+            const flourG = fmt(BASE_FLOUR_G * multiplier, 1);
+            const bpG = fmt(BASE_BP_G * multiplier, 2);
+            const saltG = fmt(BASE_SALT_G * multiplier, 2);
+            const totalG = fmt(flourG + bpG + saltG, 1);
+
+            const flourCups = fmt(BASE_FLOUR_CUPS * multiplier, 2);
+            const bpTsp = fmt(BASE_BP_TSP * multiplier, 2);
+            const saltTsp = fmt(BASE_SALT_TSP * multiplier, 2);
+
+            // Build the response comment
+            const commentBody = `### 🥣 Self-Raising Flour Recipe
+            To make **${amount} ${unit}** of self-raising flour, combine the following ingredients:
+
+            | Ingredient | By Weight (Preferable) | By Volume |
+            | :--- | :--- | :--- |
+            | **All-Purpose (Plain) Flour** | **${flourG} g** | ${flourCups} cups |
+            | **Baking Powder** | **${bpG} g** | ${bpTsp} tsp |
+            | **Fine Salt** | **${saltG} g** | ${saltTsp} tsp |
+            | **Total Yield** | **~${totalG} g** | ~${flourCups} cups |
+
+            #### Method
+            1. Add the plain flour, baking powder, and fine salt to a mixing bowl.
+            2. Whisk or sift thoroughly together so the baking powder and salt are evenly distributed throughout the flour.`;
+
+            // Fix indentation caused by template literal
+            const cleanComment = commentBody.replace(/^ {12}/gm, '');
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: cleanComment
+            });
