@@ -3,6 +3,7 @@
 ##### Main
 
 * 1000 grams chicken thigh fillet, cut into medallions
+* 1 teaspoon fine salt
 * 1-1/2 tablespoons soy sauce
 * 2 tablespoons Shaoxing wine (or dry sherry)
 * 2 tablespoons cornflour
@@ -22,7 +23,6 @@
 * 1 tablespoon white vinegar
 * 2 teaspoons sugar
 * 1/2 cup chicken stock or water
-* 1 teaspoon fine salt
 
 
 #### Method
@@ -30,7 +30,7 @@
 1. Velvet the chicken by combining it with 1 tablespoon of baking soda (bi-carb) and letting it rest for 60 minutes, then rinse the chicken.
 1. Combine the sauce ingredients and set aside.
 1. Add a bit of cold water to the cornstarch and make a slurry.
-1. Combine the rinsed chicken with the soy sauce and shaoxing wine mix well to coat the chicken.
+1. Combine the rinsed chicken with the soy sauce, salt and shaoxing wine mix well to coat the chicken.
 1. Heat your wok and a decent amount of oil, start by frying the onion, tossing rapidly until lightly scorced, then remove and set aside.
 1. Next, fry the bull horn chillis (or capsicums), same process, then remove and set aside.
 1. Then ensure a decent little pool of oil is left in the bottom of the wok, else top it up and fry the chicken.
